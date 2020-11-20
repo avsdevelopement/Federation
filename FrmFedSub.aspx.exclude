@@ -1,0 +1,454 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="FrmFedSub.aspx.cs" Inherits="FrmFedSub" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Federation Subscription</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <style>
+        .gvwCasesPager a {
+            margin-left: 5px;
+            margin-right: 5px;
+        }
+    </style>
+
+</head>
+<body>
+
+
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+            <Triggers>
+                <asp:PostBackTrigger ControlID="TXTCNO" />
+            </Triggers>
+            <ContentTemplate>
+
+                <div class="container-fluid">
+                    <br />
+                    <div class="panel panel-primary">
+                        <div class="panel-heading" style="background-color: #4d88ff;">Federation Subscription</div>
+                        <div class="panel-body">
+                            <div class="row">
+                                <br />
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLCNO" runat="server" Text="Cust No"></asp:Label>
+                                </div>
+                                <div class="col-lg-2">
+                                    <asp:TextBox ID="TXTCNO" runat="server" Height="30px" Width="150px" placeholder="Cust. No." TextMode="Number" AutoPostBack="true"
+                                        OnTextChanged="TXTCNO_TextChanged"></asp:TextBox>
+                                </div>
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLCNAME" runat="server" Text="Cust Name"></asp:Label>
+                                </div>
+                                <div class="col-lg-4">
+                                    <asp:TextBox ID="TXTCNAME" runat="server" Height="30px" Width="400px" placeholder="Customer Name"></asp:TextBox>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLBAL" runat="server" Text="Balance"></asp:Label>
+                                </div>
+                                <div class="col-lg-3">
+                                    <asp:TextBox ID="TXTBAL3" runat="server" Height="30px" Width="150px"></asp:TextBox>
+                                </div>
+                            </div>
+                            <br />
+
+                            <div class="row">
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLPAYMOD" runat="server" Text="Pay Mode"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-2">
+                                    <asp:DropDownList ID="ddlPaymentMode" ClientIDMode="Static" AutoPostBack="true"
+                                        runat="server" OnSelectedIndexChanged="ddlPaymentMode_SelectedIndexChanged"
+                                        Width="80px" Height="30px">
+                                        <asp:ListItem Value="3" Selected="True">Cash</asp:ListItem>
+                                        <asp:ListItem Value="5">Cheque</asp:ListItem>
+                                        <asp:ListItem Value="7">Online</asp:ListItem>
+                                    </asp:DropDownList>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="Label1" runat="server" Text="Debit Prod Code"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-2">
+                                    <asp:TextBox ID="txtDSubGlCode" OnTextChanged="txtDSubGlCode_TextChanged" AutoPostBack="true"
+                                        runat="server" Height="30PX" Width="200px" placeholder="Debit Product Code"></asp:TextBox>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="Label2" runat="server" Text="Debit Prod Name"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="txtDProdName" Enabled="false" runat="server" Height="30PX" Width="370px" placeholder="Debit Product Name"></asp:TextBox>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row">
+
+                                <div id="instrumentDetails" runat="server">
+                                    <div class="col-lg-1">
+                                        <asp:Label ID="LBLCHNO" runat="server" Text="Cheque No"></asp:Label>
+                                    </div>
+
+                                    <div class="col-lg-3">
+                                        <asp:TextBox ID="Txtchno" ClientIDMode="Static" runat="server"
+                                            Height="30PX" Width="150px" MaxLength="6"
+                                            placeholder="Cheque Number"></asp:TextBox>
+                                    </div>
+
+                                    <div class="col-lg-1">
+                                        <asp:Label ID="Label3" runat="server" Text="Cheque Date"></asp:Label>
+                                    </div>
+
+                                    <div class="col-lg-3">
+                                        <asp:TextBox ID="txtChequeDate" ClientIDMode="Static" runat="server"
+                                            Height="30PX" Width="250px" TextMode="Date"
+                                            placeholder="Cheque Date"></asp:TextBox>
+                                    </div>
+                                    <br />
+                                    <br />
+
+                                    <div class="col-lg-1">
+                                        <asp:Label ID="Label4" runat="server" Text="Bank Code"></asp:Label>
+                                    </div>
+                                    <div class="col-lg-1">
+                                        <asp:TextBox ID="txtBankCode" ClientIDMode="Static" runat="server" OnTextChanged="txtBankCode_TextChanged" AutoPostBack="true"
+                                            Height="30PX" Width="120px"
+                                            placeholder="Bank Code"></asp:TextBox>
+                                    </div>
+                                    <div class="col-lg-3">
+                                        <asp:TextBox ID="txtBankName" ClientIDMode="Static" runat="server"
+                                            Height="30PX" Width="250px" Enabled="false"
+                                            placeholder="Bank Name"></asp:TextBox>
+                                    </div>
+                                    <br />
+                                    <br />
+
+                                    <div class="col-lg-1">
+                                        <asp:Label ID="Label5" runat="server" Text="Branch Code"></asp:Label>
+                                    </div>
+
+                                    <div class="col-lg-1">
+                                        <asp:TextBox ID="txtBranchCode" ClientIDMode="Static" runat="server" OnTextChanged="txtBranchCode_TextChanged" AutoPostBack="true"
+                                            Height="30PX" Width="120px"
+                                            placeholder="Branch Code"></asp:TextBox>
+                                    </div>
+                                    <div class="col-lg-3">
+                                        <asp:TextBox ID="txtBranchName" ClientIDMode="Static" runat="server"
+                                            Height="30PX" Width="250px" MaxLength="6" Enabled="false"
+                                            placeholder="Branch Name"></asp:TextBox>
+                                    </div>
+                                </div>
+
+
+
+
+                            </div>
+
+                            <br />
+
+                            <div class="row">
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLNAR" runat="server" Text="Narration"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-2">
+                                    <asp:TextBox ID="TXTNARR" runat="server" Height="30PX" Width="300px" placeholder="Narration"></asp:TextBox>
+                                </div>
+                            </div>
+
+                            <br />
+
+                            <div class="row">
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLGST" runat="server" Text="GST"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLPRCO" runat="server" Text="Prod Code"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-2">
+                                    <asp:Label ID="LBLPRNAME" runat="server" Text="Product Name"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLCGST" runat="server" Text="SGST"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLSGST" runat="server" Text="CGST"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLRATE" runat="server" Text="Rate"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLAMT" runat="server" Text="Amount"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLSGSTAMT" runat="server" Text="SGST Amt"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLCGSTAMT" runat="server" Text="CGST Amt"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLTGST" runat="server" Text="Total GST"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLTOTAL" runat="server" Text="Total"></asp:Label>
+                                </div>
+
+                            </div>
+                            <br />
+                            <div class="row">
+
+                                <div class="col-lg-1">
+                                    <asp:DropDownList ID="DDL1" runat="server" Height="30PX" AutoPostBack="true"
+                                        OnSelectedIndexChanged="DDL1_SelectedIndexChanged" Width="80px">
+                                        <asp:ListItem Value="Y">Yes</asp:ListItem>
+                                        <asp:ListItem Value="N" Selected="True">No</asp:ListItem>
+                                    </asp:DropDownList>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTPRC" OnTextChanged="TXTPRC_TextChanged" AutoPostBack="true"
+                                        runat="server" Height="30PX" Width="80px"></asp:TextBox>
+                                </div>
+
+
+                                <div class="col-lg-2">
+                                    <asp:TextBox ID="TXTPRNAME" Enabled="false" runat="server" Height="30PX" Width="210PX"></asp:TextBox>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTSGST" runat="server" Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTCGST" runat="server" Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+
+
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTRATE" runat="server" Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTAMT" TextMode="Number" runat="server" OnTextChanged="TXTAMT_TextChanged" AutoPostBack="true"
+                                        Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTSGSTAMT" runat="server" Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTCGSTAMT" runat="server" Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTTGST" runat="server" Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTTTL" runat="server" Height="30PX" Width="80PX">0</asp:TextBox>
+                                </div>
+                                <div class="col-lg-1">
+                                </div>
+
+                            </div>
+
+                            <br />
+                            <div class="row">
+
+                                <div class="col-lg-1">
+                                    <asp:DropDownList ID="DDL2" AutoPostBack="true" OnSelectedIndexChanged="DDL2_SelectedIndexChanged" runat="server" Height="30PX" Width="80px">
+                                        <asp:ListItem Value="Y">Yes</asp:ListItem>
+                                        <asp:ListItem Value="N" Selected="True">No</asp:ListItem>
+                                    </asp:DropDownList>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTPRCODE2" OnTextChanged="TXTPRCODE2_TextChanged"
+                                        AutoPostBack="true" runat="server" Height="30PX" Width="80px"></asp:TextBox>
+                                </div>
+
+
+                                <div class="col-lg-2">
+                                    <asp:TextBox ID="TXTPRNAME2" Enabled="false" runat="server" Height="30PX" Width="210px"></asp:TextBox>
+                                </div>
+
+
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTSGST2" runat="server" Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTCGST2" runat="server" Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTRATE2" runat="server" Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTAMT2" OnTextChanged="TXTAMT2_TextChanged" AutoPostBack="true" runat="server" Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTTTSGST2" runat="server" Height="30PX" Width="80px">0</asp:TextBox>
+                                </div>
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTTTCGST2" runat="server" Height="30PX" Width="80PX">0</asp:TextBox>
+                                </div>
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TTLGST2" runat="server" Height="30PX" Width="80PX">0</asp:TextBox>
+                                </div>
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TTLAMT2" runat="server" Height="30PX" Width="80PX">0</asp:TextBox>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row">
+                                <div class="col-lg-10">
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLAMT2" runat="server" Text="Amount"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTAMT3" runat="server" Height="30PX" Width="80PX">0</asp:TextBox>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row">
+                                <div class="col-lg-10">
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLSGST2" runat="server" Text="SGST"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTSGST3" runat="server" Height="30PX" Width="80PX">0</asp:TextBox>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row">
+                                <div class="col-lg-10">
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLCGST2" runat="server" Text="CGST"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTCGST3" runat="server" Height="30PX" Width="80PX">0</asp:TextBox>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row">
+                                <div class="col-lg-10">
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:Label ID="LBLGRTTL" runat="server" Text="Grand Total"></asp:Label>
+                                </div>
+
+                                <div class="col-lg-1">
+                                    <asp:TextBox ID="TXTGRTTL3" runat="server" Height="30PX" Width="80PX"></asp:TextBox>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-lg-5">
+                                </div>
+
+                                <asp:Button ID="BTNSUBMIT" runat="server" OnClick="BTNSUBMIT_Click" class="btn-primary" Text="Submit" Width="10%" Height="40px"
+                                    Style="font-size: 18px;" />
+                                &nbsp;&nbsp;&nbsp;&nbsp;
+                  <asp:Button ID="BTNCANCEL" runat="server" class="btn-primary" Text="Cancel" Width="10%" Height="40px" Style="font-size: 18px;" />
+                                &nbsp;&nbsp;&nbsp;&nbsp;
+                  <asp:Button ID="btnReport" runat="server" OnClick="btnReport_Click" class="btn-primary" Text="Statement" Width="10%" Height="40px" Style="font-size: 18px;" />
+
+
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <asp:GridView runat="server" ID="grdCustomerStatement"
+                                        AutoGenerateColumns="false" AllowPaging="true" OnPageIndexChanging="grdCustomerStatement_PageIndexChanging"
+                                        Width="100%" OnRowCommand="grdCustomerStatement_RowCommand">
+                                        <PagerStyle CssClass="gvwCasesPager" />
+                                        <Columns>
+                                            <asp:BoundField DataField="SRNO" HeaderText="SRNO" />
+                                            <asp:BoundField DataField="ENTRYDATE" HeaderText="ENTRYDATE" />
+                                            <asp:BoundField DataField="BRCD" HeaderText="BRCD" />
+                                            <asp:BoundField DataField="SUBGLCODE" HeaderText="SUBGLCODE" />
+                                            <asp:BoundField DataField="ACCNO" HeaderText="ACCNO" />
+                                            <asp:BoundField DataField="PARTICULARS" HeaderText="PARTICULARS" />
+                                            <asp:BoundField DataField="DEBIT" HeaderText="DEBIT" />
+                                            <asp:BoundField DataField="CREDIT" HeaderText="CREDIT" />
+                                            <asp:BoundField DataField="BAL" HeaderText="BAL" />
+                                            <asp:TemplateField>
+                                                <ItemTemplate>
+                                                    <asp:LinkButton ID="lnkRemove" Text="Receipt" runat="server" CommandName="Select" CommandArgument='<%# Eval("ID") %>' />
+                                                </ItemTemplate>
+
+                                            </asp:TemplateField>
+
+
+                                        </Columns>
+                                    </asp:GridView>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </ContentTemplate>
+
+        </asp:UpdatePanel>
+        <%-- <script>
+
+            function pageLoad(sender, args) {
+                var dropdownEvent = document.querySelector("#ddlPaymentMode");
+                dropdownEvent.addEventListener('change', function (val) {
+                    if (ddlPaymentMode.value === "5") {
+                        document.getElementById("instrumentDetails").style.display = "block";
+                        document.getElementById('Txtchno').focus();
+                    }
+                    else {
+                        document.getElementById("instrumentDetails").style.display = "none";
+
+                    }
+                });
+            }
+
+        </script>--%>
+    </form>
+
+
+</body>
+</html>

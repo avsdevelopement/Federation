@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Body>
+    <ReportItems>
+      <Textbox Name="Textbox1">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>       T;kvfFkZ ;’kkseafnj lgdkjh iris&lt;h e;kZfnr us</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>1½ fnok.kh U;k;ky;kus fnok.kh eqdknek dz-&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@o"kZ@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; fnukad &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; e/;s fnysyk gqdweukek vFkok vkns’k</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <LeftIndent>0.375in</LeftIndent>
+            <RightIndent>0.325in</RightIndent>
+            <HangingIndent>-27pt</HangingIndent>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>2½ fuca/kd]lgfuca/kd]mifuca/kd]lgk¸;d fuca/kd lgdkjh </Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value>laLFkk&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@_.kdks</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>Underline</TextDecoration>
+                  <Color>Blue</Color>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value> ifj’kks/kd ;’kkseafnj lgdkjh iris&lt;h fdaok lgdkj U;k;ky;] lgdkjh vfiy U;k;ky;kus fnysys </Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value>vokMZ@vkns’k@fu.kZ</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>Underline</TextDecoration>
+                  <Color>Blue</Color>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value>; dzekad &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@o"kZ&amp;&amp;&amp;&amp;&amp; fnukad &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <LeftIndent>0.375in</LeftIndent>
+            <RightIndent>0.325in</RightIndent>
+            <HangingIndent>-27pt</HangingIndent>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>3½  fuca/kd]lgfuca/kd]mifuca/kd]lgk¸;d fuca/kd lgdkjh laLFkk &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; ;kauh fnysyk nk[kyk dz-&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; o"kZ &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; fnuakd &amp;&amp;&amp;&amp;&amp;&amp;&amp;</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <LeftIndent>0.375in</LeftIndent>
+            <RightIndent>0.325in</RightIndent>
+            <HangingIndent>-27pt</HangingIndent>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value />
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <LeftIndent>0.375in</LeftIndent>
+            <RightIndent>0.325in</RightIndent>
+            <HangingIndent>-27pt</HangingIndent>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>       ‘;kr fufnZ"V dsysyh jDde egkjk"Vª lgdkjh laLFkk vf/kfu;e 1960 ps dye 156 izek.ks olqyhlkBh vtZ dsysyk vkgs- vkf.k T;kvFkhZ mijksDr gqdweukek@vkns’k@vokMZ@ nk[kyk T;kapsfo:/n feGkysyk vkgs- R;k Jh-@Jhe-&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; ;kauh gqdweukek@vokMZ@nk[kyk T;kapsfo:/n feGkysyk vkgs- R;k Jh-@Jhe-&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; ;kauh gqdweukek@vkns’k@vokMZ@vkns’kkuqlkj [kkyhy rif’kykuqlkj jDde vtkZP;k rkj[ksi;Zar Hkjysyh ukgh-</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <RightIndent>0.325in</RightIndent>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value />
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>       fnukad         &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>       eqn~ny &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>       ljGO;kt      &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;  fn------------------------ v[ksj</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>       brj           &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value xml:space="preserve">       </Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value>ljpktZ        &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>Underline</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value xml:space="preserve">       </Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value>,dw.k         &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>Underline</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>       ;kLro Jh-&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; ;kal uksVhl ns.;kr ;srs dh] R;kauh mijksDr rif’kykuqlkj gks.kkjh jDde :-&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; gqdweukE;kph vokMZ@vkns’kkrhy eqn~ny jDde     :--------------------- oj n-lk-n-’ks-&amp;&amp;&amp;&amp; VDds izek.ks fnukad---------------------iklwu iw.kZ olqyh gksbZi;Zr gks.kkjs O;kt fn-&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; jksth vFkok rRiwohZ lkslk;VhdMs Hkjkoh] rls dj.;kr dlqj dsY;kl rqeP;kfo:/n fu;e 107 pk mifu;e 4@ fu;e 98 izek.ks dkjokbZ dj.;kr ;sbZy vkf.k olqyhlkBh   dz-156 uqlkj ctko.kh dkeh gks.kkjk [kpZgh rqepsdMwu olqy dsyk tkbZy-</Value>
+                <Style>
+                  <FontStyle>Normal</FontStyle>
+                  <FontFamily>DevLys 050</FontFamily>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Normal</FontWeight>
+                  <TextDecoration>None</TextDecoration>
+                  <Color>#000000</Color>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <RightIndent>0.2in</RightIndent>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>0.95708in</Top>
+        <Left>0.24875in</Left>
+        <Height>7.50125in</Height>
+        <Width>6.03125in</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+    </ReportItems>
+    <Height>9.16667in</Height>
+    <Style />
+  </Body>
+  <Width>6.5in</Width>
+  <Page>
+    <LeftMargin>1in</LeftMargin>
+    <RightMargin>1in</RightMargin>
+    <TopMargin>1in</TopMargin>
+    <BottomMargin>1in</BottomMargin>
+    <Style />
+  </Page>
+  <AutoRefresh>0</AutoRefresh>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>4cb0a42e-e7c4-4746-854c-3124013b7c88</rd:ReportID>
+</Report>

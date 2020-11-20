@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RptPLExpenses_WithMarathi" targetNamespace="http://tempuri.org/RptPLExpenses_WithMarathi.xsd" xmlns:mstns="http://tempuri.org/RptPLExpenses_WithMarathi.xsd" xmlns="http://tempuri.org/RptPLExpenses_WithMarathi.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RptPLExpenses_WithMarathi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="RptPLExpenses_WithMarathi" msprop:Generator_DataSetName="RptPLExpenses_WithMarathi">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RecID" msprop:Generator_ColumnVarNameInTable="columnRecID" msprop:Generator_ColumnPropNameInRow="RecID" msprop:Generator_ColumnPropNameInTable="RecIDColumn" msprop:Generator_UserColumnName="RecID" type="xs:string" minOccurs="0" />
+              <xs:element name="RecGl" msprop:Generator_ColumnVarNameInTable="columnRecGl" msprop:Generator_ColumnPropNameInRow="RecGl" msprop:Generator_ColumnPropNameInTable="RecGlColumn" msprop:Generator_UserColumnName="RecGl" type="xs:string" minOccurs="0" />
+              <xs:element name="RecSubgl" msprop:Generator_ColumnVarNameInTable="columnRecSubgl" msprop:Generator_ColumnPropNameInRow="RecSubgl" msprop:Generator_ColumnPropNameInTable="RecSubglColumn" msprop:Generator_UserColumnName="RecSubgl" type="xs:string" minOccurs="0" />
+              <xs:element name="RecAmt" msprop:Generator_ColumnVarNameInTable="columnRecAmt" msprop:Generator_ColumnPropNameInRow="RecAmt" msprop:Generator_ColumnPropNameInTable="RecAmtColumn" msprop:Generator_UserColumnName="RecAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="RecClBal" msprop:Generator_ColumnVarNameInTable="columnRecClBal" msprop:Generator_ColumnPropNameInRow="RecClBal" msprop:Generator_ColumnPropNameInTable="RecClBalColumn" msprop:Generator_UserColumnName="RecClBal" type="xs:string" minOccurs="0" />
+              <xs:element name="RecGlName" msprop:Generator_ColumnVarNameInTable="columnRecGlName" msprop:Generator_ColumnPropNameInRow="RecGlName" msprop:Generator_ColumnPropNameInTable="RecGlNameColumn" msprop:Generator_UserColumnName="RecGlName" type="xs:string" minOccurs="0" />
+              <xs:element name="RecGlName_M" msprop:Generator_ColumnVarNameInTable="columnRecGlName_M" msprop:Generator_ColumnPropNameInRow="RecGlName_M" msprop:Generator_ColumnPropNameInTable="RecGlName_MColumn" msprop:Generator_UserColumnName="RecGlName_M" type="xs:string" minOccurs="0" />
+              <xs:element name="PayID" msprop:Generator_ColumnVarNameInTable="columnPayID" msprop:Generator_ColumnPropNameInRow="PayID" msprop:Generator_ColumnPropNameInTable="PayIDColumn" msprop:Generator_UserColumnName="PayID" type="xs:string" minOccurs="0" />
+              <xs:element name="PayGl" msprop:Generator_ColumnVarNameInTable="columnPayGl" msprop:Generator_ColumnPropNameInRow="PayGl" msprop:Generator_ColumnPropNameInTable="PayGlColumn" msprop:Generator_UserColumnName="PayGl" type="xs:string" minOccurs="0" />
+              <xs:element name="PaySubgl" msprop:Generator_ColumnVarNameInTable="columnPaySubgl" msprop:Generator_ColumnPropNameInRow="PaySubgl" msprop:Generator_ColumnPropNameInTable="PaySubglColumn" msprop:Generator_UserColumnName="PaySubgl" type="xs:string" minOccurs="0" />
+              <xs:element name="PayAmt" msprop:Generator_ColumnVarNameInTable="columnPayAmt" msprop:Generator_ColumnPropNameInRow="PayAmt" msprop:Generator_ColumnPropNameInTable="PayAmtColumn" msprop:Generator_UserColumnName="PayAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="PayClBal" msprop:Generator_ColumnVarNameInTable="columnPayClBal" msprop:Generator_ColumnPropNameInRow="PayClBal" msprop:Generator_ColumnPropNameInTable="PayClBalColumn" msprop:Generator_UserColumnName="PayClBal" type="xs:string" minOccurs="0" />
+              <xs:element name="PayGlName" msprop:Generator_ColumnVarNameInTable="columnPayGlName" msprop:Generator_ColumnPropNameInRow="PayGlName" msprop:Generator_ColumnPropNameInTable="PayGlNameColumn" msprop:Generator_UserColumnName="PayGlName" type="xs:string" minOccurs="0" />
+              <xs:element name="PayGlName_M" msprop:Generator_ColumnVarNameInTable="columnPayGlName_M" msprop:Generator_ColumnPropNameInRow="PayGlName_M" msprop:Generator_ColumnPropNameInTable="PayGlName_MColumn" msprop:Generator_UserColumnName="PayGlName_M" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

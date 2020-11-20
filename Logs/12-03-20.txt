@@ -1,0 +1,600 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/03/2020 12:53:12 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 12:53:12 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  12/03/2020 12:59:21 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 12:59:21 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51174.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: TxtVenderName_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  12/03/2020 12:59:46 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 12:59:46 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51174.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  12/03/2020 1:01:35 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:01:35 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51175.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: txtProductNAme_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  12/03/2020 1:01:40 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:01:40 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51175.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: txtProductNAme_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  12/03/2020 1:02:02 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:02:02 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51175.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SP_DEEDSTOCK_WEBSERVICE'.-----------------
+-----------Exception Details on  12/03/2020 1:02:21 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:02:21 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_DEEDSTOCK_WEBSERVICE'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/03/2020 1:02:21 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:02:21 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: txtProductName_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SP_DEEDSTOCK_WEBSERVICE'.-----------------
+-----------Exception Details on  12/03/2020 1:02:21 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:02:21 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_DEEDSTOCK_WEBSERVICE'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/03/2020 1:02:21 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:02:21 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: txtProductName_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SP_DEEDSTOCK_WEBSERVICE'.-----------------
+-----------Exception Details on  12/03/2020 1:02:24 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:02:24 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_DEEDSTOCK_WEBSERVICE'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/03/2020 1:02:24 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:02:24 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: txtProductName_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SP_DEEDSTOCK_WEBSERVICE'.-----------------
+-----------Exception Details on  12/03/2020 1:02:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:02:25 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_DEEDSTOCK_WEBSERVICE'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/03/2020 1:02:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:02:25 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: txtProductName_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/03/2020 1:05:16 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:05:16 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/03/2020 1:06:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:06:58 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  12/03/2020 1:07:27 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:07:27 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  12/03/2020 1:07:39 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 1:07:39 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51174.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/03/2020 2:50:52 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 2:50:52 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/03/2020 3:24:11 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 3:24:11 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  12/03/2020 3:34:10 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 3:34:10 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51174.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  12/03/2020 3:34:36 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 3:34:36 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: txtProductName_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/03/2020 4:28:13 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 4:28:13 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: txtProductName_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/03/2020 4:28:13 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/03/2020 4:28:13 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmAVS51177.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: txtProductName_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,804 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 11:33:15 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 11:33:15 a.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 11:35:11 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 11:35:11 a.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Incorrect syntax near the keyword 'DISTINCT'.-----------------
+-----------Exception Details on  6/08/2020 11:35:41 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 11:35:41 a.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&CASENO=6&CASEY=19-20&UserName=AVSINSOTECH&EDT=26/09/2019&BRCD=2&FN=R&rptname=RPTSTATEMENTACCREC.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near the keyword 'DISTINCT'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Incorrect syntax near the keyword 'DISTINCT'.-----------------
+-----------Exception Details on  6/08/2020 11:36:30 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 11:36:30 a.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&CASENO=6&CASEY=19-20&UserName=AVSINSOTECH&EDT=26/09/2019&BRCD=2&FN=R&rptname=RPTSTATEMENTACCREC.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near the keyword 'DISTINCT'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 12:07:19 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 12:07:19 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  6/08/2020 1:02:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 1:02:25 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  6/08/2020 1:06:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 1:06:25 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  6/08/2020 1:42:09 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 1:42:09 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx?encrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=346
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  6/08/2020 1:42:10 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 1:42:10 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx?encrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=346
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  6/08/2020 1:42:26 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 1:42:26 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmAVS51203.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 1:42:31 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 1:42:31 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  6/08/2020 1:46:52 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 1:46:52 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=346
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 1:46:59 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 1:46:59 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.-----------------
+-----------Exception Details on  6/08/2020 1:47:57 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 1:47:57 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=23
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.-----------------
+-----------Exception Details on  6/08/2020 1:48:04 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 1:48:04 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=23
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  6/08/2020 3:04:45 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 3:04:45 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=35
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 3:05:23 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 3:05:23 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVSM_202008'.-----------------
+-----------Exception Details on  6/08/2020 3:08:55 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 3:08:55 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=35
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVSM_202008'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVSM_202008'.-----------------
+-----------Exception Details on  6/08/2020 3:09:06 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 3:09:06 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=35
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVSM_202008'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 3:25:18 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 3:25:18 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 3:58:52 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 3:58:52 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  6/08/2020 4:39:20 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 4:39:20 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=35
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 4:39:27 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 4:39:27 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 6:05:02 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 6:05:02 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_COSTOFPROCESSMonthRPT' expects parameter '@STAGE1', which was not supplied.-----------------
+-----------Exception Details on  6/08/2020 6:11:37 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 6:11:37 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmavs51212.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_COSTOFPROCESSMonthRPT' expects parameter '@STAGE1', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_COSTOFPROCESSMonthRPT' expects parameter '@STAGE1', which was not supplied.-----------------
+-----------Exception Details on  6/08/2020 6:11:44 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 6:11:44 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmavs51212.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_COSTOFPROCESSMonthRPT' expects parameter '@STAGE1', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_COSTOFPROCESSMonthRPT' expects parameter '@STAGE1', which was not supplied.-----------------
+-----------Exception Details on  6/08/2020 6:12:02 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 6:12:02 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmavs51212.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_COSTOFPROCESSMonthRPT' expects parameter '@STAGE1', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 6:12:16 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 6:12:16 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_COSTOFPROCESSMonthRPT' expects parameter '@STAGE1', which was not supplied.-----------------
+-----------Exception Details on  6/08/2020 6:13:14 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 6:13:14 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmavs51212.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_COSTOFPROCESSMonthRPT' expects parameter '@STAGE1', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_COSTOFPROCESSMonthRPT' expects parameter '@STAGE1', which was not supplied.-----------------
+-----------Exception Details on  6/08/2020 6:14:21 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 6:14:21 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/frmavs51212.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_COSTOFPROCESSMonthRPT' expects parameter '@STAGE1', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 6:15:55 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 6:15:55 p.m.
+
+Error Line No : http://localhost:51780/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  6/08/2020 7:00:11 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 6/08/2020 7:00:11 p.m.
+
+Error Line No : http://localhost:62167/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

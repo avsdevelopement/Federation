@@ -1,0 +1,100 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  11/06/2019 6:31:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/06/2019 6:31:48 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Transaction (Process ID 250) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.-----------------
+-----------Exception Details on  11/06/2019 6:34:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/06/2019 6:34:42 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmShareDividend.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Transaction (Process ID 250) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  11/06/2019 6:44:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/06/2019 6:44:52 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmShareDividend.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: Lnk_ClickView_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  11/06/2019 6:44:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/06/2019 6:44:56 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmShareDividend.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: Lnk_ClickView_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

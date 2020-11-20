@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="rptSavingIntCalculation" targetNamespace="http://tempuri.org/rptSavingIntCalculation.xsd" xmlns:mstns="http://tempuri.org/rptSavingIntCalculation.xsd" xmlns="http://tempuri.org/rptSavingIntCalculation.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="rptSavingIntCalculation" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="rptSavingIntCalculation" msprop:Generator_UserDSName="rptSavingIntCalculation">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:string" minOccurs="0" />
+              <xs:element name="Brcd" msprop:Generator_ColumnVarNameInTable="columnBrcd" msprop:Generator_ColumnPropNameInRow="Brcd" msprop:Generator_ColumnPropNameInTable="BrcdColumn" msprop:Generator_UserColumnName="Brcd" type="xs:string" minOccurs="0" />
+              <xs:element name="Accno" msprop:Generator_ColumnVarNameInTable="columnAccno" msprop:Generator_ColumnPropNameInRow="Accno" msprop:Generator_ColumnPropNameInTable="AccnoColumn" msprop:Generator_UserColumnName="Accno" type="xs:string" minOccurs="0" />
+              <xs:element name="Custno" msprop:Generator_ColumnVarNameInTable="columnCustno" msprop:Generator_ColumnPropNameInRow="Custno" msprop:Generator_ColumnPropNameInTable="CustnoColumn" msprop:Generator_UserColumnName="Custno" type="xs:string" minOccurs="0" />
+              <xs:element name="Custname" msprop:Generator_ColumnVarNameInTable="columnCustname" msprop:Generator_ColumnPropNameInRow="Custname" msprop:Generator_ColumnPropNameInTable="CustnameColumn" msprop:Generator_UserColumnName="Custname" type="xs:string" minOccurs="0" />
+              <xs:element name="Subglcode" msprop:Generator_ColumnVarNameInTable="columnSubglcode" msprop:Generator_ColumnPropNameInRow="Subglcode" msprop:Generator_ColumnPropNameInTable="SubglcodeColumn" msprop:Generator_UserColumnName="Subglcode" type="xs:string" minOccurs="0" />
+              <xs:element name="Edt" msprop:Generator_ColumnVarNameInTable="columnEdt" msprop:Generator_ColumnPropNameInRow="Edt" msprop:Generator_ColumnPropNameInTable="EdtColumn" msprop:Generator_UserColumnName="Edt" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate" msprop:Generator_ColumnVarNameInTable="columnRate" msprop:Generator_ColumnPropNameInRow="Rate" msprop:Generator_ColumnPropNameInTable="RateColumn" msprop:Generator_UserColumnName="Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Closing" msprop:Generator_ColumnVarNameInTable="columnClosing" msprop:Generator_ColumnPropNameInRow="Closing" msprop:Generator_ColumnPropNameInTable="ClosingColumn" msprop:Generator_UserColumnName="Closing" type="xs:string" minOccurs="0" />
+              <xs:element name="IntAmt" msprop:Generator_ColumnVarNameInTable="columnIntAmt" msprop:Generator_ColumnPropNameInRow="IntAmt" msprop:Generator_ColumnPropNameInTable="IntAmtColumn" msprop:Generator_UserColumnName="IntAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="Daydiff" msprop:Generator_ColumnVarNameInTable="columnDaydiff" msprop:Generator_ColumnPropNameInRow="Daydiff" msprop:Generator_ColumnPropNameInTable="DaydiffColumn" msprop:Generator_UserColumnName="Daydiff" type="xs:string" minOccurs="0" />
+              <xs:element name="FDate" msprop:Generator_ColumnVarNameInTable="columnFDate" msprop:Generator_ColumnPropNameInRow="FDate" msprop:Generator_ColumnPropNameInTable="FDateColumn" msprop:Generator_UserColumnName="FDate" type="xs:string" minOccurs="0" />
+              <xs:element name="TDate" msprop:Generator_ColumnVarNameInTable="columnTDate" msprop:Generator_ColumnPropNameInRow="TDate" msprop:Generator_ColumnPropNameInTable="TDateColumn" msprop:Generator_UserColumnName="TDate" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

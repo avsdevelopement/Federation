@@ -1,0 +1,225 @@
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  27/09/2019 11:37:56-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27/09/2019 11:37:56
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmODList.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  27/09/2019 11:37:59-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27/09/2019 11:37:59
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  27/09/2019 11:44:51-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27/09/2019 11:44:51
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAVS51182.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  27/09/2019 11:44:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27/09/2019 11:44:55
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  27/09/2019 04:12:48-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27/09/2019 04:12:48
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  27/09/2019 04:28:45-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27/09/2019 04:28:45
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  27/09/2019 04:49:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27/09/2019 04:49:00
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  27/09/2019 06:21:53-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27/09/2019 06:21:53
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'REF' does not belong to table .-----------------
+-----------Exception Details on  27/09/2019 06:22:06-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27/09/2019 06:22:06
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmDashBoard.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'REF' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

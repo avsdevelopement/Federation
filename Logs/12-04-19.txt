@@ -1,0 +1,75 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/04/2019 6:14:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/04/2019 6:14:28 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'S3Inst'.-----------------
+-----------Exception Details on  12/04/2019 6:27:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/04/2019 6:27:07 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmRecoveryPosting.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'S3Inst'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/04/2019 6:34:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/04/2019 6:34:30 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,6 @@
+
+if not exists (Select 1 from Parameter where LISTFIELD='CHECK_COMMREPORT' and BRCD='1')
+Begin
+	Insert into PARAMETER(LISTFIELD,LISTVALUE,BRCD,MID,CID,VID,STAGE,TIME,PCMAC)
+	Values('CHECK_COMMREPORT','Y','1','8','0','0','1003',getdate(),'AVS-PC10')
+End

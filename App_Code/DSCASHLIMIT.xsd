@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSCASHLIMIT" targetNamespace="http://tempuri.org/DSCASHLIMIT.xsd" xmlns:mstns="http://tempuri.org/DSCASHLIMIT.xsd" xmlns="http://tempuri.org/DSCASHLIMIT.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSCASHLIMIT" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSCASHLIMIT" msprop:Generator_UserDSName="DSCASHLIMIT">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EDATE" msprop:Generator_ColumnVarNameInTable="columnEDATE" msprop:Generator_ColumnPropNameInRow="EDATE" msprop:Generator_ColumnPropNameInTable="EDATEColumn" msprop:Generator_UserColumnName="EDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="BALANCE" msprop:Generator_ColumnVarNameInTable="columnBALANCE" msprop:Generator_ColumnPropNameInRow="BALANCE" msprop:Generator_ColumnPropNameInTable="BALANCEColumn" msprop:Generator_UserColumnName="BALANCE" type="xs:string" minOccurs="0" />
+              <xs:element name="CASHLIMIT" msprop:Generator_ColumnVarNameInTable="columnCASHLIMIT" msprop:Generator_ColumnPropNameInRow="CASHLIMIT" msprop:Generator_ColumnPropNameInTable="CASHLIMITColumn" msprop:Generator_UserColumnName="CASHLIMIT" type="xs:string" minOccurs="0" />
+              <xs:element name="EXCESS" msprop:Generator_ColumnVarNameInTable="columnEXCESS" msprop:Generator_ColumnPropNameInRow="EXCESS" msprop:Generator_ColumnPropNameInTable="EXCESSColumn" msprop:Generator_UserColumnName="EXCESS" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

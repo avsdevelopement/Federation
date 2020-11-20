@@ -1,0 +1,2917 @@
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  19/09/2019 11:56:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:56:55
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 11:57:52-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:57:52
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 11:58:05-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:58:05
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 11:58:27-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:58:27
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 11:58:27-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:58:27
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 11:58:27-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:58:27
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 11:58:34-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:58:34
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 11:58:56-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:58:56
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 11:58:59-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:58:59
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 11:59:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:59:00
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 11:59:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:59:30
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 11:59:39-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:59:39
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 11:59:39-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:59:39
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 11:59:39-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 11:59:39
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 12:57:52-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 12:57:52
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 12:58:01-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 12:58:01
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 12:58:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 12:58:02
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 12:58:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 12:58:02
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 12:58:18-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 12:58:18
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 12:58:52-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 12:58:52
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 12:59:04-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 12:59:04
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 12:59:04-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 12:59:04
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 12:59:04-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 12:59:04
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 01:00:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:00:00
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 01:00:07-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:00:07
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 01:00:08-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:00:08
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 01:00:08-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:00:08
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 01:00:23-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:00:23
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 01:00:31-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:00:31
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 01:00:31-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:00:31
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 01:00:31-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:00:31
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 01:01:48-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:01:48
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 01:01:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:01:54
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 01:01:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:01:54
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 01:01:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:01:54
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 01:02:17-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:02:17
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 01:02:28-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:02:28
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 01:02:28-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:02:28
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 01:02:28-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:02:28
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  19/09/2019 01:30:01-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 01:30:01
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 02:35:21-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 02:35:21
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 02:37:19-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 02:37:19
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 02:39:16-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 02:39:16
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 03:17:38-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:17:38
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 03:17:48-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:17:48
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  19/09/2019 03:20:47-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:20:47
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 03:20:51-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:20:51
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 03:21:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:21:02
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  19/09/2019 03:22:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:22:30
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  19/09/2019 03:22:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:22:30
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  19/09/2019 03:27:50-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:27:50
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 03:32:09-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:32:09
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 03:32:17-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:32:17
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MM'.-----------------
+-----------Exception Details on  19/09/2019 03:32:58-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:32:58
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MM'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.
+Insert into #AVSB	
+								(BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD)
+								Select BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSB_201909 Where BrCd = 4 And Trxtype = '3' and stage <> '1004' 
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+								Union All
+								Select AID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSM_201909 Where BrCd = 4 And ENTRYDATE <= '2019-09-16' And Trxtype <> '3' And stage <> '1004'
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+In Specific
+All Customer 
+Cnn		:284
+Custno		:407
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Only accounts-----------------
+-----------Exception Details on  19/09/2019 03:33:42-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:33:42
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+Insert into #AVSB	
+								(BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD)
+								Select BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSB_201909 Where BrCd = 4 And Trxtype = '3' and stage <> '1004' 
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+								Union All
+								Select AID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSM_201909 Where BrCd = 4 And ENTRYDATE <= '2019-09-16' And Trxtype <> '3' And stage <> '1004'
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+In Specific
+All Customer 
+Cnn		:284
+Custno		:407
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Only accounts
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.
+Insert into #AVSB	
+								(BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD)
+								Select BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSB_201909 Where BrCd = 4 And Trxtype = '3' and stage <> '1004' 
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+								Union All
+								Select AID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSM_201909 Where BrCd = 4 And ENTRYDATE <= '2019-09-16' And Trxtype <> '3' And stage <> '1004'
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+In Specific
+Single Customer
+Cnn		:1
+Custno		:1659
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Only accounts-----------------
+-----------Exception Details on  19/09/2019 03:36:43-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:36:43
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+Insert into #AVSB	
+								(BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD)
+								Select BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSB_201909 Where BrCd = 4 And Trxtype = '3' and stage <> '1004' 
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+								Union All
+								Select AID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSM_201909 Where BrCd = 4 And ENTRYDATE <= '2019-09-16' And Trxtype <> '3' And stage <> '1004'
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+In Specific
+Single Customer
+Cnn		:1
+Custno		:1659
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='1659'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Only accounts
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MM'.-----------------
+-----------Exception Details on  19/09/2019 03:37:23-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:37:23
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MM'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  19/09/2019 03:38:01-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:38:01
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 03:38:05-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:38:05
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 03:38:15-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:38:15
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MM'.-----------------
+-----------Exception Details on  19/09/2019 03:38:46-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:38:46
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MM'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.
+Insert into #AVSB	
+								(BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD)
+								Select BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSB_201909 Where BrCd = 4 And Trxtype = '3' and stage <> '1004' 
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+								Union All
+								Select AID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSM_201909 Where BrCd = 4 And ENTRYDATE <= '2019-09-16' And Trxtype <> '3' And stage <> '1004'
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+In Specific
+All Customer 
+Cnn		:284
+Custno		:407
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Only accounts-----------------
+-----------Exception Details on  19/09/2019 03:39:14-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:39:14
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+Insert into #AVSB	
+								(BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD)
+								Select BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSB_201909 Where BrCd = 4 And Trxtype = '3' and stage <> '1004' 
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+								Union All
+								Select AID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSM_201909 Where BrCd = 4 And ENTRYDATE <= '2019-09-16' And Trxtype <> '3' And stage <> '1004'
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+In Specific
+All Customer 
+Cnn		:284
+Custno		:407
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='201'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Loan
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=9
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=8
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+insert into #T1
+													Select isnull(R_Inst,0) from AVS_DEDTRANX
+													where mm=7
+													and YYYY=2019
+													and RECDIV='1'
+													and RECCODE='99'
+													and CUSTNO='407'
+													and SUBGLCODE='202'
+													and STATUS='1'
+													and STAGE<>'1004'
+SumInsts1		:0.00
+10.5
+0.00
+Into Only accounts
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/09/2019 03:56:37-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:56:37
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 03:56:49-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:56:49
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 03:58:21-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:58:21
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 03:58:21-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:58:21
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 03:58:21-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:58:21
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 03:58:52-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:58:52
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 03:58:52-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:58:52
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 03:58:52-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:58:52
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 03:59:06-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 03:59:06
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 04:01:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:01:35
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:01:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:01:35
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:01:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:01:35
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 04:03:19-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:03:19
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 04:03:28-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:03:28
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:03:28-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:03:28
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:03:28-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:03:28
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 04:03:34-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:03:34
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:03:34-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:03:34
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:03:34-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:03:34
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 04:04:21-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:04:21
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 04:04:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:04:30
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:04:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:04:30
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:04:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:04:30
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 04:05:44-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:05:44
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 04:05:51-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:05:51
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:05:51-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:05:51
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:05:51-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:05:51
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 04:06:23-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:06:23
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 04:06:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:06:30
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:06:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:06:30
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:06:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:06:30
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  19/09/2019 04:06:42-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:06:42
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SB_AccIntCalculation'.-----------------
+-----------Exception Details on  19/09/2019 04:06:48-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:06:48
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SB_AccIntCalculation'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:06:48-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:06:48
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruStockMaster'.-----------------
+-----------Exception Details on  19/09/2019 04:06:48-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/09/2019 04:06:48
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruStockMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

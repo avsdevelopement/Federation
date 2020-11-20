@@ -1,0 +1,281 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/06/2019 4:48:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/06/2019 4:48:32 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  There is no row at position 0.-----------------
+-----------Exception Details on  20/06/2019 4:49:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/06/2019 4:49:13 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: GetNodeByIndex
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/06/2019 4:51:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/06/2019 4:51:11 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Insertion index was out of range. Must be non-negative and less than or equal to size.
+Parameter name: index-----------------
+-----------Exception Details on  20/06/2019 5:45:19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/06/2019 5:45:19 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmDashBoard.aspx
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Insertion index was out of range. Must be non-negative and less than or equal to size.
+Parameter name: index
+
+ Error Page Url: Insert
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Insertion index was out of range. Must be non-negative and less than or equal to size.
+Parameter name: index-----------------
+-----------Exception Details on  20/06/2019 5:45:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/06/2019 5:45:24 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmDashBoard.aspx
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Insertion index was out of range. Must be non-negative and less than or equal to size.
+Parameter name: index
+
+ Error Page Url: Insert
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Insertion index was out of range. Must be non-negative and less than or equal to size.
+Parameter name: index-----------------
+-----------Exception Details on  20/06/2019 5:46:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/06/2019 5:46:14 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmDashBoard.aspx?FrmDashBoard.aspx?encrypt=&Flag=LNM
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Insertion index was out of range. Must be non-negative and less than or equal to size.
+Parameter name: index
+
+ Error Page Url: Insert
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  20/06/2019 5:47:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/06/2019 5:47:29 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Conversion failed when converting the varchar value 'CTC636' to data type int.-----------------
+-----------Exception Details on  20/06/2019 5:47:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/06/2019 5:47:54 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&FDate=01/01/2018&TDate=31/03/2019&CustNO=426&BRCD=1&rptname=RptMemberPassBook1.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Conversion failed when converting the varchar value 'CTC636' to data type int.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Conversion failed when converting the varchar value 'CTC636' to data type int.-----------------
+-----------Exception Details on  20/06/2019 5:48:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/06/2019 5:48:39 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&FDate=01/01/2018&TDate=31/03/2019&CustNO=426&BRCD=1&rptname=RptMemberPassBook1.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Conversion failed when converting the varchar value 'CTC636' to data type int.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  20/06/2019 6:40:44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/06/2019 6:40:44 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&FDate=01/01/2018&TDate=31/03/2019&CustNO=426&BRCD=1&rptname=RptMemberPassBook1.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  20/06/2019 6:40:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/06/2019 6:40:46 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&FDate=01/01/2018&TDate=31/03/2019&CustNO=426&BRCD=1&rptname=RptMemberPassBook1.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

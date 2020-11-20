@@ -1,0 +1,102 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/04/2019 10:05:50 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/04/2019 10:05:50 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Incorrect syntax near '2554'.-----------------
+-----------Exception Details on  19/04/2019 10:46:59 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/04/2019 10:46:59 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmCommonPatch.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near '2554'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/04/2019 11:06:11 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/04/2019 11:06:11 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String or binary data would be truncated.
+The statement has been terminated.-----------------
+-----------Exception Details on  19/04/2019 11:29:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/04/2019 11:29:08 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmCommonPatch.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : String or binary data would be truncated.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

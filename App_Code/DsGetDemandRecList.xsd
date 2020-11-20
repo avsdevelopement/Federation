@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsGetDemandRecList" targetNamespace="http://tempuri.org/DsGetDemandRecList.xsd" xmlns:mstns="http://tempuri.org/DsGetDemandRecList.xsd" xmlns="http://tempuri.org/DsGetDemandRecList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsGetDemandRecList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DsGetDemandRecList" msprop:Generator_DataSetName="DsGetDemandRecList">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OnMonth" msprop:Generator_ColumnVarNameInTable="columnOnMonth" msprop:Generator_ColumnPropNameInRow="OnMonth" msprop:Generator_ColumnPropNameInTable="OnMonthColumn" msprop:Generator_UserColumnName="OnMonth" type="xs:string" minOccurs="0" />
+              <xs:element name="Brcd" msprop:Generator_ColumnVarNameInTable="columnBrcd" msprop:Generator_ColumnPropNameInRow="Brcd" msprop:Generator_ColumnPropNameInTable="BrcdColumn" msprop:Generator_UserColumnName="Brcd" type="xs:string" minOccurs="0" />
+              <xs:element name="PostDate" msprop:Generator_ColumnVarNameInTable="columnPostDate" msprop:Generator_ColumnPropNameInRow="PostDate" msprop:Generator_ColumnPropNameInTable="PostDateColumn" msprop:Generator_UserColumnName="PostDate" type="xs:string" minOccurs="0" />
+              <xs:element name="PostSetNo" msprop:Generator_ColumnVarNameInTable="columnPostSetNo" msprop:Generator_ColumnPropNameInRow="PostSetNo" msprop:Generator_ColumnPropNameInTable="PostSetNoColumn" msprop:Generator_UserColumnName="PostSetNo" type="xs:string" minOccurs="0" />
+              <xs:element name="RecDiv" msprop:Generator_ColumnVarNameInTable="columnRecDiv" msprop:Generator_ColumnPropNameInRow="RecDiv" msprop:Generator_ColumnPropNameInTable="RecDivColumn" msprop:Generator_UserColumnName="RecDiv" type="xs:string" minOccurs="0" />
+              <xs:element name="RecCode" msprop:Generator_ColumnVarNameInTable="columnRecCode" msprop:Generator_ColumnPropNameInRow="RecCode" msprop:Generator_ColumnPropNameInTable="RecCodeColumn" msprop:Generator_UserColumnName="RecCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Div_Descr" msprop:Generator_ColumnVarNameInTable="columnDiv_Descr" msprop:Generator_ColumnPropNameInRow="Div_Descr" msprop:Generator_ColumnPropNameInTable="Div_DescrColumn" msprop:Generator_UserColumnName="Div_Descr" type="xs:string" minOccurs="0" />
+              <xs:element name="Rec_Descr" msprop:Generator_ColumnVarNameInTable="columnRec_Descr" msprop:Generator_ColumnPropNameInRow="Rec_Descr" msprop:Generator_ColumnPropNameInTable="Rec_DescrColumn" msprop:Generator_UserColumnName="Rec_Descr" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_Rec" msprop:Generator_ColumnVarNameInTable="columnTotal_Rec" msprop:Generator_ColumnPropNameInRow="Total_Rec" msprop:Generator_ColumnPropNameInTable="Total_RecColumn" msprop:Generator_UserColumnName="Total_Rec" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_Post" msprop:Generator_ColumnVarNameInTable="columnTotal_Post" msprop:Generator_ColumnPropNameInRow="Total_Post" msprop:Generator_ColumnPropNameInTable="Total_PostColumn" msprop:Generator_UserColumnName="Total_Post" type="xs:string" minOccurs="0" />
+              <xs:element name="Pending" msprop:Generator_ColumnVarNameInTable="columnPending" msprop:Generator_ColumnPropNameInRow="Pending" msprop:Generator_ColumnPropNameInTable="PendingColumn" msprop:Generator_UserColumnName="Pending" type="xs:string" minOccurs="0" />
+              <xs:element name="Activity" msprop:Generator_ColumnVarNameInTable="columnActivity" msprop:Generator_ColumnPropNameInRow="Activity" msprop:Generator_ColumnPropNameInTable="ActivityColumn" msprop:Generator_UserColumnName="Activity" type="xs:string" minOccurs="0" />
+              <xs:element name="Cr_M" msprop:Generator_ColumnVarNameInTable="columnCr_M" msprop:Generator_ColumnPropNameInRow="Cr_M" msprop:Generator_ColumnPropNameInTable="Cr_MColumn" msprop:Generator_UserColumnName="Cr_M" type="xs:string" minOccurs="0" />
+              <xs:element name="SOM" msprop:Generator_ColumnVarNameInTable="columnSOM" msprop:Generator_ColumnPropNameInRow="SOM" msprop:Generator_ColumnPropNameInTable="SOMColumn" msprop:Generator_UserColumnName="SOM" type="xs:string" minOccurs="0" />
+              <xs:element name="EOM" msprop:Generator_ColumnVarNameInTable="columnEOM" msprop:Generator_ColumnPropNameInRow="EOM" msprop:Generator_ColumnPropNameInTable="EOMColumn" msprop:Generator_UserColumnName="EOM" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

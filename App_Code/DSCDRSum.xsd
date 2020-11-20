@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSCDRSum" targetNamespace="http://tempuri.org/DSCDRSum.xsd" xmlns:mstns="http://tempuri.org/DSCDRSum.xsd" xmlns="http://tempuri.org/DSCDRSum.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSCDRSum" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSCDRSum" msprop:Generator_UserDSName="DSCDRSum">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Glg" msprop:Generator_ColumnVarNameInTable="columnGlg" msprop:Generator_ColumnPropNameInRow="Glg" msprop:Generator_ColumnPropNameInTable="GlgColumn" msprop:Generator_UserColumnName="Glg" type="xs:string" minOccurs="0" />
+              <xs:element name="CBal" msprop:Generator_ColumnVarNameInTable="columnCBal" msprop:Generator_ColumnPropNameInRow="CBal" msprop:Generator_ColumnPropNameInTable="CBalColumn" msprop:Generator_UserColumnName="CBal" type="xs:string" minOccurs="0" />
+              <xs:element name="Glname" msprop:Generator_ColumnVarNameInTable="columnGlname" msprop:Generator_ColumnPropNameInRow="Glname" msprop:Generator_ColumnPropNameInTable="GlnameColumn" msprop:Generator_UserColumnName="Glname" type="xs:string" minOccurs="0" />
+              <xs:element name="SumDeposit" msprop:Generator_ColumnVarNameInTable="columnSumDeposit" msprop:Generator_ColumnPropNameInRow="SumDeposit" msprop:Generator_ColumnPropNameInTable="SumDepositColumn" msprop:Generator_UserColumnName="SumDeposit" type="xs:string" minOccurs="0" />
+              <xs:element name="SumLoan" msprop:Generator_ColumnVarNameInTable="columnSumLoan" msprop:Generator_ColumnPropNameInRow="SumLoan" msprop:Generator_ColumnPropNameInTable="SumLoanColumn" msprop:Generator_UserColumnName="SumLoan" type="xs:string" minOccurs="0" />
+              <xs:element name="SumShares" msprop:Generator_ColumnVarNameInTable="columnSumShares" msprop:Generator_ColumnPropNameInRow="SumShares" msprop:Generator_ColumnPropNameInTable="SumSharesColumn" msprop:Generator_UserColumnName="SumShares" type="xs:string" minOccurs="0" />
+              <xs:element name="SumReserve" msprop:Generator_ColumnVarNameInTable="columnSumReserve" msprop:Generator_ColumnPropNameInRow="SumReserve" msprop:Generator_ColumnPropNameInTable="SumReserveColumn" msprop:Generator_UserColumnName="SumReserve" type="xs:string" minOccurs="0" />
+              <xs:element name="SUMPL" msprop:Generator_ColumnVarNameInTable="columnSUMPL" msprop:Generator_ColumnPropNameInRow="SUMPL" msprop:Generator_ColumnPropNameInTable="SUMPLColumn" msprop:Generator_UserColumnName="SUMPL" type="xs:string" minOccurs="0" />
+              <xs:element name="SUMOD" msprop:Generator_ColumnVarNameInTable="columnSUMOD" msprop:Generator_ColumnPropNameInRow="SUMOD" msprop:Generator_ColumnPropNameInTable="SUMODColumn" msprop:Generator_UserColumnName="SUMOD" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,125 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  06/07/2019 10:17:52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/07/2019 10:17:52 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  06/07/2019 12:57:05 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/07/2019 12:57:05 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  06/07/2019 1:04:06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/07/2019 1:04:06 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  06/07/2019 6:32:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/07/2019 6:32:33 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Value was either too large or too small for an Int32.-----------------
+-----------Exception Details on  06/07/2019 6:37:35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/07/2019 6:37:35 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDAIntcalculation.aspx
+
+Error Message: OverflowException
+
+Exception Type: System.OverflowException
+
+Error Location : Value was either too large or too small for an Int32.
+
+ Error Page Url: ParseInt32
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

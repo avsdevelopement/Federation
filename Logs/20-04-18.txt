@@ -1,0 +1,306 @@
+-----------Exception Details on  Invalid column name 'MultiLog'.-----------------
+-----------Exception Details on  20-Apr-18 11:22:00 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 11:22:00 AM
+
+Error Line No : http://localhost:18435/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'MultiLog'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'MultiLog'.-----------------
+-----------Exception Details on  20-Apr-18 11:22:12 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 11:22:12 AM
+
+Error Line No : http://localhost:18435/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'MultiLog'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'MultiLog'.-----------------
+-----------Exception Details on  20-Apr-18 11:22:53 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 11:22:53 AM
+
+Error Line No : http://localhost:18435/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'MultiLog'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'MultiLog'.-----------------
+-----------Exception Details on  20-Apr-18 11:30:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 11:30:21 AM
+
+Error Line No : http://localhost:18435/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'MultiLog'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20-Apr-18 11:30:25 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 11:30:25 AM
+
+Error Line No : http://localhost:18435/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20-Apr-18 11:30:39 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 11:30:39 AM
+
+Error Line No : http://localhost:18435/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  20-Apr-18 11:35:50 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 11:35:50 AM
+
+Error Line No : http://localhost:18435/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20-Apr-18 4:15:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 4:15:14 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'ddlAccStatus' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  20-Apr-18 4:16:19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 4:16:19 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanClosure.aspx?FrmLoanClosure.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlAccStatus' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedIndex
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'ddlAccStatus' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  20-Apr-18 4:18:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 4:18:03 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanClosure.aspx?FrmLoanClosure.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlAccStatus' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedIndex
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'ddlAccStatus' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  20-Apr-18 4:19:35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 4:19:35 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanClosure.aspx?FrmLoanClosure.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlAccStatus' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedIndex
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20-Apr-18 4:39:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-Apr-18 4:39:03 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

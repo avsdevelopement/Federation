@@ -1,0 +1,100 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/07/2020 2:48:02 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2020 2:48:02 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/07/2020 4:23:27 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2020 4:23:27 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/07/2020 5:16:19 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2020 5:16:19 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  29/07/2020 5:16:54 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2020 5:16:54 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

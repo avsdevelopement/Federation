@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSMenu" targetNamespace="http://tempuri.org/DSMenu.xsd" xmlns:mstns="http://tempuri.org/DSMenu.xsd" xmlns="http://tempuri.org/DSMenu.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSMenu" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSMenu" msprop:Generator_UserDSName="DSMenu">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ParentMenuId" msprop:Generator_ColumnVarNameInTable="columnParentMenuId" msprop:Generator_ColumnPropNameInRow="ParentMenuId" msprop:Generator_ColumnPropNameInTable="ParentMenuIdColumn" msprop:Generator_UserColumnName="ParentMenuId" type="xs:string" minOccurs="0" />
+              <xs:element name="ParentMenuName" msprop:Generator_ColumnVarNameInTable="columnParentMenuName" msprop:Generator_ColumnPropNameInRow="ParentMenuName" msprop:Generator_ColumnPropNameInTable="ParentMenuNameColumn" msprop:Generator_UserColumnName="ParentMenuName" type="xs:string" minOccurs="0" />
+              <xs:element name="MenuID" msprop:Generator_ColumnVarNameInTable="columnMenuID" msprop:Generator_ColumnPropNameInRow="MenuID" msprop:Generator_ColumnPropNameInTable="MenuIDColumn" msprop:Generator_UserColumnName="MenuID" type="xs:string" minOccurs="0" />
+              <xs:element name="MenuTitle" msprop:Generator_ColumnVarNameInTable="columnMenuTitle" msprop:Generator_ColumnPropNameInRow="MenuTitle" msprop:Generator_ColumnPropNameInTable="MenuTitleColumn" msprop:Generator_UserColumnName="MenuTitle" type="xs:string" minOccurs="0" />
+              <xs:element name="PageDesc" msprop:Generator_ColumnVarNameInTable="columnPageDesc" msprop:Generator_ColumnPropNameInRow="PageDesc" msprop:Generator_ColumnPropNameInTable="PageDescColumn" msprop:Generator_UserColumnName="PageDesc" type="xs:string" minOccurs="0" />
+              <xs:element name="PageURL" msprop:Generator_ColumnVarNameInTable="columnPageURL" msprop:Generator_ColumnPropNameInRow="PageURL" msprop:Generator_ColumnPropNameInTable="PageURLColumn" msprop:Generator_UserColumnName="PageURL" type="xs:string" minOccurs="0" />
+              <xs:element name="Path" msprop:Generator_ColumnVarNameInTable="columnPath" msprop:Generator_ColumnPropNameInRow="Path" msprop:Generator_ColumnPropNameInTable="PathColumn" msprop:Generator_UserColumnName="Path" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,1857 @@
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  16/03/2020 11:25:12 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:25:12 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  16/03/2020 11:25:12 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:25:12 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  16/03/2020 11:25:12 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:25:12 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  16/03/2020 11:25:12 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:25:12 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  16/03/2020 11:25:13 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:25:13 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  16/03/2020 11:25:13 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:25:13 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  16/03/2020 11:25:13 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:25:13 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  16/03/2020 11:25:13 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:25:13 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 11:26:03 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:26:03 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 11:29:05 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:29:05 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 11:29:12 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:29:12 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 11:33:30 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:33:30 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 11:34:37 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:34:37 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 11:34:46 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 11:34:46 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 12:10:08 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:10:08 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 12:17:43 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:17:43 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 12:18:33 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:18:33 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 12:18:40 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:18:40 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 12:19:29 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:19:29 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 12:19:35 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:19:35 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 12:21:53 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:21:53 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 12:22:02 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:22:02 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 12:27:29 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:27:29 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 12:33:04 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:33:04 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 12:33:39 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:33:39 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 12:36:54 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 12:36:54 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 1:02:18 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 1:02:18 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SP_RECEIPT_PRINT_H'.-----------------
+-----------Exception Details on  16/03/2020 1:05:26 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 1:05:26 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&SETNO=435&UserName=AVSINSOTECH&EDT=22/09/2019&BRCD=2&FN=R&rptname=RptReceiptPrint.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_RECEIPT_PRINT_H'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 2:50:56 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 2:50:56 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SP_RECEIPT_PRINT'.-----------------
+-----------Exception Details on  16/03/2020 2:51:28 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 2:51:28 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&SETNO=435&UserName=AVSINSOTECH&EDT=22/09/2019&BRCD=2&FN=R&rptname=RptReceiptPrintHSFM_ShareApp.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_RECEIPT_PRINT'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'AVS_SHRAPP.TotShrValue' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause.-----------------
+-----------Exception Details on  16/03/2020 3:07:01 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:07:01 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&SETNO=436&UserName=AVSINSOTECH&EDT=22/09/2019&BRCD=2&FN=R&rptname=RptReceiptPrintHSFM_ShareApp.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Column 'AVS_SHRAPP.TotShrValue' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'AVS_SHRAPP.TotShrValue' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause.-----------------
+-----------Exception Details on  16/03/2020 3:07:30 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:07:30 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&SETNO=436&UserName=AVSINSOTECH&EDT=22/09/2019&BRCD=2&FN=R&rptname=RptReceiptPrintHSFM_ShareApp.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Column 'AVS_SHRAPP.TotShrValue' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Incorrect syntax near '.'.-----------------
+-----------Exception Details on  16/03/2020 3:08:40 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:08:40 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&SETNO=436&UserName=AVSINSOTECH&EDT=22/09/2019&BRCD=2&FN=R&rptname=RptReceiptPrintHSFM_ShareApp.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near '.'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Incorrect syntax near '.'.-----------------
+-----------Exception Details on  16/03/2020 3:08:53 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:08:53 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&SETNO=436&UserName=AVSINSOTECH&EDT=22/09/2019&BRCD=2&FN=R&rptname=RptReceiptPrintHSFM_ShareApp.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near '.'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 3:15:45 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:15:45 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 3:50:19 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:50:19 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 3:57:14 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:57:14 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: ClearData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 3:57:23 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:57:23 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: ClearData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 3:57:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:57:25 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: ApplType_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 3:57:36 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:57:36 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: ClearData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 3:57:45 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:57:45 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 3:57:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:57:58 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 3:58:07 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 3:58:07 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 4:00:43 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:00:43 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 4:13:53 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:13:53 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (50002).
+Violation of PRIMARY KEY constraint 'Avs_Contactd_CS'. Cannot insert duplicate key in object 'dbo.Avs_Contactd'. The duplicate key value is (50002).
+The statement has been terminated.
+Warning: Null value is eliminated by an aggregate or other SET operation.
+The statement has been terminated.-----------------
+-----------Exception Details on  16/03/2020 4:14:33 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:14:33 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (50002).
+Violation of PRIMARY KEY constraint 'Avs_Contactd_CS'. Cannot insert duplicate key in object 'dbo.Avs_Contactd'. The duplicate key value is (50002).
+The statement has been terminated.
+Warning: Null value is eliminated by an aggregate or other SET operation.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:14:33 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:14:33 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Submit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (50002).
+Violation of PRIMARY KEY constraint 'Avs_Contactd_CS'. Cannot insert duplicate key in object 'dbo.Avs_Contactd'. The duplicate key value is (50002).
+The statement has been terminated.
+Warning: Null value is eliminated by an aggregate or other SET operation.
+The statement has been terminated.-----------------
+-----------Exception Details on  16/03/2020 4:14:41 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:14:41 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (50002).
+Violation of PRIMARY KEY constraint 'Avs_Contactd_CS'. Cannot insert duplicate key in object 'dbo.Avs_Contactd'. The duplicate key value is (50002).
+The statement has been terminated.
+Warning: Null value is eliminated by an aggregate or other SET operation.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:14:41 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:14:41 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Submit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:15:50 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:15:50 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: lnkAuthorized_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:15:52 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:15:52 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: lnkAuthorized_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:15:54 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:15:54 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: lnkAuthorized_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:15:56 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:15:56 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: ClearData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:15:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:15:58 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: ClearData
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:16:00 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:16:00 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: ApplType_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:16:08 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:16:08 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: txtShareAccNo_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:16:42 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:16:42 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 4:17:03 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:17:03 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:17:37 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:17:37 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 4:17:48 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:17:48 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  16/03/2020 4:18:17 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:18:17 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  16/03/2020 4:18:42 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:18:42 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:25:53 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:25:53 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:26:03 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:26:03 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 4:26:16 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:26:16 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (50002).
+Violation of PRIMARY KEY constraint 'Avs_Contactd_CS'. Cannot insert duplicate key in object 'dbo.Avs_Contactd'. The duplicate key value is (50002).
+The statement has been terminated.
+Warning: Null value is eliminated by an aggregate or other SET operation.
+The statement has been terminated.-----------------
+-----------Exception Details on  16/03/2020 4:26:49 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:26:49 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (50002).
+Violation of PRIMARY KEY constraint 'Avs_Contactd_CS'. Cannot insert duplicate key in object 'dbo.Avs_Contactd'. The duplicate key value is (50002).
+The statement has been terminated.
+Warning: Null value is eliminated by an aggregate or other SET operation.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:26:49 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:26:49 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Submit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:29:00 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:29:00 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:29:10 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:29:10 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (50002).
+Violation of PRIMARY KEY constraint 'Avs_Contactd_CS'. Cannot insert duplicate key in object 'dbo.Avs_Contactd'. The duplicate key value is (50002).
+The statement has been terminated.
+Warning: Null value is eliminated by an aggregate or other SET operation.
+The statement has been terminated.-----------------
+-----------Exception Details on  16/03/2020 4:29:18 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:29:18 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (50002).
+Violation of PRIMARY KEY constraint 'Avs_Contactd_CS'. Cannot insert duplicate key in object 'dbo.Avs_Contactd'. The duplicate key value is (50002).
+The statement has been terminated.
+Warning: Null value is eliminated by an aggregate or other SET operation.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:29:31 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:29:31 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Submit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  16/03/2020 4:29:44 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:29:44 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/03/2020 4:33:35 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2020 4:33:35 p.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmShareApp.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid1
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

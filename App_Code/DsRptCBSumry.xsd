@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsRptCBSumry" targetNamespace="http://tempuri.org/DsRptCBSumry.xsd" xmlns:mstns="http://tempuri.org/DsRptCBSumry.xsd" xmlns="http://tempuri.org/DsRptCBSumry.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsRptCBSumry" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DsRptCBSumry" msprop:Generator_UserDSName="DsRptCBSumry">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CSUBGL" msprop:Generator_ColumnVarNameInTable="columnCSUBGL" msprop:Generator_ColumnPropNameInRow="CSUBGL" msprop:Generator_ColumnPropNameInTable="CSUBGLColumn" msprop:Generator_UserColumnName="CSUBGL" type="xs:string" minOccurs="0" />
+              <xs:element name="ENTRYDATE" msprop:Generator_ColumnVarNameInTable="columnENTRYDATE" msprop:Generator_ColumnPropNameInRow="ENTRYDATE" msprop:Generator_ColumnPropNameInTable="ENTRYDATEColumn" msprop:Generator_UserColumnName="ENTRYDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="CAACNO" msprop:Generator_ColumnVarNameInTable="columnCAACNO" msprop:Generator_ColumnPropNameInRow="CAACNO" msprop:Generator_ColumnPropNameInTable="CAACNOColumn" msprop:Generator_UserColumnName="CAACNO" type="xs:string" minOccurs="0" />
+              <xs:element name="CSETNO" msprop:Generator_ColumnVarNameInTable="columnCSETNO" msprop:Generator_ColumnPropNameInRow="CSETNO" msprop:Generator_ColumnPropNameInTable="CSETNOColumn" msprop:Generator_UserColumnName="CSETNO" type="xs:string" minOccurs="0" />
+              <xs:element name="CACCNAME" msprop:Generator_ColumnVarNameInTable="columnCACCNAME" msprop:Generator_ColumnPropNameInRow="CACCNAME" msprop:Generator_ColumnPropNameInTable="CACCNAMEColumn" msprop:Generator_UserColumnName="CACCNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="CAmount" msprop:Generator_ColumnVarNameInTable="columnCAmount" msprop:Generator_ColumnPropNameInRow="CAmount" msprop:Generator_ColumnPropNameInTable="CAmountColumn" msprop:Generator_UserColumnName="CAmount" type="xs:string" minOccurs="0" />
+              <xs:element name="DSUBGL" msprop:Generator_ColumnVarNameInTable="columnDSUBGL" msprop:Generator_ColumnPropNameInRow="DSUBGL" msprop:Generator_ColumnPropNameInTable="DSUBGLColumn" msprop:Generator_UserColumnName="DSUBGL" type="xs:string" minOccurs="0" />
+              <xs:element name="DENTRYDATE" msprop:Generator_ColumnVarNameInTable="columnDENTRYDATE" msprop:Generator_ColumnPropNameInRow="DENTRYDATE" msprop:Generator_ColumnPropNameInTable="DENTRYDATEColumn" msprop:Generator_UserColumnName="DENTRYDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="DAACNO" msprop:Generator_ColumnVarNameInTable="columnDAACNO" msprop:Generator_ColumnPropNameInRow="DAACNO" msprop:Generator_ColumnPropNameInTable="DAACNOColumn" msprop:Generator_UserColumnName="DAACNO" type="xs:string" minOccurs="0" />
+              <xs:element name="DACCNAME" msprop:Generator_ColumnVarNameInTable="columnDACCNAME" msprop:Generator_ColumnPropNameInRow="DACCNAME" msprop:Generator_ColumnPropNameInTable="DACCNAMEColumn" msprop:Generator_UserColumnName="DACCNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="DAMOUNT" msprop:Generator_ColumnVarNameInTable="columnDAMOUNT" msprop:Generator_ColumnPropNameInRow="DAMOUNT" msprop:Generator_ColumnPropNameInTable="DAMOUNTColumn" msprop:Generator_UserColumnName="DAMOUNT" type="xs:string" minOccurs="0" />
+              <xs:element name="DSETNO" msprop:Generator_ColumnVarNameInTable="columnDSETNO" msprop:Generator_ColumnPropNameInRow="DSETNO" msprop:Generator_ColumnPropNameInTable="DSETNOColumn" msprop:Generator_UserColumnName="DSETNO" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

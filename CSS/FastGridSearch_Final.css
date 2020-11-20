@@ -1,0 +1,1104 @@
+﻿body,html {font-family: arial; font-size:12px; color:#333;  background:#fff; margin:0; padding:0 }
+body{ padding-bottom:150px;}
+input[type=button], input[type=submit]{color: #fff;  transition: all 350ms ease-out 0s; cursor: pointer; display: inline-block; font: normal 15px calibri; padding: 2px 5px!important;  border: 1px solid #00aeef; position: relative;  -webkit-border-radius: 3px;
+-moz-border-radius: 3px;  border-radius: 3px;  background: #00aeef;
+    top: 1px;
+    left: -1px;
+}     
+input[type=button]:hover, input[type=submit]:hover,.search input:hover  { transition: all 350ms ease-out 0s; background:#005c7f; }    
+input[type="text"], input[type="password"], select, textarea {border: 1px solid #ccc; border-radius: 2px; margin-bottom: 0; padding: 4px;width: 95%;  resize: none;color: #666;background: #fff none repeat scroll 0 0;}
+.mdl{  width:100%;   margin:0 auto; }
+.Header_top{ background:#fff; width:100%;text-align: right; margin-bottom:0px;  height: auto;    overflow: hidden;}
+.Header_top img{width:20px!important;}
+.mdl_bdr{ width:100%; float:left;  }
+.textbox { border: 1px solid #e5e5e5 !important; padding: 3px 0 !important;}
+.Header_bottom{ background: none repeat scroll 0 0 #fff; float: left; margin-top: 4px; width:100%; float:left; text-align: right;  height: 32px; font-weight: bold;}
+.datese .onecoden > label { width: 50px;}
+.tblResult{ width:99.99%; border-right:1px solid #dfdfdf;}
+.tblResult td{ border-left:1px solid #dfdfdf; border-bottom:1px solid #dfdfdf;  padding: 4px 5px;; font-size: 12px;border-width: 1px;text-align: left;}
+.tblResult tr:first-child td{ background-color:#00aeef!important ; color:#fff!important; text-align:left; padding: 3px 5px;font-size: 14px;}
+.tblResult tr:nth-child(2) td{ height:25px;}
+.tblResult tr:nth-child(even){ background:#fff;transition: all 0.3s ease 0s;}
+.tblResult tr:nth-child(odd){ background:#F9FBFC;  text-align: left!important;}
+.font select {border: 1px solid #e9e9e9;  padding: 4px;  width: 100%; }
+.font td {  font-size: 13px;  font-weight: 400;}
+.#totalCount{padding: 10px; line-height: 10px;}
+.srchdr{padding: 5px 0; width:95%; color:#108CAE; margin:15px auto 0; font: bold 10pt verdana;}
+.print{width:24px;	height:24px;left:10px;	top:5px;position:absolute;	cursor:hand;    line-height: 20px;}
+.mem{width:678px;padding:10px 0 10px 20px;margin:20px 0;color:#108CAE; font:bold 9pt verdana; text-align:left; border:1px solid #108CAE;}
+.printbtn{height:23px; border:none;background:orange;margin-left:300px;	color:#000000; 	width:95px;}
+.printbtn:hover{color:#ffffff;cursor:hand;}
+.nextand2 { width: 200px;}
+.textBox{width:150px;	padding:1px 3px;	border:1px solid #666666;}
+.clear{clear:both;}
+.hideseek a {     padding: 8px 10px;display: block;background: #4f8fff;color: #fff;width: 69px;margin:5px 0;text-align: center;}
+.facon {font-weight: bold;font-size: 13px;border-bottom: 1px solid #ddd;padding:2px 0 12px 0;}
+.selected { background-color: Yellow;}
+.lftfield {float: left; width: 89px; margin-bottom: 5px; margin-top: 3px;}
+.lftfield.limted > input {width: 90px!important;}
+.lftfield.ined > select { width: 80px;}
+.lftfield.limted {  width: 109px;}
+.lftfield.ined { width: 80px;}
+.personaddall {color: #333333;}
+.tasktable { display:none}
+.MainTableHeaderDV > strong {border-bottom: 1px dashed #ccc; display: inline-block; float: left;  padding-bottom: 8px;  text-align: left;width: 100%;} 
+.lftfield > label { height: 22px !important; text-align: left !important;  width: 100% !important;}
+.delkacxar {  margin-top: 15px;}
+.leftwindow.leftwindwidth label{ width:140px}
+.leftwindow.leftwindwidth { width: 360px;}
+.leftwindow.leavee { width: 350px;}
+.edtirecord { color:#00aeef!important ; border: 1px solid #00aeef !important; height: 28px;  line-height: 29px;  margin-top: 6px;}
+.head1 tr:nth-child(1) td {background: #e0e2e3 none repeat scroll 0 0!important; color: #000 !important;  text-transform: capitalize;  border-top: 1px solid #e0e2e3 !important;}
+.divclasswhite { background: #ffffff none repeat scroll 0 0; border-radius: 4px;  margin: 0 auto; overflow: hidden;  padding: 10px;}
+.onecoden.float {clear: both; margin-top: 12px;  overflow: hidden;float: right; margin-right: 100px;}
+.mebt { color: #ff0000; float: right; font-size: 19px;}
+.leftwindow { float: left; width: 300px;}
+.onecoden input[type="text"] { float: left;    width: 180px;}
+.onecoden label {clear: left;color: #000000;float: left;font-size: 13px;height: 30px;margin-right: 10px;padding: 5px 0 0;text-align: right;width: 100px;}
+.number.fildselectwidth {width: 103px !important;}
+.contain_left{float:left;width:auto;text-align:left;display:block;}
+.contain_left a {border: 1px solid #00aeef ;color: #00aeef ;display: block;float: left;font-size: 15px;height: 15px;line-height: 40px !important;margin: 3px 3px 3px 0;padding: 5px;text-align: center;width: 19px;}
+.pay_fa{ color:#00aeef}
+.contain_left_bt{float:left;idth:200px;  margin:0 7px;}
+.contain{   width: 274px;  float:right;   border:0px solid #cccccc;}             
+.newest{ cursor: pointer; float: left; width: 30px;  height: 30px;  padding:3px; margin-right:5px;  background:url(../images/1.png) no-repeat center;}
+.newer{ cursor: pointer; float: left; border: 0px solid;  width: 30px; height: 30px;   padding:3px;  background:url(../images/2.png) no-repeat center;border-right: 1px solid #e6e9ee;border-left: 1px solid #e6e9ee;}
+.page_total{   float: left;   width:auto;  height:19px;   font:normal 14px calibri;   padding:0px 5px 0 5px;   border-left:0px solid #cccccc;   border-right:0px solid #cccccc;}
+.older{ cursor: pointer; float: left;  border-right: 1px solid #e6e9ee;border-left: 1px solid #e6e9ee; width: 30px;  height: 30px;   padding:1px 3px;  margin-right:5px;  background:url(../images/3.png) no-repeat center;}
+.oldest {cursor: pointer;  float: left; width: 30px;  height: 27px;  padding:3px;  background:url(../images/4.png) no-repeat center;}
+.pg{float: left;line-height: 35px;}
+.txt1,.of{  border: 0 solid; float: left; font-size: 18px; font-weight: 300; padding: 5px;  text-align: center;  width: auto;}
+.txtb{  border:#cccccc 1px solid;  width: 20px;  background:#fff;  color:#231f20; font:normal 14px calibri;    text-align: center;}
+.chkClass{  background-image: url(../images/checkbox_bg.png);  background-repeat: no-repeat;  background-position:center;  width:20px;}
+.chkClass1{  background-image: url(../images/checkbox.png);  background-repeat: no-repeat;  background-position:center;  width:20px;}
+.displaycss{ background-color:#ffffff;}
+.rowcss{   background-color:#F7F5F5;display:none;}
+.rowcss1{  /*  background-color:#F7F5F5;*/ }
+.tablecss{  background-color:#ffffff;}
+.plusClass{ background-image: url(../images/plus.jpg); background-repeat: no-repeat;  background-position:center;}
+.plusClass1{ background-image: url(../images/minus.jpg); background-repeat: no-repeat; background-position:center;}
+.yearprev{ width:30px!important; height:30px!important; cursor: pointer; float: left;  border: 1px solid #e6e9ee!important; background:url(../images/prev111.png) no-repeat center!important;}
+.year{width: 70px!important; height: 30px!important; line-height: 31px; color:#c69102!important;text-align: center!important;border: 1px solid #e6e9ee!important; float: left;margin: 0 2px;font-size: 19px;}
+input[type=button].year{ height:30px!important;}
+.yearnext{ width:30px!important; height:30px!important; cursor: pointer; float: left;  border: 1px solid #e6e9ee!important; background:url(../images/next111.png) no-repeat center!important;}
+table{ width:100%;}
+.awesmefo {border-bottom: 1px dashed #ccc; overflow: hidden; padding:5px 0 13px 0px;   margin-top: 6px;}
+.RowColor a{ color:#00aeef}
+.onecoden textarea { width: 57%;}
+.topds {  clear: both;}
+.tblbdr td {border-right: 1px solid #cccccc; border-top: 1px solid #cccccc;  padding: 2px;}
+.tblbdr.tblatd {  width: 100%;}
+.Designationh { background: #ffffff none repeat scroll 0 0; margin: 0 auto; padding: 20px; width: 800px;}
+.borderdiv a{ border-right: 1px solid #cccccc;}
+a{color:#29166f; text-decoration: none;}
+.tblbdr.tong tr td:last-child{ border-right:1px solid #fff!important}
+.buttonstyle.btnRights { padding: 4px 9px !important;   border: 0 none;}
+.boxing { background: none repeat scroll 0 0 #fff;  padding: 0px;overflow: hidden;}
+.title-top {  padding: 5px 0 10px;}
+.title-top h2 { border-bottom: 1px solid #ccc;color: #ff6000;  font-size: 20px;  font-weight: normal;  height: 25px !important; margin-bottom: 10px; padding: 0 0 10px 10px !important; text-align: left; width: 100% !important;}
+.box-top {  overflow: hidden; padding:0px 0 0px 10px;   border-bottom: 1px solid #cccccc;}
+.right-div {  float: right;}
+.awesmefo.addtras { margin-left: 10px;}
+.left-div {float: left; margin-top: 16px;}
+.collage { float: left;  margin-right:5px;  width: 150px;height:40px}
+.collage select { width: 100%; border: 1px solid #e6e9ee; padding: 3px 5px;}
+.collage.colo { width: 300px;}
+.collage.serch {  width: 55px;}
+.form-bg.pride{ border: 1px solid #cccccc;}
+.contain_left { background: none repeat scroll 0 0 #fff; padding-top: 0;}
+.form-bg { background: #fff none repeat scroll 0 0; border-radius: 5px; margin: 30px auto; overflow: hidden; padding: 0 20px 20px 18px;  width: 523px; box-shadow: 0 0 5px #cfcfcf;}
+.changepassword > input {  background: #fdfdfd;  border: 1px solid #ccc;  border-radius: 4px;  color: #202020; float: left;padding: 5px 10px;  width: 95%;font-size: 14px;}
+.btn.btnRights.sign{   background: #9662c6  !important; color:#FFF; border: 0 none; border-radius: 4px; cursor: pointer; float: right !important; font-size: 20px;  font-style: normal !important; font-weight: 300 !important;
+padding: 10px !important; width: 182px !important;transition: all 0.3s ease 0s;}
+.changepassword label { clear: both; display: block; overflow: hidden; padding-bottom: 4px;}
+.changepassword {  margin: 0 auto 10px; overflow: hidden; width: 73%;}
+.form-bg .title-top h2{ text-align:center;}
+.btn.btnRights.sign:hover{background: #582488  !important; }
+.postserobox { clear: both; display: list-item; float: left; overflow: hidden;  padding-bottom: 8px;  width: 140px;}
+.setpp { float: left;}
+.flo { float: left;}
+.leftpanne { float: left;  width: 420px;}
+.divclasswhite.Arrears .onecoden { clear: both;  margin-bottom: 10px;  overflow: hidden;}
+.actionico { float: right; margin-bottom: 6px; margin-right: 15px;  margin-top: 10px;  width: auto;}
+.changepassword { float: left; overflow: hidden;width: 100%;}
+.changepassword > input { background: #fdfdfd none repeat scroll 0 0;  border: 1px solid #ccc; border-radius: 2px; color: #202020;  float: left;  font-size: 14px;  padding: 5px 10px;  width: 94%;}
+option { cursor: pointer;}
+.hol a {  color: #ffffff !important; display: block;}
+.year > input {line-height: 21px !important;}
+.changepassword.whatsp { margin: 0 auto 10px;}
+table {  border-collapse: collapse;}
+.awesmefo li { float: left;}
+.contentd.only_shadow.abc{ overflow:inherit; height:560px;}
+.tblResult tr:first-child th {
+    background-color: #00aeef !important;
+    color: #fff !important;
+    font-size: 14px;
+    padding: 3px 5px;
+    text-align: left;
+}
+.hol a {  color: #ffffff !important;}
+.serchico img { width: 100% !important;}
+.awesmefo a {border: 1px solid #00aeef;color: #00aeef; font-size: 16px; padding: 3px; margin-right: 4px;}
+.machine { margin: 0 auto; width: 800px;}
+.actionico { float: right; margin-bottom: 6px;  width: 298px;text-align: right;}
+.changepassword.whatsp {   border-bottom: 1px solid #ccc;  margin: 0 auto 10px;;}
+c.hangepassword.classdate { float: left;  margin-left: 80px;  width: 235px;}
+.changepassword.classdate input,.changepassword.classdate1 input{ width: 78%;}
+.changepassword.classdate1 { float: left;  margin-left: 0px;  width: 235px;}
+.changepassword select{width: 100% !important; padding: 0 4px;}
+.changepassword option {  border-bottom: 1px dashed #ccc;   padding: 5px; font-size:13px!important; color: #404040;}
+.onecoden select option { border-bottom: 1px dashed #ccc;color: #404040; font-size: 13px !important; }
+.onecoden select { float: left;width: 190px;}
+.onecoden > textarea { float: left;width: 180px;}
+.onecoden { clear: both;}
+.btmbdr label { float: left;}
+.rightu{text-align: center; padding: 15px 0 0 15px ; float:left;}
+.btmbdr input {float: left;}
+.dvhdr { background: #f4f4f4 none repeat scroll 0 0;  padding: 4px 0;  text-transform: capitalize;}
+.collage.threeusder { margin-top: -4px;  width: 368px;}
+.Header_top .left-div {  float: left;  margin-top: 2px;}
+.year.input {  height: 28px !important;}
+.box-top.maine{ padding: 5px 12px 2px 12px;}
+.serchico { float: right; width:80px;   margin-left: 10px;}3
+.serchico img { width: 100% !important; max-width: 100% !important;}
+.borderlight{ border: 1px solid #e6e9ee;   padding:4px 5px !important}
+.add-data { background: none repeat scroll 0 0 #fff; margin-top: 3px;}
+.tblinn tr:first-child td { background-color: #9662c6; color: #fff; font-size: 16px;  padding: 6px 5px;  text-align: left;}
+.TextBox.icon { background-image: url("../images/Calendar.png") !important;background-position:171px 1px !important; background-repeat: no-repeat !important; background-size: 23px auto !important;}
+.margened {    background: none repeat scroll 0 0 #fff;border-bottom: 3px solid #e6e9ee !important;border-top: 3px solid #e6e9ee !important; padding: 7px 6px;}
+.popcon {background: none repeat scroll 0 0 #fff; margin-top: 4px;}
+.actionico.actipn2 { float: right;  width: 302px;padding-bottom: 8px;}
+.boxing .title-top h2 { text-align: left;}
+.form-bg .boxing .title-top h2 { margin: 0 auto; text-align: left; width: 446px;}
+.boxing.maclass {margin-bottom: 2px;}
+.collage.trans { width: 180px; display: inline-table;}
+.collage.tsres {width: 70px;  padding: 14px 0 0;}
+.serch-left {  float: left; margin: 12px 0 0; padding: 4px 5px 3px;}
+.serch-lef a{color:#9662c6 !important;}
+.collage.trans label { clear: both;display: block;}
+.collage.colo input {  border: 1px solid #e6e9ee; padding: 3px 5px;width: 96%;}
+.collage.transed > input {padding: 4px; width: 92% !important;}
+.demoleft {float: left; margin: 17px 15px;}
+#divMain .style1 { background: none repeat scroll 0 0 #fff; border-radius: 5px; padding: 20px;width: 770px;}
+.collage.transeding { width: 275px;}
+.collage.transeding label {clear: both; display: block;}
+.collage.transeding > input {border: 1px solid #ccc;padding: 4px;width: 90%;}
+.collage.transedng { padding: 18px 1px 10px 0; width: 133px;}
+.style1 table tr:first-child td { background-color: #9662c6; color: #fff; font-size: 16px;  padding: 6px 5px;  text-align: left;}
+.collage.Stud > input { padding: 4px; width: 93%;}
+.collage.fuZIP label {display: block;  overflow: hidden;  padding-bottom: 6px;}
+.auto { border: 1px solid #e6e9ee; border-radius: 6px; margin: 30px auto;overflow: hidden;  padding: 20px; width: 700px;}
+.collage.fuZIP {float: left; width: 200px;}
+.fileupdate { margin: 0 auto;  width: 292px;}
+.UploadButton.myButton { height: 28px;}
+.collage.fuZIPing {width: 60px;  margin-top: 22px;}
+.btnssection {clear: both; overflow: hidden;  width: 100%;}
+.btnssection .collage.Stud {  width: 47%;}
+.btnssection { border-top: 1px solid #e6e9ee; clear: both; display: inline-block; margin: 18px 0;  overflow: hidden;  width: 100%;  padding: 15px 0}
+.twobtns {  text-align: right; width: 96%;}
+.element { border-bottom: 1px solid #e6e9ee; float: left; margin: 0 auto;  padding: 10px;  width: 670px;}
+.btmbdr td { text-align: left!important;  cursor: pointer;}
+.boxing > table tr:first-child td, #tblTimeTable table tr:first-child td {background-color: #9662c6;color: #fff;font-size: 16px; padding: 6px 5px; text-align: left;}
+.boxing.Classwise { padding: 10px 0;}
+.boxing.Classwise h2{padding: 10px; } 
+.treemenu { background: none repeat scroll 0 0 #fff;overflow: hidden;}
+#ancMain { border: 1px solid #0099cc; border-radius: 4px;clear: both; color: #0099cc; display: block;font-weight: bold; padding: 10px; width: 140px;}
+.left-div .collage.class {float: left; width: 190px;}
+.collage.Time { margin-top: 20px;}
+.collage.Time strong {  font-size: 17px;  font-weight: unset;}
+.contrecor{  float: left;  text-align: left; width: 200px;   padding-left: 10px;}
+.btrecord {float: left; line-height: 0;margin-right: 9px; padding-top: 8px;}
+.boxing.Recording {padding: 10px 0 7px 0}
+.boxing.Recording h2 { padding-left:10px}
+.lefrebb {  margin-bottom: 10px;  overflow: hidden;}
+.row.xts {padding-top: 3px;}
+.admini { font-size: 16px;  padding-left: 11px;}
+.bgcolorw { background: #fff none repeat scroll 0 0;}
+.right-div.nvdt {  padding-bottom: 4px;}
+.contain.cslses{  float: right;  width: 219px;}
+.tablebox { background: none repeat scroll 0 0 #fff;}
+.rowHide{ display:none;}
+.uploadsve { clear: both;}
+.addp { float: left; margin-left: 15px;}
+.actionbtn .addp .conde { color: #25aaed;  font-size: 20px;}
+.tablebox {  background: none repeat scroll 0 0 #fff; border-top: 1px solid #e6e9ee;  margin: 5px auto;    width: 950px;}
+.menuuli { float: left; height: 720px; overflow: auto;  width: 320px;}
+.addons li, #contain_left li { border: 1px solid #25aaed; color: #333;  float: left;  margin-right: 1px;  cursor: pointer;}
+.personaddall { float: left;  font-size: 14px;}
+.imagephoto {  border:1px solid #9662c6 !important;border-radius: 4px; cursor: pointer;  float: left; line-height: 31px;padding: 0 8px 0 10px; color:#9662c6;   transition: all 0.3s ease 0s;  margin-top: 15px;}
+.imagephoto:hover{ background: #9662c6; color:#fff;}
+.javapont { padding: 10px 0 0 10px;  overflow: hidden;}
+#tblUploadHistory a{color: #9662c6}
+#tbl_0 td { border-bottom: 1px solid #ccc;  font-size: 12px;padding: 4px 0;}
+#ancMain{ margin-top:0!important; margin-bottom:10px; margin-left:10px;}
+.boxing.Main{ border-bottom: 1px solid #ccc; margin-bottom: 12px;}
+.padd-bottom { overflow: hidden; padding-bottom: 30px;}
+.pdiv {border-top: 1px solid #ccc;width: 820px; margin: auto;   padding-top: 10px;}
+h2 {font-weight: normal; margin: 0;}
+.MainTableHeaderDV { text-align: center;}
+.tdpad input {  margin-bottom: 6px;  padding: 3px 9px !important;}
+.Studentd { border-bottom: 1px dashed #ccc; font-size: 14px;}
+.setpp .year.input { height: 20px !important; line-height: 0;}
+.marks  {   float: left; width: 100%;    color: green; padding-top: 7px;font-size: 14px; }
+.marks input{ width: 50px; }
+.answer{float: left; width: 100%; color: #707070;padding-top: 7px; font-size: 15px;}
+.main_contain { width: 700px; font: normal 8pt verdana;color: #3F3F3F; border: 1px solid #cccccc; margin: 0px auto;padding: 20px 10px; }
+img { border: none; vertical-align: middle; cursor: pointer;}
+.txt{height: 14px;}
+.sunbtn { float: right;  margin-right: 29px;}
+.value_textbox.float-left { width: 129px !important;}
+.red {background: #fff;color: #333333 !important;}
+.blue{color: #333333; }
+.value > select { width: 264px !important;}
+.gray { background: #dfdfdf;  color: #333333;}
+.green { background: #73DF61;color: #333333;}
+.yellow{ background: #FEFFAF;color: #333333;}
+.block{background: #333333;color: #efefef; }
+#tblQues label { font-size: 14px;}
+.border.no {border: 0 none;}
+.not {  margin: 10px 0;}
+.tblResult.investment tr td:nth-child(1),.tblResult.investment tr td:nth-child(3){ text-align:right}
+.tblResult.investment tr td:nth-child(2){ width:300px;}
+.tblResult.investment tr td:nth-child(4){ width:150px;}
+.displayans select { margin-left: 10px;  width: 70px;}
+#div1 { padding-bottom: 10px;}
+.wor {float: left;}
+.expendmenu { display: block;overflow: hidden; padding: 10px 0; }
+.dropdown { float: left;overflow: hidden;  padding: 10px 0 0;  width: 214px;}
+.d1div {float: left; width: auto; height: 22px; padding:8px 0 16px 0 !important;}
+.selectdiv{  overflow: auto; margin: 0px auto;}
+.alldb{float: left; width: 100%;}
+.Questionq{width: 100%;  overflow: auto; padding: 5px 0px; border-bottom: 1px solid #ccc; border-top: 1px solid #ccc; clear: both;}
+.alldb div { float:left}
+.font.MainTablebdr.abhi { margin-top:15px!important;}
+.border.bordno {border:0px}
+b{font-weight:300}
+.navegi {color: #000;font-size: 16px;  padding: 15px 0 3px !important;}
+.MainTableHeader.shedudl {color: #000; font-size: 16px; padding: 10px; text-align: center !important;}
+.collage.dating > input { width: 90%;}
+.MainTablebdr.abhidexi{ border:0 none!important}
+.Meeting_Details h2{ border-bottom: 1px solid #e6e9ee; font-weight: 300;margin-bottom: 10px; padding: 0 0 6px; text-align: center;}
+.MainTablebdr.abhidexi input[type="text"], .MainTablebdr.abhidexi input[type="password"], .MainTablebdr.abhidexi select, .MainTablebdr.abhidexi textarea {  padding: 2px;margin-bottom: 8px;}
+.minclab{ margin: 0 auto; text-align: center;  width: 71% !important;}
+.download { float: left; width: 120px; background: none repeat scroll 0 0 #9662c6;}
+.file { margin-top: 25px;}
+.allvideo {margin-top: 90px;}
+.boxing.grapf {background: none repeat scroll 0 0 #fff; height: 90px; overflow: initial; padding: 10px;  z-index: 9;}
+.box-top.grapf{ overflow: initial;}
+.collage.height > select { float: right;height: 31px;width: 90%;}
+.collage.height > select option{ margin-right: 200px !important;}   
+.collage.height > label {  line-height: 32px;}
+.clerquetion .collage.height { width: 100%;}
+.clerquetion {clear: right;float: right; margin-top: 10px;  width: 696px;}
+.classtypedetaols {  padding: 10px 0 90px;}
+.font .MainTablebdr .mindra{ font-size: 12pt;}
+.mainBox.maibx { clear: both;  width: 100%;}
+.Quitd { float: left;  width: 100%;}
+.setionsec {float: right;padding: 10px;  width: 98%; border-bottom: 1px solid #cccccc;}
+.boxing.bboy { float: left; width: 100%;}
+ul.dynatree-container a {color: #333333 !important;  margin: 0 0 0 3px;text-decoration: none;transition: all 0.3s ease 0s; vertical-align: top;}
+.TabOn1 { background: none repeat scroll 0 0 #00aeef; color: #ffffff; padding: 8px 10px 2px;cursor: pointer;}
+#tbAdd2,#tbAdd1,#tbAdd3 {cursor: pointer;}
+.font.MainTablebdr.classinfonmat tr:first-child td { background-color: #9662c6; color: #ffffff; font-size: 16px;  padding: 6px 5px;  text-align: left;}
+.font.MainTablebdr.classinfonmat tr td{ border-bottom: 1px solid #dfdfdf; border-left: 1px solid #dfdfdf;}
+.font.MainTablebdr.classinfonmat{background: none repeat scroll 0 0 #ffffff;}
+.aaplysame {clear: both; margin: 10px 0 0 10px;}
+.hdc { border-bottom: 4px double #dcdcdc; color: #ff6000; font-size: 20px; font-weight: normal; height: 25px !important; margin-bottom: 10px;  padding: 10px 0 10px 10px !important;  text-align: left;  width: 100% !important;}
+.content.contened { margin-top: 9px;}
+.roll_emp li a {display: block; padding: 2px 0;  width: 100%;   cursor: pointer;   font-size: 13px;}
+.roll_emp li {border-bottom: 1px dashed #9d9d9d; height: 21px; margin: 4px 0; overflow: hidden;}
+.onecoden.train {width: 100%;  font-weight: bold;}
+.d_grouped { clear: both;}
+.pay_Assigned tr td { border-bottom: 1px dashed #ccc; height: 25px; cursor:pointer; color: #333;}
+.pay_name_user { border-bottom: 1px dashed #ddd;font-size: 14px;font-weight: bold;margin: 10px 0; padding: 0 0 6px; color: #666;}
+.divAssignEmp.pay_Employee {color: #333;font-size: 13px;font-weight: bold;padding: 7px 0;}
+.staff_img.pay_re {border: 2px solid #fff;border-radius: 60px;box-shadow: 0 0 4px #999;height: 80px;overflow: hidden;text-align: center;width: 80px;}
+.fc-header-title h2 {margin-top: 0; font-size: 14px;white-space: nowrap;}
+.staff_img.pay_re img { width: 100%;}
+.ray_tname {color: #333;font-size: 12px;font-weight: bold;padding: 0 0 3px;text-align: left;}
+.status_info li strong {float: left; font-size: 12px; font-weight: bold;  margin-right: 3px; color:#333}
+.assgnemp { background: #fff none repeat scroll 0 0;  border-bottom: 1px solid #ccc;height: 40px; left: 0px; padding: 10px 0 0; position: fixed;  top: 0; width: 100%;}
+  .tblResult.to_down { margin-top: 50px;}
+/* -----------------------loader css----------------------------- css*/
+
+
+.lodingParentElement{z-index: 9999; background: rgba(0, 0, 0, 0.75) none repeat scroll 0 0;left: 0;top:0; width: 100%; position: absolute; height: 100%;}
+.alwaysCenterVerticallyHorizontally{width: 200px;padding:20px;position: absolute;left: 50%;top: 30%;margin: -75px 0 0 -135px;background-color: #ffffff;box-shadow: 0 0 47px #FFF;border-radius: 4px;}
+.saverihg {  float: right;  margin: 10px 185px 0 0;}
+.MainTablebdr {  background: #fff none repeat scroll 0 0;}
+.aaplysame a {  border: 1px solid #00aeef; color: #00aeef; font-weight: bold; padding: 5px 17px; text-decoration: none !important;}
+.aaplysame li { padding-bottom: 15px;float: left;line-height: 25px;}
+.all { clear: both; margin-bottom: 5px;  overflow: hidden;padding: 5px 0;}
+.hstr { float: left; font-size: 14px;  line-height: 30px; margin-right: 8px;}
+.fro > select { width: 100%;}
+.divclasswhite.Arrears .onecoden .fro > select { width: 96%;}
+.fro.pro > input {  width: 21px !important;}
+.onecoden.rem { display: list-item; margin-top: 18px;  overflow: hidden;  padding-top: 8px;}
+.whitebg.apmlev { padding-bottom: 100px;}
+.all .addbtns { float: left; margin-right: 10px;}
+.formclapd.bpad > label { font-size: 15px; margin-bottom: 0;  padding-bottom: 0;}
+.onecoden.textbody {  width: 760px;}
+.onecoden.remark { overflow: hidden;  padding-bottom: 5px;}
+.bossexanm, .boxserise { background: #fff none repeat scroll 0 0;  box-shadow: 0 0 6px #ccc; margin: 18px 0; padding: 10px;  width: 100%;}
+.titlenname { border-bottom: 1px dashed #ccc;  font-size: 16px;  }
+.titlenname strong { font-size: 20px;}
+.bossexanm > li {  list-style: outside none none;}
+.bossexanm strong,.boxserise strong  { display: inline-block; font-weight: bold;  width: 142px; color: #666;}
+.jobdetails {  border-bottom: 1px solid #ccc;  font-size: 15px;  margin-bottom: 8px;}
+.Mandatory{ color:#ff0000;}
+.fprdate { float: left;  width: 85px;}
+.fprdate > input { margin-right: 23px;  width: 96px !important;}
+.fprdate.rem > input {  width: 68px !important;}
+.Details { border-bottom: 1px dashed #ccc;  font-size: 17px;  margin-bottom: 16px;  padding-bottom: 6px;clear: both;}
+.slidingDiv { overflow:hidden;padding:20px;margin-top:10px;}
+.show_hide {display:none;}
+.show_hide > input {  background: #757575 none repeat scroll 0 0;  border: 1px solid #757575;  color: #fff;  cursor: pointer;  font-size: 19px;  padding: 4px;  text-align: left;  text-transform: capitalize;  width: 100%;}
+.lftfield.limted.bild > input {  width: 75px !important;}
+.lftfield.limted.bild.moded > input { width: 84px !important;}
+.Terminatione { overflow: hidden;  padding: 10px;}
+.collage.tsres.scav { width: 33px;  position: relative;}
+.collage.tsres.widths { width: auto;}
+.uplTitle > span { border-bottom: 1px dashed #ccc;  display: block;  font-size: 14px;  padding-bottom: 7px;  width: 100%;}
+.lefrebb .leftwindow .onecoden > label { text-align:left;    height: 24px;}
+.onecoden.train { border-bottom: 1px dashed #ddd; font-weight: bold; padding: 0 0 5px;  width: 100%;}
+.collage.best_btn { width: auto;}
+.collage.Yeard {width: 190px;}
+.collage.formo {width: 100px;}
+.Click_hes li { float: left}
+.Click_hes li a { background: #00aeef none repeat scroll 0 0;   margin: 6px 6px 6px 0;border-radius: 3px;color: #ffffff;cursor: pointer;display: inline-block;font: 15px calibri;padding: 2px 5px !important;position: relative;transition: all 350ms ease-out 0s;}
+/* -----------------------Student----------------------------- css*/
+
+.addons {  clear: both; margin-bottom: 5px; overflow: hidden;}
+.lefrebb .leftwindow { width: 200px;}
+.lefrebb .leftwindow .onecoden select{}
+.bt { clear: both; float: right; margin-right: 8px; overflow: hidden;}
+.form-bg.rebo {border: 0 none;}
+.listing { border: 1px solid #ccc; border-radius:60px;height:120px;  margin: 0 auto; width:120px;}
+.addalldata { margin: 40px auto; width: 400px;}
+.form-bg.rebo .boxing .title-top h2 { border-bottom: 1px solid #ccc; padding-bottom: 17px;}
+.oreport {background: none repeat scroll 0 0 #fff;  width: 100%;}
+.nameusr { font-size: 20px; padding: 10px; text-align: center;}
+#divAmt {font-size: 16px;line-height: 26px;}
+#divAmt span{   border-top: 1px solid #ccc; clear: right; display: block;  float: right; font-size: 18px; margin-top: 13px;  overflow: hidden; padding-top: 5px;  width: 100%;}
+.rightsectond2 {clear: both; float: right; margin-top: 20px;}
+.paynoo { clear: both;  display: block; float: right;  font-size: 18px !important; height: 40px;  overflow: hidden;  padding: 13px !important;  width: 40%;}
+.mdl.lasrde {width: 100%;}
+.rightsectond2 p{ clear: both;  padding: 15px 0 0;}
+.title-top.new {padding-bottom: 0;}
+.title-top.new h2{ padding: 0;}
+.lftfield.limted.bild { width: 95px !important;}
+.pgrgt {float: left;  line-height: 25px;}
+.Header_top.new { width: 100%;}
+.Attendance{width: 700px; margin: 2px auto 0 auto;   padding-top: 10px;}
+.Header_bottom.new {  padding: 9px; width: 99%;}
+.MainTableHeader.newregi > td {background-color: #9662c6; color: #fff;font-size: 16px; padding: 6px 5px; text-align: left;}
+.MainTablebdr.newrefi {border: 0 none;padding: 0;}
+.attendst { background: none repeat scroll 0 0 #ffffff;}
+.MainTablebdr.newrefi {border: 0 none;  padding: 0;  width: 700px;}
+.dedmos { float: left; width: 530px;}
+.usname {float: left;width: 70%;}
+.cars { float: left; padding-right: 20px;  width: 71px;}
+.spdright { float: right;}
+.fillur { float: left; padding-bottom: 3px; width: 100%;}
+.collage.colo > label {  clear: both;  display: block;}
+.selec1 { clear: none;  float: left; margin-right: 15px;  width: 47%;}
+.selec1:last-child{margin-right: 0px; }
+.frmname { clear: both; float: left;  height: auto !important;  overflow: hidden;  text-align: center; width: 100%;}
+.whitebg.form .hdc p { color: #333; float: right; font-size: 12px; margin: 0;  padding: 10px 18px 0 0; text-align: center;  width: 100%;}
+.parta { border-bottom: 1px dashed #ccc; font-size: 16px; padding: 0 0 6px;  text-align: center;}
+.part { padding: 0 10px;}
+ p { margin: 0; padding:0;}
+ .parta > p {color: #333; font-size: 13px;}
+ .tablediv > p { border-bottom: 1px solid #ccc; color: #333;  font-size: 15px;  margin-bottom: 10px;  padding: 12px 0 7px;  text-align: center;}
+ .lefttabl { float: left;  width: 470px;}
+ .Certificate {font-size: 15px; padding-bottom: 4px;}
+ .certifica { overflow: hidden;}
+ .threerow { clear: both; margin-top: 20px; overflow: hidden;}
+ .cidtitile {  border-bottom: 1px dashed #ccc;  font-size: 14px;  margin-bottom: 10px;  padding: 5px 0;}
+ .bgw {  background: #fff none repeat scroll 0 0; margin-top: 10px;}
+ .bgw tr:first-child td {background: #fff none repeat scroll 0 0;  color: #333;}
+.tblResult.drals tr:first-child td { padding-bottom: 0;  text-align: center;}
+.verifa > p { border-bottom: 1px solid #ccc; font-size: 16px;  margin: 10px 0;  padding-bottom: 8px;}
+.in > input { border-bottom: 1px solid #ccc !important; border-left: 0 none; border-right: 0 none;  border-top: 0 none; float: left;  line-height: 0;  margin-bottom: 13px;  padding: 0;   width: 180px;}
+.in { float: left;  width: auto;}
+.part > p { float: left;}
+.formde > p { float: left;}
+.whitebg.form .hdc { height: auto !important;  overflow: hidden;}
+.vcery { clear: both;  margin-bottom: 30px;  overflow: hidden;}
+.tblResult.drals.ds tr:first-child td { background: #fff none repeat scroll 0 0; border-top: 1px solid #ccc; color: #000;  font-size: 12px;  padding-bottom: 0;  text-align: left;}
+.note li { display: list-item;font-size: 13px;  list-style-type: circle;  margin-left: 14px; margin-top: 10px;}
+.part.Annexure { margin-top: 15px;}
+#sStatus { display: inline-flex;  margin-top: 20px;}
+#contain_left > li { float: left;}
+.formclap { margin-bottom: 4px; overflow: hidden;}
+.formclapd { overflow: hidden;}
+.formclap .onecoden > textarea { float: left; width: 495px !important;}
+.tblResult.resukdtr tr:first-child td{ background:#fff !important}
+.tblResult.resukdtr tr:nth-child(2) td { color:#fff; background: #00aeef  none repeat scroll 0 0 !important;}
+.tblResult.newformsixt  tr:nth-child(1) td{background: #fff!important; border-top:1px solid#ccc; border-top: 1px solid #ccc; color: #333 !important;}
+#RequiredFieldValidator1{ float: right;}
+.topbtns.ttilads { clear: none; float: left;  width: 120px;}
+.pay_scroll { overflow: auto;}
+/* -----------------------Test series----------------------------- css*/
+
+.Registration_Series {  background: none repeat scroll 0 0 #ffffff;  padding-top: 20px;}
+.Update_Package { background: none repeat scroll 0 0 #ffffff; border-top: 2px solid #cccccc;  overflow: hidden;  padding: 10px 0 10px 10px;  width: 100%;}
+.Update_Package table {background: none repeat scroll 0 0 #ffffff;  float: left;  margin-right: 25px;  width: 400px;}
+.Update_Package a{   color: #Ff0000 !important;    transition: all 0.3s ease 0s;}
+.font.MainTablebdr{width: 600px;}.
+.commonsett { margin: 0 auto; width: 700px;}
+.onecoden.addtext { margin-bottom: 6px;  overflow: hidden;}
+.lefttabl .leftwindow{ width:100%;}
+.lefttabl .leftwindow .onecoden { width:100%;}
+.lefttabl .leftwindow .onecoden textarea{ width:74%;}
+.lefttabl .leftwindow .onecoden input[type="text"]{ width: 74%;}
+.cidrow { margin: 20px 0;  overflow: hidden;}
+.note { margin: 15px 0 0;}
+.topbtns li {  float: left;  margin-right: 5px;}
+.topbtns a { color:#00aeef; border: 1px solid #00aeef ;  padding: 6px;  display: block;;}
+.topbtns {  clear: both;  height: 22px;  margin: 15px 0;    padding: 10px 0 0;  width: 100%;}
+/* ---------------------------------------------------- css*/
+.TextBoxStyle.motha  { border: 1px solid #e9e9e9;height: 200px; padding: 4px;  width: 100%;}
+.Administrator_menu { background: none repeat scroll 0 0 #ffffff; margin: 0 auto; overflow: hidden; width: 350px; padding-bottom: 20px;}
+.Administrator_menu #ancMain{   padding: 5px 10px;  width: 172px;background: none repeat scroll 0 0 #00aeef; color:#fff;  border:1px solid #00aeef}
+.Administrator_menu #ancMain{   padding: 5px 10px;  width: 172px;background: none repeat scroll 0 0 #00aeef; color:#fff;  border:1px solid #00aeef}
+.boxing_ng {clear: both; margin: 10px 0; width: 100%;}
+.state { clear: both; overflow: hidden;}
+.MainTableHeader{ padding: 10px;}
+.displaycss a img, ._selectedRowTree a img {float: right; text-align: right;padding-right:4px; width: 6%; }
+.displaycss {text-transform: capitalize;}
+.displaycss a,.displaycss { color:#5d5d5d;}
+._selectedRowTree a, ._selectedRowTree { color:#00aeef; text-transform: capitalize;}
+.topbtns { margin: 15px 0;}
+.Designationh { background: #ffffff;    width: 95%; margin: 0 auto;}
+.Designationh .MainTableHeader { border-bottom:0 !important;}
+#tblTemplate tr:first-child td {background-color: #00aeef; color: #ffffff;  font-size: 16px; padding: 6px 5px;  text-align: left;}
+.font.myid { background: #ffffff none repeat scroll 0 0; margin: 0 auto; padding-bottom: 40px; }
+.tblbdr {  width: 100%;  margin-top: 2px;}
+.commonsett {margin: 0 auto;  width: 800px;}
+strong { font-size: 16px; font-weight: normal;}
+.tblbdr tr:nth-child(2) {background-color: #00aeef; color: #ffffff;  font-size: 16px; padding: 6px 5px;  text-align: left;}
+.tblbdr tr td{   text-align: left; padding-left: 10px;}
+#tblTemplate tr:nth-child(2) {background-color: #fff; color: #333;  font-size: 14px; padding: 6px 5px;  text-align: left;}
+.tblbdr.mydg tr:nth-child(2),.font.myid.ydps tr:nth-child(2) {background-color: #fff; color: #333;  font-size: 16px; padding: 6px 5px;  text-align: left;}
+.tblbdr.mydg td { padding-right:0px;}
+.font.myid.ydps tr:first-child td {background-color: #00aeef; color: #ffffff;  font-size: 14px; padding: 2px 5px;  text-align: left;}
+.font.tblbdr.mds{ width: 805px;}
+.font.tblbdr.mds input[type="text"], .font.tblbdr.mds input[type="password"], .font.tblbdr.mds select, .font.tblbdr.mds textarea {  width: 90%;}
+.collage.activ { width: 53px;}
+.year input[type="text"] {text-align: center; width:60px!important}
+.canaddds {clear: both;float: left; text-align: left;width: 880px;}
+.btnstest {margin: 10px 0;}
+.Office_close {display: block; float: left; padding: 5px 13px;}
+.whitebg { background: none repeat scroll 0 0 #ffffff; overflow: hidden;  padding-bottom: 20px;}
+.sdpf { margin-top: 10px;}
+.sycronise { float: left;}
+.Declaration { background: #00aeef none repeat scroll 0 0 !important;  color: #fff !important;  height: 27px;  line-height: 24px;  margin-top: 4px;}
+.collage.tsres.addtree { width: 210px;}
+.ngauto { background: #fff none repeat scroll 0 0;  padding: 10px;  width: 96%;}
+.rose1 { border-right: 4px double #e3e3e3; float: left; margin-right: 10px;  width: 260px;  padding-right: 10px;}
+.whitebg .MainTablebdr .MainTableHeaderDV { font-weight: 400;  padding: 5px;}
+.font.MainTablebdred { float: left;  width: 800px !important;}
+.font.clameenrt { background: none repeat scroll 0 0 #ffffff;}
+.font.dil { padding: 10px; width: 100%;}
+.form-bg.pride td { padding-top: 10px;}
+.onecoden.float.Target { margin-right: 0;}
+.eight { width: 800px;  padding-top: 10px;}
+.xxsa { height: 40px;  padding-top: 10px;}
+.tblbdr.milla tr:nth-child(2) {background-color: #fff; color: #333;  font-size: 16px; padding: 6px 5px;  text-align: left;}
+.collage.tsres.Apply { width: 210px;}
+.box-top.bdr { border-bottom: 1px solid #cccccc; padding-left: 10px;}
+.box-top.bdr .collage {float: left; margin-right: 15px; width: 220px;}
+.collage.ddrds {  width: 200px;}
+.collage.ddrds > select { width: 80%;float: left; margin-right:5px}
+.fro > input { width: 88% !important;}
+.fro > label {  height: 17px;  text-align: left;}
+.addbtns > a {background: none repeat scroll 0 0 #00aeef; border-radius: 3px; color: #ffffff; float: left;  margin-bottom: 8px;  padding: 5px 20px;}
+.tblbdr.revolu tr:nth-child(2) { color: #333;  font-size: 16px;  text-align: left;}
+.tblbdr.revolu tr:first-child td {background-color: #00aeef; color: #ffffff;  font-size: 16px; padding: 6px 5px;  text-align: left;}
+.font.xxsd{ padding-top: 10px;}
+.MainTablebdr span {font-weight: bold;  color: #014384;}
+.MainTablebdr li {  font-size: 13px;  padding-bottom: 8px; cursor: pointer;}
+.MainTablebdr p { padding-bottom: 7px;}
+.fro { float: left; width: 95px;}
+label { display: block; height: 17px;  width: 100%;}
+.botoombox { padding: 10px;}
+.tblbdr.milla tr:nth-child(2) {background-color: #fff; color: #333;  font-size: 16px; padding: 6px 5px;  text-align: left;}
+.font.border.remove { border:0px}
+.textser { float: right;  margin-right: 37px;}
+.form-bg.pride.xxs{ width: 400px;}
+.whitebg.ddingp.dingdong { overflow-x: hidden;}
+.collage.tsres.ddf { width: 82px;}
+.collage.tsres.dfg { width: 150px;}
+#divLoad {clear: both; width: 100%;}
+.font.mona tr td { border-right: 1px solid #cccccc !important }
+.MainTableHeader.size2 {font-size: 20px;}
+.MainTableHeader.size3 {background: none repeat scroll 0 0 #ffffff; border-bottom: 1px solid #cccccc !important; font-size: 20px;  margin-bottom: 2px; padding: 10px;}
+.MainTableHeader.monalisa {text-align: center !important;  width: 300px;}
+.dmondei .MainTableHeader {font-size: 16px; padding: 4px;}
+.dvlft.revo { padding: 0 0 10px; width: 65%; margin-left: 5px;}
+.collage.tsres.ddffd { width: 100px;}
+.tblbdr.dil { width:600px}
+.tblbdr.dil  tr:nth-child(1){ background: none repeat scroll 0 0 #00aeef; color:#fff;}
+.tblbdr.dil  tr:nth-child(2) { background:#fff;    color: #29166f;font-size: 16px;text-align: left;}
+.contain_left.ds { float: right;  margin-top: 20px;}
+.collage.tsres span { display: block; font-size: 12px;  width: 120px;}
+.collage.ddrds.sdsm { margin-top: 16px;}
+.form-bg.pride input[type="text"], .form-bg.pride textarea{ width: 56%;}
+.motog { float: left;margin: 0;overflow: hidden; width: 350px;}
+.downdv {   float: left;margin-bottom: 10px; overflow: hidden; width: 591px;}
+.stylest { margin: 0 auto;overflow: auto; padding-bottom: 40px; width: 90%;}
+.modsad {float: left; margin: 0px}
+.box-top.sdmds{ margin: 0 auto; width: 800px;}
+.botoomboxing { margin: 0 auto; padding: 10px; text-align: left;  }
+.botoomboxing.susdg { text-align: left;}
+.mendosa .Header_top .contain_left a { background: none repeat scroll 0 0 #00aeef !important; padding-top: 0;}
+.collage.sandeep {  width: 50px;}
+.collage.sandeep > input { background: none repeat scroll 0 0 #00aeef;}
+.collage.img { text-align: center;}
+.box-top.cmdsre { height: 55px;  overflow: visible;}
+.mondais tr:nth-child(3) { background:#00aeef; }
+.mondais tr:nth-child(4) { background:#f9f9f9;}
+#tblList tr:nth-child(1)td{ color:#fff!importantf}
+.mondais tr:nth-child(1) { background:#f9f9f9;}
+.sandy tr:nth-child(1) { background:#fff !important;}
+.sandy tr:nth-child(3) { background:#fff;}
+.sandy tr:nth-child(4) { background:#fff;}
+.sandy tr td { color:#333;}
+.boxdown { margin-left: 10px;}
+.devfer > p {border-bottom: 1px dashed #ccc;font-size: 17px; padding: 14px 0; text-align: center;}
+.righthistoi { clear: both; margin: 8px 0; overflow: hidden;}
+.collage.tsresed { padding: 18px 0 0; width: 141px;}
+.collage.img2 {text-align: left;}
+.center { margin: 10px auto;  width: 99%;}
+.collage.sandeep2 {  width: 33px; position:relative;}
+.collage.sandeep2 span { left: 0; position: absolute; top: -5px; width: 140px !important;}
+.tblbdr tr:nth-child(1) {background:#fff; color: #29166f; font-size: 16px; text-align: left;}
+.tblbdr tr:nth-child(2) {background:#fff; color: #29166f; font-size: 13px; text-align: left;}
+.reweek { color: #29166f !important; float: left;}
+.reweek p { float: left; margin: 0; padding: 0 10px 0 0;}
+.reweek {color: #29166f !important; float: left;  width: 110px;}
+.botoombox.dim2 { clear: both; margin-top: 10px; padding: 0;}
+.collage.sandeep5 { width: 65px;}
+.rdesi { border-bottom: 1px dashed #ccc; overflow: hidden; padding: 10px 0;}
+#divMinus > a, #divPlus > a {display: block; font-size: 0; height: 30px;  width: 30px;}
+.AddCategory { border: 1px solid #cccccc;float: left;height: auto; text-align: left;  width: 220px; margin-right: 10px;}
+.catgory2 { float: left;  width: 75%;}
+.MainTablebdr.abcsd2 { margin: 10px auto;  width: 99%;}
+.AddCategory > a {background:#00aeef; display: block; padding: 10px; color:#fff}
+.font select option {  display: block; line-height: 100px !important;}
+.font.myid.ydps1 tr:first-child td {  background-color: #00aeef; color: #ffffff; font-size: 16px; padding: 4px 5px;  text-align: left;}
+.font.myid.ydps1 tr td { border-right: 1px solid #cccccc; padding: 3px 5px; border-top: 1px solid #cccccc;}
+.collage.img52 {width: 20px;    }
+.collage a {  background: none repeat scroll 0 0 #00aeef;border-radius: 2px; color: #ffffff;  display: block;  padding: 5px;width: 62px; text-align: center;}
+.tableselected.batak5 { background: none repeat scroll 0 0 #ffffff;}
+.tableselected.batak5 td { padding-bottom:20px;}
+.btn.btnRights {float: right;  height: 40px; width: 120px; background:#00aeef; font-style:normal; color:#fff;font-size: 16px !important;  border: 1px solid #00aeef;}
+.hrdimradh {  margin: 0 auto; width: 800px;}
+.nand { float: left;   margin-left: 10px;}
+.topsexx { float: left; overflow: hidden;}
+.megebto .contain_left a { color:#000!important}
+.leftcontainer tr { border-bottom: 1px solid #ccc;  display: block;   line-height: 26px;}
+.leftcontainer { background: none repeat scroll 0 0 #f4f4f4;}
+.leftpage.border { border-right: 4px solid #00aeef;}
+.leftpage.border .lftheader {   background-color: #00aeef;}
+.rihtbahju { float: left; margin-bottom: 10px; overflow: hidden;}
+.ndtable tr:nth-child(2) { background:#fff!important;  color: #29166f!important;  font-size:12px!important;}
+.divclasswhite.Leavea .onecoden{    margin: 5px 0; overflow: hidden;}
+.leftwindow.winow { width: 510px;}
+#trAmount1 > select { float: left;  margin-right: 10px;}
+.leftwindow.winow  .onecoden { margin:5px 0; overflow:hidden}
+.latm {float: left;width: 310px;}
+.latemark {clear: both;width: 100%;}
+.selreo li p {  float: left;  margin: 0 2px 0 0;}
+.latemark {clear: both;margin-bottom: 8px;overflow: hidden;width: 100%;}
+.selreo li {border-bottom: 1px dashed #ccc;clear: both;line-height: 22px;margin-bottom: 12px;overflow: hidden;padding-bottom: 5px;width: 100%;}
+.selreo li strong {  float: left;}
+.fromed > p {float: left;line-height: 35px; margin-right: 10px;}
+.inpted > input {-moz-border-bottom-colors: none;  -moz-border-left-colors: none; -moz-border-right-colors: none; -moz-border-top-colors: none; border-color: -moz-use-text-color -moz-use-text-color #ccc;  border-image: none;  border-style: none none solid;  border-width: 0 0 1px;}
+.inpted {float: left; width: 450px;}
+.fromed { padding: 0 10px;}
+.inpted.ded { width: 160px;}
+.inpted.ded.capacity { width: 89px;}
+.linemar { line-height: 20px !important;}
+.adg > select {margin-left: 10px;  width: 85px;}
+#lstBox { height: 200px;}
+.fastname {  float: left;  width: 70px;}
+.fatrname {  float: left;  width: 103px;}
+.fatrname > input { width: 110px !important;}
+.fupload {  float: left;  width: 160px;}
+.allbtns { float: right;}
+.tableselected.Customer { width: 100%;}
+.allhis { float: left;  font-size: 14px;  margin: 0 0 4px;  padding: 6px;}
+.calsy { float: left;}
+.titledev { margin-top: 10px;}
+.contain_left.tole { padding-bottom: 5px;}
+.font.classs {  margin-top: 10px;}
+.pay_ticket {clear: both; overflow: hidden;}
+.pay_ticket li strong {float: left;font-size: 12px;font-weight: bold;margin: 0 5px 0 0; text-align: right; width: 80px;}
+/* -----------------------popup css----------------------------- css*/
+.MainTablebdr.pankaj  input {margin-bottom: 14px;}
+.Designationh tr:nth-child(1) {  }
+.dfl {float: left;}
+.dfl a{ background:#00aeef none repeat scroll 0 0}
+.collage.ddrds > select { float: left; margin-right: 5px;  width: 60%;}
+.democookoies {width: 250px; float: left;margin-right: 10px;}
+.Tuesdayds { float: left;  width: 590px;}
+.name_user { font-size: 20px !important;}
+.MainTable_grid.ddp tr:first-child td { background-color: #00aeef; color: #ffffff;font-size: 16px; padding: 6px 5px; text-align: left;}
+.tblbdr.sndy5 tr:first-child td { background-color: #00aeef; color: #ffffff;font-size: 16px; padding: 6px 5px; text-align: left;}
+.vabt.dsmsy { width: 600px; margin:0 auto}
+.lineone tr:first-child td { background-color: #fff; color: #333;}
+.pankajds {  margin: 0 auto;width: 900px;}
+.whitebg .currentyear{float: left; width: 60%; padding-left: 5px;}
+#divCalender table table {margin: 0 20px 20px 0;}
+.inner th, .inner td { border-top: 1px solid #cccccc;border-right: 1px solid #cccccc;padding: 2px;}
+.parrow{width: 730px; float: left;}
+.samed{width: 230px; border: 1px solid #cccccc;}
+.MainTableHeader5{ font-size: 17px !important;  background-color: #f4f4f4;padding: 4px;border-bottom: 0 none !important;}
+.collage.meera { width: 150px;}
+.latm label {float: left; width: 150px;}
+.tablediv { clear: both;  overflow: hidden;}
+.fisrd { clear: both;  overflow: hidden;}
+.tblResult.bord td { text-align: left!important; border-left:left;}
+/* ----------------------- Dashboard Design----------------------------- css*/
+.dashingboardtop { clear: both;overflow: hidden; }
+.Active { float: left; height: 383px; overflow-x: auto;}
+.headl { float: left; font-size: 15px; padding: 10px; color:#c69102}
+.headcount { border-left: 1px solid #cccccc;float: right; padding: 10px;font-size: 17px;color:#c69102; min-width: 7%;}
+.whitebg.dashingboardtop{  background: none repeat scroll 0 0 #f4f4f4;}
+.whitebg.dashingboardtop .MainTableHeader, .whitebg.dashingboardtop .box-top{background: none repeat scroll 0 0 #fff;}
+.branchdata { clear: both; display: table; overflow: auto;   width: 100%;}
+.sub > li { list-style: outside none none;}
+.branchdata > ul {  margin: 0; padding: 0;list-style: outside none none;}
+.sub { margin: 0; padding: 0;}
+.unselected:hover{ background:#f4f4f4;transition: all 0.3s ease 0s;}
+.unselected {  border-bottom: 1px solid #cccccc;float: left; font-size: 13px;  line-height: 31px;  margin-left: 20px; width: 47%;transition: all 0.3s ease 0s;background:#fff;}
+.titlebox {clear: both;display: block; overflow: hidden; width: 100%;    border-bottom: 1px solid #cccccc;}
+.rightsirdd {background: none repeat scroll 0 0 #ffffff;height: 383px; border: 1px solid #cccccc; box-shadow: 0 0 3px #c2c2c2;}
+#tblActive tr td:nth-child(1) {color: #636872; float: left; font-size: 12px; font-weight: 500; letter-spacing: 1px; text-align: left; width: 80%;}
+#tblActive tr td:nth-child(2) { color: #3b404a; float: left; font-size: 13px;text-align: right; width: 10%;}
+.whitebg.dashingboardtop .box-top {  margin-bottom: 1px; border: 0 none;}
+.selected {  border-bottom: 1px solid #cccccc;float: left; font-size: 13px;  line-height: 31px;  margin-left: 20px; width: 47%;transition: all 0.3s ease 0s;background:#fff;}
+.unselected:nth-child(2n+1){ margin-left:20px;}
+.fondjob {float: left; margin-left: 10px; width: 47%;}
+.fondingkam { background: none repeat scroll 0 0 #ffffff;  float: left;  overflow: hidden; padding-bottom: 16px;  width: 48%;}
+.fondingkam .unselected{ width:100%}
+.fondingkam tr td:nth-child(1) {color: #636872; float: left; font-size: 12px; font-weight:500; letter-spacing: 1px; text-align: left; width: 80%;text-transform: uppercase;}
+.fondingkam tr td:nth-child(2) { color: #3b404a; float: left; font-size: 13px;text-align: right; width: 10%;text-transform: uppercase;} 
+.imgjob { margin: 0 auto;padding: 15px 0 38px; position: relative; text-align: center; width: 120px;}
+.imgjob > img { width: 100%;}
+.furbg { background: none repeat scroll 0 0 #f4f4f4; height: 40px;margin-top: -115px;  width: 100%;}
+.fondingkam .branchdata { clear: both; display: table;  overflow: auto; width: 89%;}
+.fondingkam { background: none repeat scroll 0 0 #ffffff;  float: left;  overflow: hidden; padding-bottom: 20px;  width: 43.6%;height: 363px; border: 1px solid #cccccc;   box-shadow: 0 0 3px #c2c2c2;} 
+.shadow  { background: none repeat scroll 0 0 #ffffff;  overflow: hidden; border: 3px solid #cccccc; } 
+.fondingkam:nth-child(2){ margin-left:10px; width: 54.5%;}
+.headt.media { border-bottom: 1px solid #cccccc; overflow: hidden;}
+.fondingkam .selected{ width: 100%;}
+.allemployee {overflow: hidden;} 
+.putypein { float: left;}
+.tblResult.newformsixt.mega td:nth-child(1),.tblResult.newformsixt.mega td:nth-child(1) {  text-align: left;}
+.putypein > input {  -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-right-colors: none;  -moz-border-top-colors: none;  border-color: -moz-use-text-color -moz-use-text-color #333;  border-image: none;  border-style: none none dashed;  border-width: 0 0 1px;  width: auto;}
+.spa { float: left; line-height: 20px;  margin-right: 10px;}
+.code125 { overflow: hidden;}
+.marchand { float: left; margin-right: 10px; width: 120px;}
+.transp { float: left; margin-right: 20px;  width: 210px;}
+.codeRemark { overflow:hidden}
+.rightsirdd .branchdata .selected { width: 46%;}
+.dname { float: left;  line-height: 24px;  margin-right: 6px;}
+.gendertion {clear: both; display: block;margin-top: 10px; overflow: hidden; width: 100%;}
+.leftgendertion {background: none repeat scroll 0 0 #ffffff; width: 52%;float: left;height: 194px; overflow: hidden; border: 1px solid #cccccc;
+    box-shadow: 0 0 3px #c2c2c2;}
+#tblGender .unselected:nth-child(1) {background-image: url("../images/female.png"); background-position: 0 17px;  background-repeat: no-repeat; border: 0 none;font-size: 20px;  height: 125px; line-height: 53px; padding: 33px 0 0 110px; width: 47%; border-right: 1px solid #cccccc;border-bottom: 0 none;}
+
+.collage.Branch {width: 300px;}
+#tblGender tr td:nth-child(1) { color: #636872;  float: left;  letter-spacing: 1px; text-align: left;  width: 45%;}
+#tblGender tr td:nth-child(2) { color: #636872;  float: left;   letter-spacing: 1px; text-align: right;  width: 20%;font-size: 14px;}
+#tblGender tr.selected:nth-child(2) {  background-position:0 17px;   font-size: 14px;   }
+.leftgendertion.leftgendertion2 {height: 194px; margin-left: 10px;overflow: hidden;width: 46.6%;}
+#tblMS .unselected:nth-child(1) {background-image: url("../images/married.png"); background-position: 0 17px;  background-repeat: no-repeat; border: 0 none;font-size: 20px;  height: 125px; line-height: 53px; padding: 33px 0 0 110px; width: 47%; border-right: 1px solid #cccccc;border-bottom: 0 none; }
+#tblMS .unselected:nth-child(2) { background-image: url("../images/unmaried.png");background-position: 0 17px; background-repeat: no-repeat;border: 0 none;  font-size: 20px; height: 125px; line-height: 53px; padding: 33px 0 0 110px;  width: 47%;}
+#tblMS tr td:nth-child(1) { color: #636872;  float: left;  letter-spacing: 1px; text-align: left;  width: 70%;}
+#tblMS tr td:nth-child(2) { color: #636872;  float: left;  letter-spacing: 1px; text-align: right;  width: 20%;font-size: 14px;}
+#tblMS .selected {  background-image: url("../images/married.png"); background-position: 0 17px;  background-repeat: no-repeat; border: 0 none; font-size: 20px;  height: 125px;  line-height: 53px; padding: 33px 0 0 110px;  width: 47%;}
+#tblMS tr:nth-child(2).selected {  background-image: url("../images/unmaried.png"); background-position: 0 17px; background-repeat: no-repeat; border: 0 none; font-size: 20px; height: 125px; line-height: 53px; padding: 33px 0 0 110px; width: 47%;}  
+.leftgendertion .branchdata{  padding: 10px 0;} 
+.graphixsecrion { clear: both; margin-top: 10px;  overflow: hidden;}
+.graphixsecrion .branchdata > img { width: 100%;}
+.bottomtitle li { float: left; list-style: outside none none;  text-align: center;   width: 30%; color:#3b404a}
+.bottomtitle li h4 {font-size: 16px; font-weight: normal; margin: 0; padding: 0;}
+.bottomtitle li p {margin: 0;}
+.bottomtitle { border-top: 1px solid #cccccc; overflow: hidden; padding-bottom: 20px;}
+.graphixsecrion .fondingkam {   height: 505px;} 
+.fondingkam.pdmp { height:auto; float: right; margin-bottom: 10px; width:100%;}
+.rightspn {float: left; margin-left: 10px; overflow: hidden; width: 54%;}   
+.lasthitring { clear: both; overflow: hidden;  margin: 3px 0 0;}
+.lasthitring .onerow {background: none repeat scroll 0 0 #ffffff; float: left; overflow: hidden; padding-bottom: 10px;  width:32.3%;margin-right: 10px; min-height: 120px;  border: 1px solid #cccccc;
+    box-shadow: 0 0 3px #c2c2c2;}
+.lasthitring .onerow:nth-child(3) { margin-right:0px}
+.onerow .unselected{ width: 92%;}
+.graphixsecrion .rightsirdd { float: left; height: 525px;} 
+ul {   list-style: outside none none; margin: 0; padding: 0;}
+.Active.branchdata.mCustomScrollbar._mCS_3.mCS_no_scrollbar {  height: 129px;  padding: 0;  width: 94%;}
+#mCSB_3_container > ul {margin: 0; padding: 0;}
+.fondingkam.pdmp:nth-child(2){   padding-bottom: 0;}
+.branchdata .selected{width: 92%;}
+.grapheight {height: 484px;}
+.Newheigh { height: 150px;}
+.divclasswhite.Productentry {margin: 0 auto;width: 400px;}
+.sub .unselected{ width:100%; margin-left:0; padding:0 0 0 10px;}
+.sub table{ width:100%;}
+.sub td {  width: 110px;}
+#divAttach input[type="file"]{ border:0!important}
+#tblJobType tr td:nth-child(1) ,#tblBloodGroup tr td:nth-child(1),#tblTP tr td:nth-child(1)  ,#tblYP tr td:nth-child(1)  ,#tblLA tr td:nth-child(1)  {  color: #636872; float: left; font-size: 12px;font-weight: 500;letter-spacing: 1px; text-align: left; width: 80%;} 
+#tblGender tr td:nth-child(1),#tblGender tr td:nth-child(1){  color: #636872;float: left;font-size: 21px;font-weight: 500;letter-spacing: 1px;text-align: left;width: 70%;} 
+#Li5 .sub td:nth-child(1){ width:80%!important} 
+.Active.pankajs { height:210px;} 
+.Active.branchdata { height:130px;}  
+.fondingkam.pdmp .branchdata {width: 92%;}
+.fondingkam.pdmp .Active.branchdata{width: 95%;}  
+.pank {float: left; padding: 0;font-size: 20px;}
+.select{ background:yellow!important }
+.fondingkam.wow.bounceInUp.animated .headt.bolldpankj{  margin-top: 35px;}
+.fondingkam.wow.flipInX.animated .headt.bolldpankj{  margin-top: 35px;}
+fieldset { border: 1px solid #cccccc;}
+.tabing li { float: left;  font-size: 13px; letter-spacing: 1px; padding: 8px 30px;  text-transform: uppercase;border-right:1px solid #ffffff;  transition: all 350ms ease-out 0s;}
+.tabing li:nth-child(3){ border: 0 none; }
+.form-bg.pride {  border: 1px solid #cccccc;}
+.finelcials {   background: #fff none repeat scroll 0 0;margin: 0 auto;  width: 100%;}
+.panm { background: #005e9f none repeat scroll 0 0; overflow: hidden; padding: 4px 0; width: 100%;}
+.panm li:nth-child(1){ width:66px;}
+.panm li { float: left;font-size: 14px; width: 59px;border-right: 1px solid #00aeef; padding-left:4px;}
+.whitebg.form { margin: 0 auto; width: 960px;}
+.fro.dem { width: 130px;}
+.lefttabl.paddi { margin-left: 10px;  width: 460px;}
+.thoughtb { font-size: 14px;}
+.blockingd {box-shadow: 0 0 5px #ccc; margin: 20px auto;  padding: 10px; width: 85%;}
+.lineheight2 {  float: left;}
+.transformation { float: left; margin: 0;  overflow: hidden;}
+.transformation a {border: 1px solid #00aeef;float: right;  padding: 6px 15px; color:#00aeef;    text-align: center;        margin: 0px 2px;}
+.abc1 {border-bottom: 1px dotted #ccc; margin-bottom: 10px; padding-bottom: 5px; font-size: 15px;}
+.fstad tr:first-child td {background-color: #99ccff!important; color: #fff; font-size: 14px; padding: 3px 5px; text-align: left;}
+.tblResult.rowwidth tr td:nth-child(3){ width:100px;}
+.state.btnwidth > a { width: 145px !important;}
+.fstad{ margin-top:5px;}
+.Contact { border-bottom: 1px dashed #ccc; font-size: 16px; margin-bottom: 6px;  padding-bottom: 2px;}
+.onecoden.cssv > input { float: right;}
+.fro.tme { margin-bottom: 5px;width: 75px;}
+.fro.tme > span {line-height: 21px;}
+.fro.tme > select { margin-right: 5px; padding: 0;}
+.leftwindow.leftwindwidth.bankwdth { float: none !important; margin: 0 auto; width: 465px;}
+.onecoden.lftlabelwidth.bankwdth > label {width: 136px;}
+.onecoden.lftlabelwidth.bankwdth > select { width: 50%;}
+.onecoden.lftlabelwidth.bankwdth > input { width: 223px !important;}
+.onecoden.lftlabelwidth.bankwdth.bluesub > input { margin-right: 73px; width: 100px !important;}
+.collage.serch.searchd > label {height: 12px;}
+.adlnbt {float: right; margin-right: 110px;}
+.collage.serch.searchd > label {  height: 12px;}
+ .selected{ background-color:Yellow!important;  }
+ .temlpe { padding: 15px 0;}
+ .employeedetails { margin: 0 auto; width: 706px;}
+ .fotopic img { width: 100%;}
+ .fotopic { border-radius: 70px !important; float: left;  height: 80px; overflow: hidden;  width: 80px; border: 2px solid #fff;  box-shadow: 0 0 6px #999; margin-right: 17px;}
+ .useidsec {  float: left;}
+ .achfive { border-bottom: 1px dashed #ccc; font-size: 17px;  margin: 0 0 14px;  padding: 0 0 10px;}
+ .pgotosexto { color: black;  display: block;  overflow: hidden; padding: 6px 10px;}
+ .genaralinfo { float: left; height: 450px;  margin-right: 20px;  padding: 10px;  width: 315px;}
+ .tabcontrolers {  clear: both;}
+ .tabcontrolers {  box-shadow: 0 0 5px #ccc; clear: both; display: inline-block;  margin: 17px 0; overflow: hidden; padding: 10px;  width: 690px;}
+ .tabing {  margin-bottom: 13px;}
+ .tabcontrolers.conatinfo { margin-top: 0;}
+ .addrsssinfo > input { border-radius: 0;  text-align: left;  width: 709px;}
+ .addrsssinfo { display: inline-block;  margin: 10px 0;}
+ .genaralinfo:nth-child(1){margin-right:7px;    margin-left: 11px;}
+ .genaralinfo.pesonal {  margin-right: 0;}
+.down { background-image: url("../images/arrow483.png"); background-position: 17px 13px;  background-repeat: no-repeat;     background-size: 15px auto;}
+.up { background-image: url("../images/upa.png"); background-position: 17px 13px;  background-repeat: no-repeat;    background-size: 15px auto;}
+.tabing > ul { background: #595959 none repeat scroll 0 0;  color: #ffffff !important;  height: 35px;  overflow: hidden;  width: 380px;}
+.collage.sandeep > label { height: 16px;}
+.addbtns { padding-left: 10px;}
+.onecoden.advsal > label {width: 200px;}
+.onecoden.advsal .fro{ width: 95px;}
+.addbtns.Historyd a {margin-bottom: 0;  padding: 8px 20px;}
+.collage.calsecy { width: 120px;}
+.collage.calsecy > label {  height: 12px;}
+.grossamouin { font-size: 16px;  padding: 20px 13px;}
+.Incentives { float: left;}
+.Incentives .collage { width: 210px;}
+.collage.tsres.tress { padding: 13px 0 0;  width: 61px;}
+.leftwindow.winow .onecoden select{ width: 58%;}
+.MainTableHeader.monalisa { border-bottom: 1px dashed #cccccc; font-size: 16px;  line-height: 30px;  text-align: center !important; width: 300px;}
+.colore {   font-size: 12px; color: #00aeef; padding: 1px;}
+.contain_left li { float: left;}
+.collage.tsres.addtree { padding-top: 15px;}
+.onecoden.Amountto label { width: 111px;}
+.persondelas.slidingDiv { margin: 0 auto;  overflow: hidden;  padding: 20px;  width: 650px;}
+.persondelas.slidingDiv .leftwindow .onecoden input[type="button"]{  float: right; margin-top: 5px; width: 100px;}
+.tblResult.Attachmented tr:nth-child(2) td{ border-top:1px solid#dfdfdf;}
+.leftl { position: absolute; width: 120px;}
+.topheader { border-bottom: 4px double #ccc; overflow: hidden; padding: 10px;   position: relative;}
+#div3 strong { float: left;    margin-right: 15px; text-align: right; width: 120px; font-weight: bold;  font-size: 12px;}
+#div3 p{ float: left; font-size: 14px; line-height: 20px;}
+.staffsumm { overflow: hidden; padding: 5px 0;   border-bottom: 1px dashed #ccc;}
+#div3 li { float: left;  width: 48%;}
+#div4 li { float: left;   width: 48%;}
+.topdenta {float: none; margin: 0 auto;   text-align: center;  width: 600px;}
+#divLogo > img { width: 100%;}
+.staffsumm h5 { margin: 0; overflow: hidden;  padding-bottom: 7px;}
+#div4 P { float: left; font-size: 14px; line-height: 20px;}
+#div4 strong {margin-right: 15px;width: 120px;float: left;text-align: right;font-weight: bold;   font-size: 12px;}
+.Deductions {  float: left; margin-right: 20px; overflow: hidden; width: 430px;}
+.Allowncesed {  overflow: hidden;}
+.bdbott { border: 1px solid #ccc; font-weight: bold;  padding: 10px 0;  text-align: center;}
+.staffsumm h5 P {  line-height: 16px!important;}
+.staffsumm.nodotted { border-bottom: 1px solid #ccc;  margin-bottom: 2px;}
+.pring {  position: absolute;  right: 10px;}
+#div2 a { background: #00aeef none repeat scroll 0 0; color: #fff; display: block; padding: 9px 15px 28px 10px; cursor: pointer;}
+#div2 a:hover{background: #0081c2}
+.pront {  float: left;font-size: 20px; margin-right: 10px;}
+#div2 p { float: left;  line-height: 18px;}
+a { transition: all 0.3s ease 0s; cursor: pointer; color: blue;}
+.collage.serch.searchd {  height: 55px;  margin-top: 4px;}
+.cnamed { font-size: 18px;  font-weight: bold;}
+.bnamed { font-size: 16px;}
+.dateb { font-size: 15px;}
+.actunet { border-top: 1px solid #ccc; margin-top: 2px;  overflow: hidden;padding: 10px 0;}
+.actunet strong {float: left; font-weight: bold; margin-right: 10px; text-align: right;   width: 120px;}
+.actunet P { float: left; font-size: 14px; line-height: 20px;}
+.actunet li { float: left; padding-bottom: 2px;  width: 48%;}
+.inmword { clear: both;  width: 100%!important;}
+.foter {  overflow: hidden; padding: 5px 0; text-align: center; border-top:1px solid#ccc}
+.collage.tsres.fived { height: 40px; padding-top: 15px;}
+.form-bg.Designation {  height: 700px; overflow: auto;}
+.collage.search { width: auto;}
+.headt.bolldpankj { margin: 45px 0 0;}
+/* ----------------------- Tool tip----------------------------- css*/
+.tip-yellow {z-index:1000;text-align:left;border:1px solid #939393;padding:7px;min-width:50px;max-width:530px;color:#00aeef ;background-color:#fef9d9;background-image:url(../images/tip-yellow.png);}
+.tip-yellow .tip-inner {font:bold 13px/18px 'trebuchet ms',arial,helvetica,sans-serif;margin-top:-2px;padding:0 3px 1px 3px;}
+.tip-yellow .tip-arrow-top {margin-top:-7px;margin-left:15px;top:0;left:0;width:16px;height:10px;background:url(../images/tip-yellow_arrows.png) no-repeat;}
+.tip-yellow .tip-arrow-right {margin-top:-9px;margin-left:-4px;top:50%;left:100%;width:10px;height:20px;background:url(../images/tip-yellow_arrows.png) no-repeat -16px 0;}
+.tip-yellow .tip-arrow-bottom {margin-top:-6px;margin-left:15px;top:100%;left:0;width:16px;height:13px;background:url(../images/tip-yellow_arrows.png) no-repeat -32px 0;}
+.tip-yellow .tip-arrow-left {margin-top:-9px; margin-left:-6px;top:50%;left:0;width:10px;height:20px;background:url(../images/tip-yellow_arrows.png) no-repeat -48px 0;}
+.toppandes {  width: 90%;}
+.suscesf {float: left; left: 160px; position: absolute;  width: 1000%;}
+.onecoden.train > input { font-size: 12px; font-weight: bold !important;  width: 20px;}
+.whitebg.ddingp.dingdong 
+.box-top { padding: 0 0 12px 10px;}
+/* ----------------------- toggle css----------------------------- css*/
+#toggle { clear: both;  overflow: hidden;}
+#toggle .content { background: none repeat scroll 0 0 #ffffff; float: left;margin-bottom: 1px; padding: 15px 0;  width: 100%;}
+#toggle > h3.active, #toggle > h3.active i { background: #333 url("../images/rightaavv.png") no-repeat scroll right center; border: 1px solid #333;  color: #ffffff;  width: 98%;}
+#toggle > h3 {   margin-top: 4px;background: #048cbe url("../images/rightaa.png") no-repeat scroll right center;  border: 1px solid #048cbe; color: #fff; cursor: pointer;  float: left;  font-size: 13px;   font-weight: bold;  margin-bottom: 0;  padding: 6px;  text-transform: capitalize;  width: 98%;}
+.whblank { background: #fff none repeat scroll 0 0;  overflow: hidden;}
+.onecoden.buybtn {margin-top: 5px;}
+.useidsec.smadd { margin-right: 10px;  width: 50px;}
+.onecoden.smal {clear: none;float: left;margin: -5px 0 0;width: 110px;}
+.useidsec.smadd > input {width: 40px;}
+.onecoden.smal > label {  height: auto;  clear: none;  float: left;  text-align: left;  width: 100%;}
+.onecoden.smal > select {  width: 129px;}
+.savinfds {  float: right;  margin-right: 40px;  text-align: right;  width: 100%;}
+.maintabed {  margin-top: 20px;}
+.savinfds input { width: 140px;}
+.collage.tsres.edd { width: 120px;}
+.collage.tsres.appl { position: relative;}
+.collage.ret { position: relative;}
+.collage.tsres.appl p { left: 84px;  position: absolute;  top: 20px;}
+.collage.sad { width: auto;}
+.pay_infocle { margin: 0 auto; width: 690px;}
+.pay_ticket a {border: 1px solid #00aeef;color: #00aeef;display: block;margin: 4px 0 0;padding: 4px 15px;width: 50px;}
+.collage.search.topp { margin: 0; padding: 16px 0 0;}
+/*----------------------new css---------------------*/
+.whblank.pding {padding-bottom: 20px;}
+.leftwindow.mrgin {margin-left: 40px;}
+.uplod a {background: #00aeef none repeat scroll 0 0;color: #ffffff;padding: 5px;}
+.uplod {margin-top: 10px;}
+.chalan > label {height: 14px;}
+.go{float: right; width: 27px;margin-top: 27px;}
+.empbutn {background: #00aeef none repeat scroll 0 0; border-radius: 3px;color: #ffffff !important;font-family: calibri;font-feature-settings: normal;font-kerning: auto;font-language-override: normal;
+          font-size: 15px;font-size-adjust: none;font-stretch: normal;font-style: normal;font-synthesis: weight style;font-variant: normal;font-weight: inherit !important;line-height: normal;padding: 3px 5px !important;}
+p.leaveap {margin: 15px 0 0 15px;}
+.tblResult.bordr_no td {border: medium none;}
+.fro.dte > input {width: 85% !important;}
+.fro.dte {margin-right: 5px;}
+img.del_add {border: 1px solid #00aeef  !important;padding: 2px; width: 24px;}
+img.del_add:first-child {margin-left: 3px;}
+.colore.userfonts {font-size: 16px !important;}
+a.edt_emp {margin: 6px 0px 0 0;}
+.box-top.margnleft {padding: 0 0px 13px 0 !important;}
+.btnstest.mrgnleft {margin-left: 10px;}
+.collage.sad {width: auto;}
+.collage.a{ margin-left: 10px;}
+.rghtmar {margin-right: 5px !important;padding: 2px;}
+.onecoden.quest {overflow: hidden;}
+.pay_rollsend.newlabl label{ width:120px;}
+.onecoden.reply table {width: 32%;}
+textarea.msg {width: 495px !important; margin-bottom: 5px;}
+.reply_status {width: 770px; padding: 10px;}
+.left_status {border-right: 1px dashed #ccc;float: left; width: 130px;}
+.right_status {float: left;width: 638px;}
+.right_status .onecoden label { font-size: 12px; font-weight: bold; height: 20px;}
+.staff_img {width: 80px;}
+.status_info {margin-top: 8px;}
+.codeRemark.code_margn {margin-bottom: 10px;}
+.fstad.remrk td:last-child {border-right: 1px solid #cccccc;}
+input.numberip1 { width: 96.5%;}
+.numberip2 {width: 90% !important;}
+.genaralinfo.info_gen:first-child {margin-left: 10px; margin-right: 10px;}
+.genaralinfo.info_gen {width: 315px;}
+input.emphisry1 {width: 91%;}
+.saving{float: right; padding-top: 5px; text-align: center;    width: 140px; color: Red;}
+.pay_central {background: #fff none repeat scroll 0 0; border: 1px solid #ccc;box-shadow: 0 0 4px #ddd; margin: 13px auto 0 auto; overflow: hidden; padding: 10px; width: 960px;}
+.pay_name { font-size: 13px; font-weight: bold; color:#004db6}
+.den_sellerlogin.den_sell img { vertical-align: middle;  width: 100%;}
+.den_sellerlogin.den_sell { overflow:hidden;border: 1px solid #fff;border-radius: 70px;box-shadow: 0 0 3px;float: left;height: 80px;text-align: center;width: 80px;}
+.den_sellerlogin li p{  float:left; width:100px;}
+.den_sellerlogin li {  height: 20px;clear: both;display: block;overflow: hidden;width: 100%;}
+.sch_user1 { float: left; margin: 0 0 0 6px;  width: 714px;}
+.den_sellerlogin li strong {display: block;float: left; font-size: 12px;font-weight: bold;margin: 0 4px 0 0; text-align: right;width: 90px;}
+.pay_addree { overflow: hidden;padding: 10px;}
+ .sch_user { overflow: hidden;  width: 25%;   float: left;   }
+a.active {   color: #ff6000; font-weight: bold;} 
+.den_sellerlogin { float: left; margin: 0 0 0 15px; width: 283px;}
+.pay_d_sv { margin: 20px auto; text-align: right; width: 703px;}
+.onecoden.pay_rabtn {clear: both; margin: 15px 0 0; overflow: visible;}
+.onecoden.pay_rabtn a {background: #4f8fff none repeat scroll 0 0;color: #ffffff;display: inline-block; margin-top: -8px; padding: 6px 20px;text-decoration: none;}
+.pay_central.remine{ width:850px;}
+.pay_central.recall { width: 1160px;}
+.pay_Asset { background: #f4f4f4 none repeat scroll 0 0; overflow: hidden;}
+.cleard_pay {border-bottom: 1px solid #ccc; overflow: hidden;}
+.pay_Asset li { border-right: 1px solid #ccc; float: left; padding: 6px 4px; width: 93px;}
+.staff_name_po strong {float: left;font-size: 12px; font-weight: bold !important; margin: 0 6px 0 0;}
+.staff_name_po { border-bottom: 1px dashed #ddd; padding: 5px 0;}
+.pay_ticket li p { float: left;}
+.pay_ticket li { float: left; width: 240px;}
+.replice_pay a {border: 1px solid #00aeef ; color: #00aeef ;  padding: 4px 15px;}
+.replice_pay {overflow: hidden; padding: 10px 0;  text-align: right;}
+#divStatus{ font-size:12px; color:#333}
+.pay_sv { float: left; width: 50px;}
+.pay_refsr { float: left;}
+.ply_blockingbtn { width: 120px;}
+.pay_refsr a { font-size: 20px;  margin: 0 0 0 8px; color:#00aeef }
+.box-top.pay_pal { padding: 0 0 15px 10px;}
+.oned { float: left;  margin: 0 5px 0 0;}
+.pay_htr { background: #ffffff none repeat scroll 0 0; box-shadow: 0 0 2px #aeaeae;  margin: 0 auto; width: 800px !important; border:1px solid #cccccc}
+.pay_htr tr:first-child td {background-color: #d1d1d1 !important;color: #333 !important;font-size: 14px;padding: 3px 5px;text-align: left;}
+.box-top {margin: 0 0 10px;padding: 0 0 0 10px;}
+.collage.pay_remark { margin: 10px 0; width: 480px;}
+.collage.search.pays > label { height: 26px;}
+.tb_thought { padding: 10px;}
+.changepassword.checkbx > input { width: 20px;}
+.collage.sStatusd {width: auto;}
+.Click_hes {clear: both;margin: 7px 0 0;overflow: hidden;}
+.rod_ri li { width: 100%;  padding: 0 0 6px;  float: left;}
+.redo_one { float: left;  width: 70px; position: relative;}
+.redo_one > label { left: 25px; position: absolute;  text-align: left;  width: 55px;}
+.redo_one > input {  width: 20px;}
+.collage.colMonth { width: 88px;}
+.dived_trd tr td:nth-child(1){ width:450px}
+#divStatusBar > p { float: none; text-align: center;}
+.Searching_Done {background: #ffffff none repeat scroll 0 0;border: 1px solid #cccccc;box-shadow: 0 0 10px #666666;color: #418204;float: left;font-size: 19px;font-weight: normal;line-height: 24px;padding: 12px;position: fixed;right: 30px;text-align: center;text-transform: uppercase;top: 29px;width: auto; z-index:9}
+.fa_da {border-radius: 50px;color: #ff0000;float: right;font-size: 22px;font-weight: normal !important;height: 20px;padding: 5px;position: absolute;right: -18px;top: -21px;width: 20px;}
+.totalgross {float: right; width: 100%;}
+.salery_block { float: right; width: 320px;}
+.salery_block li { width: 100%;}
+.salery_block  strong {float: left;font-size: 12px;font-weight: bold;text-align: right;width: 150px;}
+.salery_block p {float: left;font-size: 14px;margin: 0 0 0 10px;text-align: left; width: 150px;}
+.total_salery {border-top: 1px solid #cccccc;clear: both;margin: 20px 0 0;overflow: hidden;padding: 4px 0 0;}
+.total_salery strong,.total_salery p{ font-size:18px;}
+.nubric0 {float: left;line-height: 71px; font-family: playball; font-size: 20px; color:#666}
+.nubric0 > p {float: left;}
+.nubric0 > strong { float: left;font-size: 17px; font-weight: bold; margin: 0 10px;}
+.collage.threebtn {width: 185px;}
+.collage.smalltext.Typeda {width: 100px;}
+.sandys li { color:#333;float: left;font-size: 13px;list-style: outside none none;padding: 0 0 0 30px;}
+.collage.smalltext {margin-right: 14px;width: 69px;}
+.collage.btnNewa { width: 190px;}
+#container{min-width:100%!important}
+.leftwindow.margenedto {margin: 0 0 0 20px;}
+.addcles a{background: #00aeef none repeat scroll 0 0;border: 1px solid #00aeef;border-radius: 3px;color: #ffffff;cursor: pointer;display: inline-block;font: 15px calibri;padding: 2px 5px !important;position: relative;transition: all 350ms ease-out 0s;}
+.onecoden.Newed > input { margin: 0 10px 0 0;  width: 150px !important;}
+.rightble { width: 613px;}
+.rightble .leftwindow { float: left; width: 290px;}
+
+.rightble .leftwindow .onecoden input[type="text"] { float: left; width: 170px;}
+.rightble .leftwindow .onecoden select { float: left;  width: 180px;}
+.hdc.Setupser {color: #000000;font-size: 16px!important;height: 15px !important;}
+.Branch_back {float: left;width: 400px;}
+.badtbr li { float: left; margin: 0 20px 0 0;}
+.badtbr li strong { float: left; font-size: 13px; font-weight: bold; margin: 0 4px 0 0;text-align: right;  width: 70px;}
+.badtbr li p { float: left; text-align: left;width: 100px;}
+.btmback a {  display: block;border-radius: 3px;color: #ffffff;cursor: pointer;font: 15px calibri;padding: 2px 5px !important;position: relative;transition: all 350ms ease-out 0s;   background: #00aeef none repeat scroll 0 0;}
+.btmback { float: left;}
+.badtbr { overflow: hidden;}
+.checkefa { width: 471px;}
+.checkefa tr:first-child td {background-color: #fff !important;color: #333 !important;font-size: 12px!important;padding: 3px 5px;text-align: left;}
+.checkefa{ font-size: 12px!important;}
+.whitebg.dashingboardtop .box-top {border: 1px solid #cccccc;box-shadow: 0 0 3px #c2c2c2;}
+.aheight {  height: 431px;}
+.daythought {clear: both;margin: 35px 0 7px;text-align: center;}
+.pay_rollsend.newlabl label {float: right;margin: -3px 0 0;text-align: left;width: 48px;}
+.pay_rollsend.newlabl {padding: 0 0 0 10px;}
+.onecoden > p {line-height: 27px;}
+.onecoden.Sendo {padding: 10px 0 0;}
+#spnTicketNo {line-height: 26px;}
+.information {clear: both;color: #333333;font-size: 13px;font-weight: bold;height: 30px;line-height: 31px;overflow: hidden;padding: 0 10px;text-transform: uppercase;}
+.only_shadow{border: 1px solid #ccc;box-shadow: 0 0 5px #cccccc;}
+.contentd {clear: both;display: block;margin: 1px 0 15px;overflow: hidden;}
+.blud_g tr td:nth-child(1){ text-align:right!important; width:50%!important}
+.blud_g tr td:nth-child(2) {padding: 0 0 0 15px;text-align: left !important;}
+.onecoden.lineht {line-height: 5px;}
+.col-md-6.shadow.aheight .Active{ width:100%}
+.clsFemale {  -moz-border-bottom-colors: none;  float: left;-moz-border-left-colors: none;-moz-border-right-colors: none;-moz-border-top-colors: none;background-image: url("../images/female.png");background-position: 0 17px;background-repeat: no-repeat;order-color: -moz-use-text-color #cccccc -moz-use-text-color -moz-use-text-color;
+border-image: none;border-style: none solid none none;border-width: 0 1px 0 0;font-size: 20px;height: 125px;line-height: 53px;padding: 33px 0 0 110px;width: 47%;}
+.clsMale{  background-image: url("../images/male.png");  float: left;background-position: 0 17px;background-repeat: no-repeat;border: 0 none;float: left;font-size: 20px;height: 125px;line-height: 53px;padding: 33px 0 0 110px;width: 47%;}
+.selecteddd{  background-image: url("../images/male.png");  float: left;background-position: 0 17px;background-repeat: no-repeat;border: 0 none;float: left;font-size: 20px;height: 125px;line-height: 53px;padding: 33px 0 0 110px;width: 47%;}
+#tblGender .selected {margin: 0;padding: 0 0 0 10px;width: 50%;}
+#tblGender .unselected {margin: 0;padding: 0 0 0 10px;width: 50%;}
+.Employees ul li {float: left;width: 320px;}
+.Employees ul li strong {float: left; font-size: 13px;font-weight: bold;width: 150px; margin:0 7px 0 0; text-align:right}
+.Employees ul li p {float: left;width: 162px;}
+.Employees {overflow: hidden;padding: 0 0 10px;}
+.Attendancepadi {overflow: scroll;padding-bottom: 1540px;}
+@media screen and (max-width:1920px) {.eAttendance{width: 100%; height: 850px; overflow: auto;}}
+@media screen and (max-width:1600px)
+{                                                  
+body {  padding-bottom:450px;}
+.eAttendance{width: 100%; height: 400px; overflow: auto;}
+
+                                                  }
+                                                  
+  @media screen and (max-width:1500px) 
+{
+.aheight{ height: 455px;}
+.grapheight {height: 537px;}
+}                                                
+                                                  
+                                                  
+@media screen and (max-width:1366px)
+{
+    
+body {padding-bottom:450px;}
+    
+}
+
+@media screen and (max-width:1280px)
+{
+    
+body {padding-bottom:450px;}
+    
+}
+
+
+
+
+
+
+
+.row {    width: 30px;    float: right;    margin-right: 10px;}
+
+
+
+
+
+
+

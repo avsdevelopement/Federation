@@ -1,0 +1,100 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  30/01/2019 7:07:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/01/2019 7:07:58 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  30/01/2019 7:08:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/01/2019 7:08:11 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The given value of type DateTime from the data source cannot be converted to type float of the specified target column.-----------------
+-----------Exception Details on  30/01/2019 7:09:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/01/2019 7:09:51 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5046.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The given value of type DateTime from the data source cannot be converted to type float of the specified target column.
+
+ Error Page Url: ConvertValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'MASTER_1001'.-----------------
+-----------Exception Details on  30/01/2019 7:09:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/01/2019 7:09:51 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5046.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'MASTER_1001'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

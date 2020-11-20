@@ -1,0 +1,1218 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 9:02:00 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 9:02:00 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 9:08:17 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 9:08:17 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 9:28:07 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 9:28:07 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'lstarea' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  25/07/2020 9:29:28 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 9:29:28 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'lstarea' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+The statement has been terminated.-----------------
+-----------Exception Details on  25/07/2020 9:31:49 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 9:31:49 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'ddlActstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  25/07/2020 9:32:03 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 9:32:03 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlActstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+The statement has been terminated.-----------------
+-----------Exception Details on  25/07/2020 9:33:42 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 9:33:42 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 9:54:55 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 9:54:55 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SRO_NO' does not belong to table .-----------------
+-----------Exception Details on  25/07/2020 9:58:59 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 9:58:59 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SRO_NO' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 9:59:07 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 9:59:07 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)-----------------
+-----------Exception Details on  25/07/2020 9:59:53 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 9:59:53 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 11:01:12 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 11:01:12 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 11:02:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 11:02:21 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 11:03:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 11:03:08 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 11:20:43 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 11:20:43 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 11:32:48 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 11:32:48 AM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 12:09:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 12:09:32 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 12:22:35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 12:22:35 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SRO_NO' does not belong to table .-----------------
+-----------Exception Details on  25/07/2020 12:23:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 12:23:15 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SRO_NO' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SRO_NO' does not belong to table .-----------------
+-----------Exception Details on  25/07/2020 1:34:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 1:34:02 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SRO_NO' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 2:04:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 2:04:18 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SRO_NO' does not belong to table .-----------------
+-----------Exception Details on  25/07/2020 2:25:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 2:25:31 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SRO_NO' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SRO_NO' does not belong to table .-----------------
+-----------Exception Details on  25/07/2020 2:27:27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 2:27:27 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SRO_NO' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SRO_NO' does not belong to table .-----------------
+-----------Exception Details on  25/07/2020 2:27:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 2:27:42 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SRO_NO' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SRO_NO' does not belong to table .-----------------
+-----------Exception Details on  25/07/2020 2:27:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 2:27:51 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SRO_NO' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SRO_NO' does not belong to table .-----------------
+-----------Exception Details on  25/07/2020 2:28:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 2:28:15 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SRO_NO' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SRO_NO' does not belong to table .-----------------
+-----------Exception Details on  25/07/2020 2:31:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 2:31:00 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SRO_NO' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SRO_NO' does not belong to table .-----------------
+-----------Exception Details on  25/07/2020 2:32:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 2:32:07 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SRO_NO' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 2:36:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 2:36:32 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'CASESTATUS'.
+Invalid column name 'APPLICTIONDATE'.
+Invalid column name 'societyTyp'.
+Invalid column name 'CASESTATUS'.-----------------
+-----------Exception Details on  25/07/2020 2:55:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 2:55:13 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/frmavs51210.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'CASESTATUS'.
+Invalid column name 'APPLICTIONDATE'.
+Invalid column name 'societyTyp'.
+Invalid column name 'CASESTATUS'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 3:07:43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 3:07:43 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String or binary data would be truncated.
+The statement has been terminated.-----------------
+-----------Exception Details on  25/07/2020 3:20:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 3:20:21 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : String or binary data would be truncated.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 3:55:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 3:55:52 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 4:32:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 4:32:18 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 4:33:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 4:33:29 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)-----------------
+-----------Exception Details on  25/07/2020 4:35:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 4:35:07 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot find column [ParentMenuId].-----------------
+-----------Exception Details on  25/07/2020 4:35:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 4:35:08 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [ParentMenuId].
+
+ Error Page Url: Bind
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 4:36:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 4:36:10 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 4:38:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 4:38:22 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 4:38:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 4:38:40 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 4:39:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 4:39:50 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 4:44:36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 4:44:36 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String or binary data would be truncated.
+The statement has been terminated.-----------------
+-----------Exception Details on  25/07/2020 4:45:19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 4:45:19 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : String or binary data would be truncated.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)-----------------
+-----------Exception Details on  25/07/2020 4:59:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 4:59:15 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 5:01:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 5:01:42 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 5:53:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 5:53:30 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/07/2020 6:14:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 6:14:17 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/07/2020 6:29:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/07/2020 6:29:10 PM
+
+Error Line No : http://localhost:1554/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

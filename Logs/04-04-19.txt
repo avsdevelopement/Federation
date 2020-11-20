@@ -1,0 +1,258 @@
+-----------Exception Details on  Cannot open database "SBC005_test" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/04/2019 4:02:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/04/2019 4:02:57 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC005_test" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  04/04/2019 4:02:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/04/2019 4:02:57 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC005_test" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/04/2019 4:02:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/04/2019 4:02:57 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC005_test" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  04/04/2019 4:02:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/04/2019 4:02:57 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC005_test" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/04/2019 4:02:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/04/2019 4:02:57 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC005_test" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  04/04/2019 4:02:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/04/2019 4:02:57 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC005_test" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/04/2019 4:02:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/04/2019 4:02:57 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC005_test" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  04/04/2019 4:02:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/04/2019 4:02:57 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  04/04/2019 4:26:44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/04/2019 4:26:44 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  04/04/2019 4:28:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/04/2019 4:28:15 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

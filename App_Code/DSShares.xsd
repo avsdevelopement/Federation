@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSShares" targetNamespace="http://tempuri.org/DSShares.xsd" xmlns:mstns="http://tempuri.org/DSShares.xsd" xmlns="http://tempuri.org/DSShares.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSShares" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSShares" msprop:Generator_UserDSName="DSShares">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OPENDATE" msprop:Generator_ColumnVarNameInTable="columnOPENDATE" msprop:Generator_ColumnPropNameInRow="OPENDATE" msprop:Generator_ColumnPropNameInTable="OPENDATEColumn" msprop:Generator_UserColumnName="OPENDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="CERT_NO" msprop:Generator_ColumnVarNameInTable="columnCERT_NO" msprop:Generator_ColumnPropNameInRow="CERT_NO" msprop:Generator_ColumnPropNameInTable="CERT_NOColumn" msprop:Generator_UserColumnName="CERT_NO" type="xs:string" minOccurs="0" />
+              <xs:element name="SHAREFROM" msprop:Generator_ColumnVarNameInTable="columnSHAREFROM" msprop:Generator_ColumnPropNameInRow="SHAREFROM" msprop:Generator_ColumnPropNameInTable="SHAREFROMColumn" msprop:Generator_UserColumnName="SHAREFROM" type="xs:string" minOccurs="0" />
+              <xs:element name="SHARETO" msprop:Generator_ColumnVarNameInTable="columnSHARETO" msprop:Generator_ColumnPropNameInRow="SHARETO" msprop:Generator_ColumnPropNameInTable="SHARETOColumn" msprop:Generator_UserColumnName="SHARETO" type="xs:string" minOccurs="0" />
+              <xs:element name="CLOSEDATE" msprop:Generator_ColumnVarNameInTable="columnCLOSEDATE" msprop:Generator_ColumnPropNameInRow="CLOSEDATE" msprop:Generator_ColumnPropNameInTable="CLOSEDATEColumn" msprop:Generator_UserColumnName="CLOSEDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="REMARK" msprop:Generator_ColumnVarNameInTable="columnREMARK" msprop:Generator_ColumnPropNameInRow="REMARK" msprop:Generator_ColumnPropNameInTable="REMARKColumn" msprop:Generator_UserColumnName="REMARK" type="xs:string" minOccurs="0" />
+              <xs:element name="SHARESVALUE" msprop:Generator_ColumnVarNameInTable="columnSHARESVALUE" msprop:Generator_ColumnPropNameInRow="SHARESVALUE" msprop:Generator_ColumnPropNameInTable="SHARESVALUEColumn" msprop:Generator_UserColumnName="SHARESVALUE" type="xs:string" minOccurs="0" />
+              <xs:element name="TOTALSHAREAMT" msprop:Generator_ColumnVarNameInTable="columnTOTALSHAREAMT" msprop:Generator_ColumnPropNameInRow="TOTALSHAREAMT" msprop:Generator_ColumnPropNameInTable="TOTALSHAREAMTColumn" msprop:Generator_UserColumnName="TOTALSHAREAMT" type="xs:string" minOccurs="0" />
+              <xs:element name="TOTALSHARES" msprop:Generator_ColumnVarNameInTable="columnTOTALSHARES" msprop:Generator_ColumnPropNameInRow="TOTALSHARES" msprop:Generator_ColumnPropNameInTable="TOTALSHARESColumn" msprop:Generator_UserColumnName="TOTALSHARES" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

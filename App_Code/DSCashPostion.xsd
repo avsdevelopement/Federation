@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSCashPostion" targetNamespace="http://tempuri.org/DSCashPostion.xsd" xmlns:mstns="http://tempuri.org/DSCashPostion.xsd" xmlns="http://tempuri.org/DSCashPostion.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="AVSCBSConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="AVSCBSConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.AVSCBSConnectionString.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSCashPostion" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSCashPostion" msprop:Generator_DataSetName="DSCashPostion">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="POSTINGDATE" msprop:Generator_ColumnVarNameInTable="columnPOSTINGDATE" msprop:Generator_ColumnPropNameInRow="POSTINGDATE" msprop:Generator_ColumnPropNameInTable="POSTINGDATEColumn" msprop:Generator_UserColumnName="POSTINGDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="OpeningBalance" msprop:Generator_ColumnVarNameInTable="columnOpeningBalance" msprop:Generator_ColumnPropNameInRow="OpeningBalance" msprop:Generator_ColumnPropNameInTable="OpeningBalanceColumn" msprop:Generator_UserColumnName="OpeningBalance" type="xs:string" minOccurs="0" />
+              <xs:element name="Payemnt" msprop:Generator_ColumnVarNameInTable="columnPayemnt" msprop:Generator_ColumnPropNameInRow="Payemnt" msprop:Generator_ColumnPropNameInTable="PayemntColumn" msprop:Generator_UserColumnName="Payemnt" type="xs:string" minOccurs="0" />
+              <xs:element name="PayemntAmount" msprop:Generator_ColumnVarNameInTable="columnPayemntAmount" msprop:Generator_ColumnPropNameInRow="PayemntAmount" msprop:Generator_ColumnPropNameInTable="PayemntAmountColumn" msprop:Generator_UserColumnName="PayemntAmount" type="xs:string" minOccurs="0" />
+              <xs:element name="Recepit" msprop:Generator_ColumnVarNameInTable="columnRecepit" msprop:Generator_ColumnPropNameInRow="Recepit" msprop:Generator_ColumnPropNameInTable="RecepitColumn" msprop:Generator_UserColumnName="Recepit" type="xs:string" minOccurs="0" />
+              <xs:element name="RecepitAmount" msprop:Generator_ColumnVarNameInTable="columnRecepitAmount" msprop:Generator_ColumnPropNameInRow="RecepitAmount" msprop:Generator_ColumnPropNameInTable="RecepitAmountColumn" msprop:Generator_UserColumnName="RecepitAmount" type="xs:string" minOccurs="0" />
+              <xs:element name="CloseingBalance" msprop:Generator_ColumnVarNameInTable="columnCloseingBalance" msprop:Generator_ColumnPropNameInRow="CloseingBalance" msprop:Generator_ColumnPropNameInTable="CloseingBalanceColumn" msprop:Generator_UserColumnName="CloseingBalance" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

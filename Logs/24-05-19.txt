@@ -1,0 +1,75 @@
+-----------Exception Details on  Invalid object name 'AVS5066'.-----------------
+-----------Exception Details on  24/05/2019 3:14:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 24/05/2019 3:14:23 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmBlank.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS5066'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  24/05/2019 3:14:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 24/05/2019 3:14:23 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.-----------------
+-----------Exception Details on  24/05/2019 3:15:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 24/05/2019 3:15:26 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/CustomerAccountDetails.aspx?CustomerAccountDetails.aspx?encrypt=&Flag=AD
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

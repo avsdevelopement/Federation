@@ -1,0 +1,200 @@
+-----------Exception Details on  Invalid object name 'AVS5066'.-----------------
+-----------Exception Details on  15/06/2019 4:55:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15/06/2019 4:55:17 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmBlank.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS5066'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  15/06/2019 4:55:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15/06/2019 4:55:17 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  15/06/2019 4:56:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15/06/2019 4:56:02 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&AsOnDate=12/06/2019 &Brcd=1 &FCustNo=1&TCustNo=9999999&Div=0&Dep=&rptname=RptCustBalWithSurity.rdlc
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: ConvertDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  15/06/2019 5:01:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15/06/2019 5:01:47 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&AsOnDate=12/06/2019 &Brcd=1 &FCustNo=1&TCustNo=9999999&Div=0&Dep=&rptname=RptCustBalWithSurity.rdlc
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: ConvertDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  15/06/2019 5:02:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15/06/2019 5:02:47 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&AsOnDate=12/06/2019 &Brcd=1 &FCustNo=1&TCustNo=9999999&Div=0&Dep=&rptname=RptCustBalWithSurity.rdlc
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: ConvertDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  15/06/2019 5:03:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15/06/2019 5:03:55 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&AsOnDate=12/06/2019 &Brcd=1 &FCustNo=1&TCustNo=9999999&Div=0&Dep=&rptname=RptCustBalWithSurity.rdlc
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: ConvertDate
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS5066'.-----------------
+-----------Exception Details on  15/06/2019 5:06:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15/06/2019 5:06:13 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmBlank.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS5066'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  15/06/2019 5:06:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15/06/2019 5:06:13 PM
+
+Error Line No : http://localhost:18635/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

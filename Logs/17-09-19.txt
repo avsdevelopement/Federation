@@ -1,0 +1,1225 @@
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  17/09/2019 11:18:09-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 11:18:09
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  17/09/2019 11:18:09-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 11:18:09
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  17/09/2019 11:18:09-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 11:18:09
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  17/09/2019 11:18:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 11:18:10
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  17/09/2019 11:18:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 11:18:10
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  17/09/2019 11:18:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 11:18:10
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  17/09/2019 11:18:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 11:18:10
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  17/09/2019 11:18:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 11:18:10
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 12:33:07-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 12:33:07
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 01:07:09-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 01:07:09
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 01:07:18-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 01:07:18
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SP_SharesInfoM'.-----------------
+-----------Exception Details on  17/09/2019 02:47:41-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 02:47:41
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=1&FDATE=01/04/2019&TDATE=05/09/2019&EDATE=27/08/2019&UName=RAKESH A&ApplType=2&rptname=RptShareMismatchList.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_SharesInfoM'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 02:47:41-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 02:47:41
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=1&FDATE=01/04/2019&TDATE=05/09/2019&EDATE=27/08/2019&UName=RAKESH A&ApplType=2&rptname=RptShareMismatchList.rdlc
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: GetShareMismatchList
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  17/09/2019 02:57:45-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 02:57:45
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5140.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 02:57:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 02:57:55
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 03:33:46-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 03:33:46
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to datetime.-----------------
+-----------Exception Details on  17/09/2019 03:34:05-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 03:34:05
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BrCode=1&AsOnDate=05/09/2019&isExcelDownload=1&rptname=RptCustomerBalane.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to datetime.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 03:45:22-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 03:45:22
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 03:57:32-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 03:57:32
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 04:07:41-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:07:41
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 04:07:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:07:54
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  There is no row at position 0.-----------------
+-----------Exception Details on  17/09/2019 04:08:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:08:00
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: GetNodeByIndex
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  There is no row at position 0.-----------------
+-----------Exception Details on  17/09/2019 04:08:03-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:08:03
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: GetNodeByIndex
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  17/09/2019 04:08:59-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:08:59
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3227&CustName=FABINA+HILLARY+PEREIRA.
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  17/09/2019 04:09:01-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:09:01
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3227&CustName=FABINA+HILLARY+PEREIRA.
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  17/09/2019 04:09:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:09:02
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3227&CustName=FABINA+HILLARY+PEREIRA.
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  17/09/2019 04:09:05-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:09:05
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3227&CustName=FABINA+HILLARY+PEREIRA.
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  17/09/2019 04:09:05-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:09:05
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3227&CustName=FABINA+HILLARY+PEREIRA.
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  17/09/2019 04:09:06-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:09:06
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3227&CustName=FABINA+HILLARY+PEREIRA.
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 04:09:42-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:09:42
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3227&CustName=FABINA+HILLARY+PEREIRA.
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: TxtSprcd_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  17/09/2019 04:10:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:10:10
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5028.aspx?FrmAVS5028.aspx%3fencrypt=&AppNo=132&GL=201
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  17/09/2019 04:16:36-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:16:36
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5028.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 04:16:45-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:16:45
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 04:16:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:16:54
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  17/09/2019 04:17:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:17:02
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  17/09/2019 04:17:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:17:40
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3278&CustName=SANTOSH+KATHOD+LILKA
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  17/09/2019 04:17:43-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:17:43
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3278&CustName=SANTOSH+KATHOD+LILKA
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  17/09/2019 04:18:19-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:18:19
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3278&CustName=SANTOSH+KATHOD+LILKA
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  17/09/2019 04:18:32-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:18:32
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3278&CustName=SANTOSH+KATHOD+LILKA
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: StringToNumber
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 04:18:41-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:18:41
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=3278&CustName=SANTOSH+KATHOD+LILKA
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: TxtSprcd_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVS_InstruIssueMaster'.-----------------
+-----------Exception Details on  17/09/2019 04:19:23-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 04:19:23
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5028.aspx?FrmAVS5028.aspx%3fencrypt=&AppNo=133&GL=201
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVS_InstruIssueMaster'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  17/09/2019 05:04:29-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 05:04:29
+
+Error Line No : http://localhost:62463/CBSCORENEW/frmAVS5140.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 05:04:42-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 05:04:42
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 05:06:04-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 05:06:04
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  17/09/2019 05:06:47-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 05:06:47
+
+Error Line No : http://localhost:50645/CBSCORENEW/frmAVS5140.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 05:29:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 05:29:55
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 05:35:11-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 05:35:11
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 05:58:05-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 05:58:05
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/09/2019 06:01:06-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/09/2019 06:01:06
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

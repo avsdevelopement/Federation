@@ -1,0 +1,1425 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 8:59:44 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 8:59:44 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 9:11:04 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 9:11:04 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.-----------------
+-----------Exception Details on  29/08/2020 9:19:44 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 9:19:44 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/frmavs51212.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 9:19:56 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 9:19:56 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 9:19:59 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 9:19:59 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 9:59:14 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 9:59:14 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=09/10/2019&ACCNO=6&rptname=RptAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 9:59:14 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 9:59:14 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=09/10/2019&ACCNO=6&rptname=RptAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 10:02:04 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:02:04 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  29/08/2020 10:02:42 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:02:42 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 10:03:07 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:03:07 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=21/08/2020&ACCNO=25&rptname=RptDemandNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 10:03:07 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:03:07 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=21/08/2020&ACCNO=25&rptname=RptDemandNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 10:04:36 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:04:36 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=21/08/2020&ACCNO=241&rptname=RptDemandNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 10:04:36 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:04:36 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=21/08/2020&ACCNO=241&rptname=RptDemandNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 10:50:49 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:50:49 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  29/08/2020 10:52:06 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:52:06 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  29/08/2020 10:53:42 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:53:42 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 10:54:15 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:54:15 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 10:54:17 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:54:17 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  29/08/2020 10:55:31 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:55:31 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 10:55:45 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:55:45 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 10:55:45 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:55:45 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 10:55:46 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:55:46 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 10:55:46 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:55:46 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 10:56:54 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:56:54 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 10:56:58 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 10:56:58 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  29/08/2020 11:34:25 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:34:25 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 11:34:35 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:34:35 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 11:34:35 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:34:35 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 11:34:36 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:34:36 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 11:34:36 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:34:36 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 11:44:55 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:44:55 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to decimal.-----------------
+-----------Exception Details on  29/08/2020 11:50:25 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:50:25 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=15&Edate=01%2f08%2f2020
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to decimal.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 11:51:30 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:51:30 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 11:51:33 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:51:33 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 11:51:56 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:51:56 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  29/08/2020 11:52:30 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:52:30 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 11:52:37 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:52:37 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 11:52:37 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:52:37 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 11:52:38 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:52:38 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 11:52:38 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:52:38 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=15&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 11:53:27 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:53:27 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 11:53:30 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:53:30 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 11:57:26 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 11:57:26 a.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.-----------------
+-----------Exception Details on  29/08/2020 12:02:36 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 12:02:36 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmChangeBank.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 12:02:37 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 12:02:37 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 12:04:05 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 12:04:05 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 12:31:45 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 12:31:45 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=2&LOANGL=19-20&AddFlag=&Edate=&ACCNO=15&rptname=RptUpsetPrizeNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 12:52:28 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 12:52:28 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=2&LOANGL=19-20&AddFlag=&Edate=&ACCNO=15&rptname=RptUpsetPrizeNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  29/08/2020 1:02:04 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 1:02:04 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=2&LOANGL=19-20&AddFlag=&Edate=&ACCNO=15&rptname=RptUpsetPrizeNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 1:03:52 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 1:03:52 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 1:03:55 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 1:03:55 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 1:05:57 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 1:05:57 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 1:05:59 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 1:05:59 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 1:22:08 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 1:22:08 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  29/08/2020 1:23:42 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 1:23:42 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 2:46:04 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 2:46:04 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/08/2020 2:46:09 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/08/2020 2:46:09 p.m.
+
+Error Line No : http://localhost:34610/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

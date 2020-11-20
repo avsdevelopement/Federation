@@ -1,0 +1,500 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  30/09/2020 12:01:22 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 12:01:22 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  30/09/2020 12:05:53 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 12:05:53 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmAVSSales.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: PRODNAME_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  30/09/2020 12:06:32 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 12:06:32 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmAVSSales.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: PRODNAME_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  30/09/2020 12:07:10 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 12:07:10 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmAVSSales.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: PRODNAME_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  30/09/2020 12:07:37 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 12:07:37 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmAVSSales.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: PRODNAME_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type nvarchar to date.-----------------
+-----------Exception Details on  30/09/2020 12:08:18 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 12:08:18 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmAVSSales.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type nvarchar to date.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  30/09/2020 12:08:20 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 12:08:20 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmAVSSales.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BtnSubmit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type nvarchar to date.-----------------
+-----------Exception Details on  30/09/2020 12:09:06 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 12:09:06 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmAVSSales.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type nvarchar to date.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type nvarchar to date.-----------------
+-----------Exception Details on  30/09/2020 12:09:39 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 12:09:39 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmAVSSales.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type nvarchar to date.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  30/09/2020 12:09:39 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 12:09:39 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmAVSSales.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BtnSubmit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  30/09/2020 1:55:00 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 1:55:00 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  30/09/2020 1:56:02 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 1:56:02 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmAVSSales.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: PRODNAME_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  30/09/2020 1:58:23 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 1:58:23 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmAVSSales.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: PRODNAME_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  30/09/2020 4:06:32 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 4:06:32 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  30/09/2020 4:36:07 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 4:36:07 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptDemandNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  30/09/2020 4:36:07 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 4:36:07 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptDemandNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  30/09/2020 4:36:52 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 4:36:52 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  30/09/2020 4:36:52 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 4:36:52 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  30/09/2020 4:49:23 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 4:49:23 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  30/09/2020 4:49:23 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 30/09/2020 4:49:23 p.m.
+
+Error Line No : http://localhost:28646/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

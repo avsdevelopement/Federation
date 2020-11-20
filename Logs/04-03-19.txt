@@ -1,0 +1,545 @@
+-----------Exception Details on  Cannot open database "SBC006_0401" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/03/2019 10:42:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 10:42:05 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC006_0401" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  04/03/2019 10:42:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 10:42:05 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC006_0401" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/03/2019 10:42:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 10:42:05 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC006_0401" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  04/03/2019 10:42:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 10:42:05 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC006_0401" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/03/2019 10:42:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 10:42:05 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC006_0401" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  04/03/2019 10:42:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 10:42:05 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC006_0401" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/03/2019 10:42:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 10:42:05 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC006_0401" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  04/03/2019 10:42:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 10:42:05 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  04/03/2019 10:51:58 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 10:51:58 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  04/03/2019 11:04:52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 11:04:52 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0196'.-----------------
+-----------Exception Details on  04/03/2019 11:05:35 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 11:05:35 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmReportViewer.aspx?FrmReportViewer.aspx?encrypt=&BRCD=1&ED=25/02/2019&Flag=1&rptname=RptAVS5153.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0196'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  04/03/2019 11:05:35 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 11:05:35 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmReportViewer.aspx?FrmReportViewer.aspx?encrypt=&BRCD=1&ED=25/02/2019&Flag=1&rptname=RptAVS5153.rdlc
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: CustomerReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  04/03/2019 11:14:37 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 11:14:37 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0196'.-----------------
+-----------Exception Details on  04/03/2019 11:15:02 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 11:15:02 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmReportViewer.aspx?FrmReportViewer.aspx?encrypt=&BRCD=1&ED=25/02/2019&Flag=1&rptname=RptAVS5153.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0196'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  04/03/2019 11:15:02 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 11:15:02 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmReportViewer.aspx?FrmReportViewer.aspx?encrypt=&BRCD=1&ED=25/02/2019&Flag=1&rptname=RptAVS5153.rdlc
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: CustomerReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  04/03/2019 6:53:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 6:53:49 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/03/2019 6:56:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 6:56:58 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmCashReceipt.aspx?FrmCashReceipt.aspx%3fencrypt=&FL=N&P=00&A=00
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/03/2019 6:58:04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 6:58:04 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmCashPayment.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/03/2019 7:07:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 7:07:17 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmCashReceipt.aspx?FrmCashReceipt.aspx%3fencrypt=&FL=N&P=00&A=00
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVSM_201903'.
+2
+3-----------------
+-----------Exception Details on  04/03/2019 7:07:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 7:07:51 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVSM_201903'.
+2
+3
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  04/03/2019 7:07:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04/03/2019 7:07:51 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

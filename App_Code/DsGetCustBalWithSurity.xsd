@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsGetCustBalWithSurity" targetNamespace="http://tempuri.org/DsGetCustBalWithSurity.xsd" xmlns:mstns="http://tempuri.org/DsGetCustBalWithSurity.xsd" xmlns="http://tempuri.org/DsGetCustBalWithSurity.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsGetCustBalWithSurity" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DsGetCustBalWithSurity" msprop:Generator_UserDSName="DsGetCustBalWithSurity">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Brcd" msprop:Generator_ColumnVarNameInTable="columnBrcd" msprop:Generator_ColumnPropNameInRow="Brcd" msprop:Generator_ColumnPropNameInTable="BrcdColumn" msprop:Generator_UserColumnName="Brcd" type="xs:string" minOccurs="0" />
+              <xs:element name="CustNo" msprop:Generator_ColumnVarNameInTable="columnCustNo" msprop:Generator_ColumnPropNameInRow="CustNo" msprop:Generator_ColumnPropNameInTable="CustNoColumn" msprop:Generator_UserColumnName="CustNo" type="xs:string" minOccurs="0" />
+              <xs:element name="CustName" msprop:Generator_ColumnVarNameInTable="columnCustName" msprop:Generator_ColumnPropNameInRow="CustName" msprop:Generator_ColumnPropNameInTable="CustNameColumn" msprop:Generator_UserColumnName="CustName" type="xs:string" minOccurs="0" />
+              <xs:element name="GLBal1" msprop:Generator_ColumnVarNameInTable="columnGLBal1" msprop:Generator_ColumnPropNameInRow="GLBal1" msprop:Generator_ColumnPropNameInTable="GLBal1Column" msprop:Generator_UserColumnName="GLBal1" type="xs:string" minOccurs="0" />
+              <xs:element name="GL1" msprop:Generator_ColumnVarNameInTable="columnGL1" msprop:Generator_ColumnPropNameInRow="GL1" msprop:Generator_ColumnPropNameInTable="GL1Column" msprop:Generator_UserColumnName="GL1" type="xs:string" minOccurs="0" />
+              <xs:element name="GLBal2" msprop:Generator_ColumnVarNameInTable="columnGLBal2" msprop:Generator_ColumnPropNameInRow="GLBal2" msprop:Generator_ColumnPropNameInTable="GLBal2Column" msprop:Generator_UserColumnName="GLBal2" type="xs:string" minOccurs="0" />
+              <xs:element name="GL2" msprop:Generator_ColumnVarNameInTable="columnGL2" msprop:Generator_ColumnPropNameInRow="GL2" msprop:Generator_ColumnPropNameInTable="GL2Column" msprop:Generator_UserColumnName="GL2" type="xs:string" minOccurs="0" />
+              <xs:element name="GLBal3" msprop:Generator_ColumnVarNameInTable="columnGLBal3" msprop:Generator_ColumnPropNameInRow="GLBal3" msprop:Generator_ColumnPropNameInTable="GLBal3Column" msprop:Generator_UserColumnName="GLBal3" type="xs:string" minOccurs="0" />
+              <xs:element name="GL3" msprop:Generator_ColumnVarNameInTable="columnGL3" msprop:Generator_ColumnPropNameInRow="GL3" msprop:Generator_ColumnPropNameInTable="GL3Column" msprop:Generator_UserColumnName="GL3" type="xs:string" minOccurs="0" />
+              <xs:element name="GLBal4" msprop:Generator_ColumnVarNameInTable="columnGLBal4" msprop:Generator_ColumnPropNameInRow="GLBal4" msprop:Generator_ColumnPropNameInTable="GLBal4Column" msprop:Generator_UserColumnName="GLBal4" type="xs:string" minOccurs="0" />
+              <xs:element name="GL4" msprop:Generator_ColumnVarNameInTable="columnGL4" msprop:Generator_ColumnPropNameInRow="GL4" msprop:Generator_ColumnPropNameInTable="GL4Column" msprop:Generator_UserColumnName="GL4" type="xs:string" minOccurs="0" />
+              <xs:element name="GLBal5" msprop:Generator_ColumnVarNameInTable="columnGLBal5" msprop:Generator_ColumnPropNameInRow="GLBal5" msprop:Generator_ColumnPropNameInTable="GLBal5Column" msprop:Generator_UserColumnName="GLBal5" type="xs:string" minOccurs="0" />
+              <xs:element name="GL5" msprop:Generator_ColumnVarNameInTable="columnGL5" msprop:Generator_ColumnPropNameInRow="GL5" msprop:Generator_ColumnPropNameInTable="GL5Column" msprop:Generator_UserColumnName="GL5" type="xs:string" minOccurs="0" />
+              <xs:element name="GLBal6" msprop:Generator_ColumnVarNameInTable="columnGLBal6" msprop:Generator_ColumnPropNameInRow="GLBal6" msprop:Generator_ColumnPropNameInTable="GLBal6Column" msprop:Generator_UserColumnName="GLBal6" type="xs:string" minOccurs="0" />
+              <xs:element name="GL6" msprop:Generator_ColumnVarNameInTable="columnGL6" msprop:Generator_ColumnPropNameInRow="GL6" msprop:Generator_ColumnPropNameInTable="GL6Column" msprop:Generator_UserColumnName="GL6" type="xs:string" minOccurs="0" />
+              <xs:element name="GLBal7" msprop:Generator_ColumnVarNameInTable="columnGLBal7" msprop:Generator_ColumnPropNameInRow="GLBal7" msprop:Generator_ColumnPropNameInTable="GLBal7Column" msprop:Generator_UserColumnName="GLBal7" type="xs:string" minOccurs="0" />
+              <xs:element name="GL7" msprop:Generator_ColumnVarNameInTable="columnGL7" msprop:Generator_ColumnPropNameInRow="GL7" msprop:Generator_ColumnPropNameInTable="GL7Column" msprop:Generator_UserColumnName="GL7" type="xs:string" minOccurs="0" />
+              <xs:element name="GLBal8" msprop:Generator_ColumnVarNameInTable="columnGLBal8" msprop:Generator_ColumnPropNameInRow="GLBal8" msprop:Generator_ColumnPropNameInTable="GLBal8Column" msprop:Generator_UserColumnName="GLBal8" type="xs:string" minOccurs="0" />
+              <xs:element name="GL8" msprop:Generator_ColumnVarNameInTable="columnGL8" msprop:Generator_ColumnPropNameInRow="GL8" msprop:Generator_ColumnPropNameInTable="GL8Column" msprop:Generator_UserColumnName="GL8" type="xs:string" minOccurs="0" />
+              <xs:element name="Surety_1" msprop:Generator_ColumnVarNameInTable="columnSurety_1" msprop:Generator_ColumnPropNameInRow="Surety_1" msprop:Generator_ColumnPropNameInTable="Surety_1Column" msprop:Generator_UserColumnName="Surety_1" type="xs:string" minOccurs="0" />
+              <xs:element name="Surety_2" msprop:Generator_ColumnVarNameInTable="columnSurety_2" msprop:Generator_ColumnPropNameInRow="Surety_2" msprop:Generator_ColumnPropNameInTable="Surety_2Column" msprop:Generator_UserColumnName="Surety_2" type="xs:string" minOccurs="0" />
+              <xs:element name="Surety_3" msprop:Generator_ColumnVarNameInTable="columnSurety_3" msprop:Generator_ColumnPropNameInRow="Surety_3" msprop:Generator_ColumnPropNameInTable="Surety_3Column" msprop:Generator_UserColumnName="Surety_3" type="xs:string" minOccurs="0" />
+              <xs:element name="Surety_4" msprop:Generator_ColumnVarNameInTable="columnSurety_4" msprop:Generator_ColumnPropNameInRow="Surety_4" msprop:Generator_ColumnPropNameInTable="Surety_4Column" msprop:Generator_UserColumnName="Surety_4" type="xs:string" minOccurs="0" />
+              <xs:element name="Div" msprop:Generator_ColumnVarNameInTable="columnDiv" msprop:Generator_ColumnPropNameInRow="Div" msprop:Generator_ColumnPropNameInTable="DivColumn" msprop:Generator_UserColumnName="Div" type="xs:string" minOccurs="0" />
+              <xs:element name="DivName" msprop:Generator_ColumnVarNameInTable="columnDivName" msprop:Generator_ColumnPropNameInRow="DivName" msprop:Generator_ColumnPropNameInTable="DivNameColumn" msprop:Generator_UserColumnName="DivName" type="xs:string" minOccurs="0" />
+              <xs:element name="GLBal9" msprop:Generator_ColumnVarNameInTable="columnGLBal9" msprop:Generator_ColumnPropNameInRow="GLBal9" msprop:Generator_ColumnPropNameInTable="GLBal9Column" msprop:Generator_UserColumnName="GLBal9" type="xs:string" minOccurs="0" />
+              <xs:element name="GL9" msprop:Generator_ColumnVarNameInTable="columnGL9" msprop:Generator_ColumnPropNameInRow="GL9" msprop:Generator_ColumnPropNameInTable="GL9Column" msprop:Generator_UserColumnName="GL9" type="xs:string" minOccurs="0" />
+              <xs:element name="GLBal10" msprop:Generator_ColumnVarNameInTable="columnGLBal10" msprop:Generator_ColumnPropNameInRow="GLBal10" msprop:Generator_ColumnPropNameInTable="GLBal10Column" msprop:Generator_UserColumnName="GLBal10" type="xs:string" minOccurs="0" />
+              <xs:element name="GL10" msprop:Generator_ColumnVarNameInTable="columnGL10" msprop:Generator_ColumnPropNameInRow="GL10" msprop:Generator_ColumnPropNameInTable="GL10Column" msprop:Generator_UserColumnName="GL10" type="xs:string" minOccurs="0" />
+              <xs:element name="Surety_5" msprop:Generator_ColumnVarNameInTable="columnSurety_5" msprop:Generator_ColumnPropNameInRow="Surety_5" msprop:Generator_ColumnPropNameInTable="Surety_5Column" msprop:Generator_UserColumnName="Surety_5" type="xs:string" minOccurs="0" />
+              <xs:element name="Surety_6" msprop:Generator_ColumnVarNameInTable="columnSurety_6" msprop:Generator_ColumnPropNameInRow="Surety_6" msprop:Generator_ColumnPropNameInTable="Surety_6Column" msprop:Generator_UserColumnName="Surety_6" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

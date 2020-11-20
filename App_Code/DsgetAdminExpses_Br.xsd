@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsgetAdminExpses_Br" targetNamespace="http://tempuri.org/DsgetAdminExpses_Br.xsd" xmlns:mstns="http://tempuri.org/DsgetAdminExpses_Br.xsd" xmlns="http://tempuri.org/DsgetAdminExpses_Br.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsgetAdminExpses_Br" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DsgetAdminExpses_Br" msprop:Generator_DataSetName="DsgetAdminExpses_Br">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Brcd" msprop:Generator_ColumnVarNameInTable="columnBrcd" msprop:Generator_ColumnPropNameInRow="Brcd" msprop:Generator_ColumnPropNameInTable="BrcdColumn" msprop:Generator_UserColumnName="Brcd" type="xs:string" minOccurs="0" />
+              <xs:element name="BranchName" msprop:Generator_ColumnVarNameInTable="columnBranchName" msprop:Generator_ColumnPropNameInRow="BranchName" msprop:Generator_ColumnPropNameInTable="BranchNameColumn" msprop:Generator_UserColumnName="BranchName" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd1" msprop:Generator_ColumnVarNameInTable="columnPrd1" msprop:Generator_ColumnPropNameInRow="Prd1" msprop:Generator_ColumnPropNameInTable="Prd1Column" msprop:Generator_UserColumnName="Prd1" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit1" msprop:Generator_ColumnVarNameInTable="columnDebit1" msprop:Generator_ColumnPropNameInRow="Debit1" msprop:Generator_ColumnPropNameInTable="Debit1Column" msprop:Generator_UserColumnName="Debit1" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd2" msprop:Generator_ColumnVarNameInTable="columnPrd2" msprop:Generator_ColumnPropNameInRow="Prd2" msprop:Generator_ColumnPropNameInTable="Prd2Column" msprop:Generator_UserColumnName="Prd2" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit2" msprop:Generator_ColumnVarNameInTable="columnDebit2" msprop:Generator_ColumnPropNameInRow="Debit2" msprop:Generator_ColumnPropNameInTable="Debit2Column" msprop:Generator_UserColumnName="Debit2" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd3" msprop:Generator_ColumnVarNameInTable="columnPrd3" msprop:Generator_ColumnPropNameInRow="Prd3" msprop:Generator_ColumnPropNameInTable="Prd3Column" msprop:Generator_UserColumnName="Prd3" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit3" msprop:Generator_ColumnVarNameInTable="columnDebit3" msprop:Generator_ColumnPropNameInRow="Debit3" msprop:Generator_ColumnPropNameInTable="Debit3Column" msprop:Generator_UserColumnName="Debit3" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd4" msprop:Generator_ColumnVarNameInTable="columnPrd4" msprop:Generator_ColumnPropNameInRow="Prd4" msprop:Generator_ColumnPropNameInTable="Prd4Column" msprop:Generator_UserColumnName="Prd4" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit4" msprop:Generator_ColumnVarNameInTable="columnDebit4" msprop:Generator_ColumnPropNameInRow="Debit4" msprop:Generator_ColumnPropNameInTable="Debit4Column" msprop:Generator_UserColumnName="Debit4" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd5" msprop:Generator_ColumnVarNameInTable="columnPrd5" msprop:Generator_ColumnPropNameInRow="Prd5" msprop:Generator_ColumnPropNameInTable="Prd5Column" msprop:Generator_UserColumnName="Prd5" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit5" msprop:Generator_ColumnVarNameInTable="columnDebit5" msprop:Generator_ColumnPropNameInRow="Debit5" msprop:Generator_ColumnPropNameInTable="Debit5Column" msprop:Generator_UserColumnName="Debit5" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd6" msprop:Generator_ColumnVarNameInTable="columnPrd6" msprop:Generator_ColumnPropNameInRow="Prd6" msprop:Generator_ColumnPropNameInTable="Prd6Column" msprop:Generator_UserColumnName="Prd6" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit6" msprop:Generator_ColumnVarNameInTable="columnDebit6" msprop:Generator_ColumnPropNameInRow="Debit6" msprop:Generator_ColumnPropNameInTable="Debit6Column" msprop:Generator_UserColumnName="Debit6" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd7" msprop:Generator_ColumnVarNameInTable="columnPrd7" msprop:Generator_ColumnPropNameInRow="Prd7" msprop:Generator_ColumnPropNameInTable="Prd7Column" msprop:Generator_UserColumnName="Prd7" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit7" msprop:Generator_ColumnVarNameInTable="columnDebit7" msprop:Generator_ColumnPropNameInRow="Debit7" msprop:Generator_ColumnPropNameInTable="Debit7Column" msprop:Generator_UserColumnName="Debit7" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd8" msprop:Generator_ColumnVarNameInTable="columnPrd8" msprop:Generator_ColumnPropNameInRow="Prd8" msprop:Generator_ColumnPropNameInTable="Prd8Column" msprop:Generator_UserColumnName="Prd8" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit8" msprop:Generator_ColumnVarNameInTable="columnDebit8" msprop:Generator_ColumnPropNameInRow="Debit8" msprop:Generator_ColumnPropNameInTable="Debit8Column" msprop:Generator_UserColumnName="Debit8" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd9" msprop:Generator_ColumnVarNameInTable="columnPrd9" msprop:Generator_ColumnPropNameInRow="Prd9" msprop:Generator_ColumnPropNameInTable="Prd9Column" msprop:Generator_UserColumnName="Prd9" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit9" msprop:Generator_ColumnVarNameInTable="columnDebit9" msprop:Generator_ColumnPropNameInRow="Debit9" msprop:Generator_ColumnPropNameInTable="Debit9Column" msprop:Generator_UserColumnName="Debit9" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd10" msprop:Generator_ColumnVarNameInTable="columnPrd10" msprop:Generator_ColumnPropNameInRow="Prd10" msprop:Generator_ColumnPropNameInTable="Prd10Column" msprop:Generator_UserColumnName="Prd10" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit10" msprop:Generator_ColumnVarNameInTable="columnDebit10" msprop:Generator_ColumnPropNameInRow="Debit10" msprop:Generator_ColumnPropNameInTable="Debit10Column" msprop:Generator_UserColumnName="Debit10" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd11" msprop:Generator_ColumnVarNameInTable="columnPrd11" msprop:Generator_ColumnPropNameInRow="Prd11" msprop:Generator_ColumnPropNameInTable="Prd11Column" msprop:Generator_UserColumnName="Prd11" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit11" msprop:Generator_ColumnVarNameInTable="columnDebit11" msprop:Generator_ColumnPropNameInRow="Debit11" msprop:Generator_ColumnPropNameInTable="Debit11Column" msprop:Generator_UserColumnName="Debit11" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd12" msprop:Generator_ColumnVarNameInTable="columnPrd12" msprop:Generator_ColumnPropNameInRow="Prd12" msprop:Generator_ColumnPropNameInTable="Prd12Column" msprop:Generator_UserColumnName="Prd12" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit12" msprop:Generator_ColumnVarNameInTable="columnDebit12" msprop:Generator_ColumnPropNameInRow="Debit12" msprop:Generator_ColumnPropNameInTable="Debit12Column" msprop:Generator_UserColumnName="Debit12" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd13" msprop:Generator_ColumnVarNameInTable="columnPrd13" msprop:Generator_ColumnPropNameInRow="Prd13" msprop:Generator_ColumnPropNameInTable="Prd13Column" msprop:Generator_UserColumnName="Prd13" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit13" msprop:Generator_ColumnVarNameInTable="columnDebit13" msprop:Generator_ColumnPropNameInRow="Debit13" msprop:Generator_ColumnPropNameInTable="Debit13Column" msprop:Generator_UserColumnName="Debit13" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd14" msprop:Generator_ColumnVarNameInTable="columnPrd14" msprop:Generator_ColumnPropNameInRow="Prd14" msprop:Generator_ColumnPropNameInTable="Prd14Column" msprop:Generator_UserColumnName="Prd14" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit14" msprop:Generator_ColumnVarNameInTable="columnDebit14" msprop:Generator_ColumnPropNameInRow="Debit14" msprop:Generator_ColumnPropNameInTable="Debit14Column" msprop:Generator_UserColumnName="Debit14" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd15" msprop:Generator_ColumnVarNameInTable="columnPrd15" msprop:Generator_ColumnPropNameInRow="Prd15" msprop:Generator_ColumnPropNameInTable="Prd15Column" msprop:Generator_UserColumnName="Prd15" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit15" msprop:Generator_ColumnVarNameInTable="columnDebit15" msprop:Generator_ColumnPropNameInRow="Debit15" msprop:Generator_ColumnPropNameInTable="Debit15Column" msprop:Generator_UserColumnName="Debit15" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd16" msprop:Generator_ColumnVarNameInTable="columnPrd16" msprop:Generator_ColumnPropNameInRow="Prd16" msprop:Generator_ColumnPropNameInTable="Prd16Column" msprop:Generator_UserColumnName="Prd16" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit16" msprop:Generator_ColumnVarNameInTable="columnDebit16" msprop:Generator_ColumnPropNameInRow="Debit16" msprop:Generator_ColumnPropNameInTable="Debit16Column" msprop:Generator_UserColumnName="Debit16" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd17" msprop:Generator_ColumnVarNameInTable="columnPrd17" msprop:Generator_ColumnPropNameInRow="Prd17" msprop:Generator_ColumnPropNameInTable="Prd17Column" msprop:Generator_UserColumnName="Prd17" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit17" msprop:Generator_ColumnVarNameInTable="columnDebit17" msprop:Generator_ColumnPropNameInRow="Debit17" msprop:Generator_ColumnPropNameInTable="Debit17Column" msprop:Generator_UserColumnName="Debit17" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd18" msprop:Generator_ColumnVarNameInTable="columnPrd18" msprop:Generator_ColumnPropNameInRow="Prd18" msprop:Generator_ColumnPropNameInTable="Prd18Column" msprop:Generator_UserColumnName="Prd18" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit18" msprop:Generator_ColumnVarNameInTable="columnDebit18" msprop:Generator_ColumnPropNameInRow="Debit18" msprop:Generator_ColumnPropNameInTable="Debit18Column" msprop:Generator_UserColumnName="Debit18" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd19" msprop:Generator_ColumnVarNameInTable="columnPrd19" msprop:Generator_ColumnPropNameInRow="Prd19" msprop:Generator_ColumnPropNameInTable="Prd19Column" msprop:Generator_UserColumnName="Prd19" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit19" msprop:Generator_ColumnVarNameInTable="columnDebit19" msprop:Generator_ColumnPropNameInRow="Debit19" msprop:Generator_ColumnPropNameInTable="Debit19Column" msprop:Generator_UserColumnName="Debit19" type="xs:string" minOccurs="0" />
+              <xs:element name="Prd20" msprop:Generator_ColumnVarNameInTable="columnPrd20" msprop:Generator_ColumnPropNameInRow="Prd20" msprop:Generator_ColumnPropNameInTable="Prd20Column" msprop:Generator_UserColumnName="Prd20" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit20" msprop:Generator_ColumnVarNameInTable="columnDebit20" msprop:Generator_ColumnPropNameInRow="Debit20" msprop:Generator_ColumnPropNameInTable="Debit20Column" msprop:Generator_UserColumnName="Debit20" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

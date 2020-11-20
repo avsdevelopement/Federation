@@ -1,0 +1,125 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  14/03/2019 10:59:50 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14/03/2019 10:59:50 AM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  14/03/2019 11:00:23 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14/03/2019 11:00:23 AM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  14/03/2019 11:01:03 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14/03/2019 11:01:03 AM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&FBRCD=2&TBRCD=2&FPRCD=301&FDate=01/03/2019&TDate=14/03/2019&IntRate=&CommRate=&TDSRate=&rptname=ISP_AVS0204.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  14/03/2019 11:04:47 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14/03/2019 11:04:47 AM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&FBRCD=2&TBRCD=2&FPRCD=301&FDate=01/03/2019&TDate=14/03/2019&IntRate=&CommRate=&TDSRate=&rptname=ISP_AVS0204.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  14/03/2019 4:54:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14/03/2019 4:54:23 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

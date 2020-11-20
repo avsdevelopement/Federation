@@ -1,0 +1,172 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/04/2019 2:36:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/04/2019 2:36:14 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Arithmetic overflow error converting expression to data type int.
+The statement has been terminated.
+ insert into #CLOSING 
+								select subglcode,accno,sum(closingbal) as CLOSINGBAL from
+								(SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSB_201903      
+								WHERE BRCD = '1' AND ENTRYDATE < '2019-03-30' group by subglcode,accno
+
+								union
+								SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSM_201903      
+								WHERE BRCD = '1' AND ENTRYDATE = '2019-03-30' group by subglcode,accno) as a
+								where subglcode<>0
+								group by subglcode,accno
+								order by subglcode,accno -----------------
+-----------Exception Details on  17/04/2019 2:36:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/04/2019 2:36:33 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=1&UName=AVSINSOTECH&EDAT=30/03/2019&Flag=0&rptname=RptInv_Reg.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Arithmetic overflow error converting expression to data type int.
+The statement has been terminated.
+ insert into #CLOSING 
+								select subglcode,accno,sum(closingbal) as CLOSINGBAL from
+								(SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSB_201903      
+								WHERE BRCD = '1' AND ENTRYDATE < '2019-03-30' group by subglcode,accno
+
+								union
+								SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSM_201903      
+								WHERE BRCD = '1' AND ENTRYDATE = '2019-03-30' group by subglcode,accno) as a
+								where subglcode<>0
+								group by subglcode,accno
+								order by subglcode,accno 
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Arithmetic overflow error converting expression to data type int.
+The statement has been terminated.
+ insert into #CLOSING 
+								select subglcode,accno,sum(closingbal) as CLOSINGBAL from
+								(SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSB_201903      
+								WHERE BRCD = '1' AND ENTRYDATE < '2019-03-30' group by subglcode,accno
+
+								union
+								SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSM_201903      
+								WHERE BRCD = '1' AND ENTRYDATE = '2019-03-30' group by subglcode,accno) as a
+								where subglcode<>0
+								group by subglcode,accno
+								order by subglcode,accno -----------------
+-----------Exception Details on  17/04/2019 2:37:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/04/2019 2:37:15 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=1&UName=AVSINSOTECH&EDAT=30/03/2019&Flag=0&rptname=RptInv_Reg.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Arithmetic overflow error converting expression to data type int.
+The statement has been terminated.
+ insert into #CLOSING 
+								select subglcode,accno,sum(closingbal) as CLOSINGBAL from
+								(SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSB_201903      
+								WHERE BRCD = '1' AND ENTRYDATE < '2019-03-30' group by subglcode,accno
+
+								union
+								SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSM_201903      
+								WHERE BRCD = '1' AND ENTRYDATE = '2019-03-30' group by subglcode,accno) as a
+								where subglcode<>0
+								group by subglcode,accno
+								order by subglcode,accno 
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Arithmetic overflow error converting expression to data type int.
+The statement has been terminated.
+ insert into #CLOSING 
+								select subglcode,accno,sum(closingbal) as CLOSINGBAL from
+								(SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSB_201903      
+								WHERE BRCD = '1' AND ENTRYDATE < '2019-03-30' group by subglcode,accno
+
+								union
+								SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSM_201903      
+								WHERE BRCD = '1' AND ENTRYDATE = '2019-03-30' group by subglcode,accno) as a
+								where subglcode<>0
+								group by subglcode,accno
+								order by subglcode,accno -----------------
+-----------Exception Details on  17/04/2019 3:09:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/04/2019 3:09:02 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=1&UName=AVSINSOTECH&EDAT=30/03/2019&Flag=0&rptname=RptInv_Reg.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Arithmetic overflow error converting expression to data type int.
+The statement has been terminated.
+ insert into #CLOSING 
+								select subglcode,accno,sum(closingbal) as CLOSINGBAL from
+								(SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSB_201903      
+								WHERE BRCD = '1' AND ENTRYDATE < '2019-03-30' group by subglcode,accno
+
+								union
+								SELECT subglcode,accno,(SUM(CASE WHEN TRXTYPE = '2' THEN -1 * AMOUNT ELSE AMOUNT END)) AS CLOSINGBAL  FROM AVSM_201903      
+								WHERE BRCD = '1' AND ENTRYDATE = '2019-03-30' group by subglcode,accno) as a
+								where subglcode<>0
+								group by subglcode,accno
+								order by subglcode,accno 
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

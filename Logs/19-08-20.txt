@@ -1,0 +1,735 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/08/2020 10:27:51 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 10:27:51 AM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  19/08/2020 10:29:52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 10:29:52 AM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 10:44:48 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 10:44:48 AM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 10:44:49 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 10:44:49 AM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/08/2020 5:28:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 5:28:10 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (1020).
+The statement has been terminated.-----------------
+-----------Exception Details on  19/08/2020 5:40:38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 5:40:38 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmDemandADD.aspx?FrmDemandADD.aspx%3fencrypt=&FLAG=AD&CustNo=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (1020).
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'ADDRESS'.
+Invalid column name 'PINCODE'.-----------------
+-----------Exception Details on  19/08/2020 5:40:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 5:40:39 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmDemandADD.aspx?FrmDemandADD.aspx%3fencrypt=&FLAG=AD&CustNo=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'ADDRESS'.
+Invalid column name 'PINCODE'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (10255).
+The statement has been terminated.-----------------
+-----------Exception Details on  19/08/2020 5:45:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 5:45:56 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmDemandADD.aspx?FrmDemandADD.aspx%3fencrypt=&FLAG=AD&CustNo=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (10255).
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (10255).
+The statement has been terminated.-----------------
+-----------Exception Details on  19/08/2020 5:46:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 5:46:24 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmDemandADD.aspx?FrmDemandADD.aspx%3fencrypt=&FLAG=AD&CustNo=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of PRIMARY KEY constraint 'Master_CSS'. Cannot insert duplicate key in object 'dbo.Master'. The duplicate key value is (10255).
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'ADDRESS'.
+Invalid column name 'PINCODE'.-----------------
+-----------Exception Details on  19/08/2020 5:52:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 5:52:08 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmDemandADD.aspx?FrmDemandADD.aspx%3fencrypt=&FLAG=AD&CustNo=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'ADDRESS'.
+Invalid column name 'PINCODE'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  19/08/2020 5:53:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 5:53:29 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmDemandADD.aspx?FrmDemandADD.aspx?encrypt=&FLAG=AD&CustNo=
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/08/2020 5:53:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 5:53:58 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  19/08/2020 6:07:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 6:07:08 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmDemandADD.aspx?FrmDemandADD.aspx?encrypt=&FLAG=AD&CustNo=
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/08/2020 6:07:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 6:07:49 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  19/08/2020 6:12:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 6:12:42 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmDemandADD.aspx?FrmDemandADD.aspx?encrypt=&FLAG=AD&CustNo=
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/08/2020 6:14:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 6:14:15 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 7:09:34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:09:34 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 7:09:34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:09:34 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  19/08/2020 7:10:12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:10:12 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx?encrypt=&CaseY=19-20&CaseNo=6&Edate=01/08/2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  19/08/2020 7:10:25 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:10:25 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=6&Edate=01%2f08%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 7:10:36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:10:36 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=2&LOANGL=19-20&AddFlag=&Edate=&ACCNO=6&rptname=RptUpsetPrizeNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 7:16:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:16:23 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 7:16:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:16:24 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 7:17:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:17:00 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=2&LOANGL=19-20&AddFlag=&Edate=&ACCNO=6&rptname=RptUpsetPrizeNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 7:18:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:18:09 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=2&LOANGL=19-20&AddFlag=&Edate=&ACCNO=6&rptname=RptUpsetPrizeNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 7:19:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:19:11 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=2&LOANGL=19-20&AddFlag=&Edate=&ACCNO=6&rptname=RptUpsetPrizeNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 7:20:20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:20:20 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=2&LOANGL=19-20&AddFlag=&Edate=&ACCNO=6&rptname=RptUpsetPrizeNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 7:21:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:21:37 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=2&LOANGL=19-20&AddFlag=&Edate=&ACCNO=6&rptname=RptUpsetPrizeNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  19/08/2020 7:24:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/08/2020 7:24:49 PM
+
+Error Line No : http://localhost:60888/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=2&LOANGL=19-20&AddFlag=&Edate=&ACCNO=6&rptname=RptUpsetPrizeNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

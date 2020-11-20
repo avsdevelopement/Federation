@@ -1,0 +1,179 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  11/09/2020 3:26:31 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/09/2020 3:26:31 p.m.
+
+Error Line No : http://localhost:6983/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String or binary data would be truncated.
+The statement has been terminated.-----------------
+-----------Exception Details on  11/09/2020 3:29:01 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/09/2020 3:29:01 p.m.
+
+Error Line No : http://localhost:6983/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&CASENO=39&CASEY=19-20&UserName=AVSINSOTECH&EDT=03/09/2020&BRCD=2&FN=R&rptname=RPTSTATEMENTACCREC.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : String or binary data would be truncated.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String or binary data would be truncated.
+The statement has been terminated.-----------------
+-----------Exception Details on  11/09/2020 4:23:03 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/09/2020 4:23:03 p.m.
+
+Error Line No : http://localhost:6983/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&CASENO=39&CASEY=19-20&UserName=AVSINSOTECH&EDT=25/10/2020&BRCD=2&FN=R&rptname=RPTSTATEMENTACCREC.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : String or binary data would be truncated.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  11/09/2020 7:10:44 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/09/2020 7:10:44 p.m.
+
+Error Line No : http://localhost:6983/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  11/09/2020 7:10:48 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/09/2020 7:10:48 p.m.
+
+Error Line No : http://localhost:6983/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  11/09/2020 7:13:23 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/09/2020 7:13:23 p.m.
+
+Error Line No : http://localhost:6983/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  11/09/2020 7:16:43 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/09/2020 7:16:43 p.m.
+
+Error Line No : http://localhost:6983/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

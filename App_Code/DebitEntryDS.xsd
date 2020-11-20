@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DebitEntryDS" targetNamespace="http://tempuri.org/DebitEntryDS.xsd" xmlns:mstns="http://tempuri.org/DebitEntryDS.xsd" xmlns="http://tempuri.org/DebitEntryDS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DebitEntryDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DebitEntryDS" msprop:Generator_DataSetName="DebitEntryDS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="GLCODE" msprop:Generator_ColumnVarNameInTable="columnGLCODE" msprop:Generator_ColumnPropNameInRow="GLCODE" msprop:Generator_ColumnPropNameInTable="GLCODEColumn" msprop:Generator_UserColumnName="GLCODE" type="xs:string" minOccurs="0" />
+              <xs:element name="SUBGLCODE" msprop:Generator_ColumnVarNameInTable="columnSUBGLCODE" msprop:Generator_ColumnPropNameInRow="SUBGLCODE" msprop:Generator_ColumnPropNameInTable="SUBGLCODEColumn" msprop:Generator_UserColumnName="SUBGLCODE" type="xs:string" minOccurs="0" />
+              <xs:element name="BrCD" msprop:Generator_ColumnVarNameInTable="columnBrCD" msprop:Generator_ColumnPropNameInRow="BrCD" msprop:Generator_ColumnPropNameInTable="BrCDColumn" msprop:Generator_UserColumnName="BrCD" type="xs:string" minOccurs="0" />
+              <xs:element name="ACCno" msprop:Generator_ColumnVarNameInTable="columnACCno" msprop:Generator_ColumnPropNameInRow="ACCno" msprop:Generator_ColumnPropNameInTable="ACCnoColumn" msprop:Generator_UserColumnName="ACCno" type="xs:string" minOccurs="0" />
+              <xs:element name="GLNAME" msprop:Generator_ColumnVarNameInTable="columnGLNAME" msprop:Generator_ColumnPropNameInRow="GLNAME" msprop:Generator_ColumnPropNameInTable="GLNAMEColumn" msprop:Generator_UserColumnName="GLNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTNO" msprop:Generator_ColumnVarNameInTable="columnCUSTNO" msprop:Generator_ColumnPropNameInRow="CUSTNO" msprop:Generator_ColumnPropNameInTable="CUSTNOColumn" msprop:Generator_UserColumnName="CUSTNO" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTNAME" msprop:Generator_ColumnVarNameInTable="columnCUSTNAME" msprop:Generator_ColumnPropNameInRow="CUSTNAME" msprop:Generator_ColumnPropNameInTable="CUSTNAMEColumn" msprop:Generator_UserColumnName="CUSTNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="Opening" msprop:Generator_ColumnVarNameInTable="columnOpening" msprop:Generator_ColumnPropNameInRow="Opening" msprop:Generator_ColumnPropNameInTable="OpeningColumn" msprop:Generator_UserColumnName="Opening" type="xs:string" minOccurs="0" />
+              <xs:element name="CrAmount" msprop:Generator_ColumnVarNameInTable="columnCrAmount" msprop:Generator_ColumnPropNameInRow="CrAmount" msprop:Generator_ColumnPropNameInTable="CrAmountColumn" msprop:Generator_UserColumnName="CrAmount" type="xs:string" minOccurs="0" />
+              <xs:element name="DrAmount" msprop:Generator_ColumnVarNameInTable="columnDrAmount" msprop:Generator_ColumnPropNameInRow="DrAmount" msprop:Generator_ColumnPropNameInTable="DrAmountColumn" msprop:Generator_UserColumnName="DrAmount" type="xs:string" minOccurs="0" />
+              <xs:element name="closing" msprop:Generator_ColumnVarNameInTable="columnclosing" msprop:Generator_ColumnPropNameInRow="closing" msprop:Generator_ColumnPropNameInTable="closingColumn" msprop:Generator_UserColumnName="closing" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

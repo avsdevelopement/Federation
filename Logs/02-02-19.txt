@@ -1,0 +1,125 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/02/2019 12:50:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/02/2019 12:50:48 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to datetime.-----------------
+-----------Exception Details on  02/02/2019 1:27:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/02/2019 1:27:48 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=1&DEX=N&IEX=N&FDate=01/11/2018&TDate=31/11/2018&rptname=RptDayBookReg_FromTo.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to datetime.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  02/02/2019 2:25:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/02/2019 2:25:42 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=1&DEX=N&IEX=N&FDate=01/11/2018&TDate=30/11/2018&rptname=RptDayBookReg_FromTo.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to datetime.-----------------
+-----------Exception Details on  02/02/2019 2:25:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/02/2019 2:25:54 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=1&DEX=N&IEX=N&FDate=01/11/2018&TDate=31/11/2018&rptname=RptDayBookReg_FromTo.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to datetime.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  02/02/2019 2:26:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/02/2019 2:26:17 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=1&DEX=N&IEX=N&FDate=01/11/2018&TDate=30/11/2018&rptname=RptDayBookReg_FromTo.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

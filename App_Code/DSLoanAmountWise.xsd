@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSLoanAmountWise" targetNamespace="http://tempuri.org/DSLoanAmountWise.xsd" xmlns:mstns="http://tempuri.org/DSLoanAmountWise.xsd" xmlns="http://tempuri.org/DSLoanAmountWise.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSLoanAmountWise" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSLoanAmountWise" msprop:Generator_DataSetName="DSLoanAmountWise">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CUSTNO" msprop:Generator_ColumnVarNameInTable="columnCUSTNO" msprop:Generator_ColumnPropNameInRow="CUSTNO" msprop:Generator_ColumnPropNameInTable="CUSTNOColumn" msprop:Generator_UserColumnName="CUSTNO" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTNAME" msprop:Generator_ColumnVarNameInTable="columnCUSTNAME" msprop:Generator_ColumnPropNameInRow="CUSTNAME" msprop:Generator_ColumnPropNameInTable="CUSTNAMEColumn" msprop:Generator_UserColumnName="CUSTNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTACCNO" msprop:Generator_ColumnVarNameInTable="columnCUSTACCNO" msprop:Generator_ColumnPropNameInRow="CUSTACCNO" msprop:Generator_ColumnPropNameInTable="CUSTACCNOColumn" msprop:Generator_UserColumnName="CUSTACCNO" type="xs:string" minOccurs="0" />
+              <xs:element name="LOANGLCODE" msprop:Generator_ColumnVarNameInTable="columnLOANGLCODE" msprop:Generator_ColumnPropNameInRow="LOANGLCODE" msprop:Generator_ColumnPropNameInTable="LOANGLCODEColumn" msprop:Generator_UserColumnName="LOANGLCODE" type="xs:string" minOccurs="0" />
+              <xs:element name="GLNAME" msprop:Generator_ColumnVarNameInTable="columnGLNAME" msprop:Generator_ColumnPropNameInRow="GLNAME" msprop:Generator_ColumnPropNameInTable="GLNAMEColumn" msprop:Generator_UserColumnName="GLNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="SANSSIONDATE" msprop:Generator_ColumnVarNameInTable="columnSANSSIONDATE" msprop:Generator_ColumnPropNameInRow="SANSSIONDATE" msprop:Generator_ColumnPropNameInTable="SANSSIONDATEColumn" msprop:Generator_UserColumnName="SANSSIONDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="DUEDATE" msprop:Generator_ColumnVarNameInTable="columnDUEDATE" msprop:Generator_ColumnPropNameInRow="DUEDATE" msprop:Generator_ColumnPropNameInTable="DUEDATEColumn" msprop:Generator_UserColumnName="DUEDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="LIMIT" msprop:Generator_ColumnVarNameInTable="columnLIMIT" msprop:Generator_ColumnPropNameInRow="LIMIT" msprop:Generator_ColumnPropNameInTable="LIMITColumn" msprop:Generator_UserColumnName="LIMIT" type="xs:string" minOccurs="0" />
+              <xs:element name="INTRATE" msprop:Generator_ColumnVarNameInTable="columnINTRATE" msprop:Generator_ColumnPropNameInRow="INTRATE" msprop:Generator_ColumnPropNameInTable="INTRATEColumn" msprop:Generator_UserColumnName="INTRATE" type="xs:string" minOccurs="0" />
+              <xs:element name="CLOSINGDATE" msprop:Generator_ColumnVarNameInTable="columnCLOSINGDATE" msprop:Generator_ColumnPropNameInRow="CLOSINGDATE" msprop:Generator_ColumnPropNameInTable="CLOSINGDATEColumn" msprop:Generator_UserColumnName="CLOSINGDATE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

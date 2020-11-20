@@ -1,0 +1,100 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  13-Jul-18 10:51:14 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-Jul-18 10:51:14 AM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  13-Jul-18 11:25:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-Jul-18 11:25:41 AM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find file 'D:\LIVE CODE\CBSCORENEW\SqlConn\SYS1.dat'.-----------------
+-----------Exception Details on  13-Jul-18 11:56:25 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-Jul-18 11:56:25 AM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmCashReceipt.aspx?FrmCashReceipt.aspx%3fencrypt=&FL=N&P=00&A=00
+
+Error Message: FileNotFoundException
+
+Exception Type: System.IO.FileNotFoundException
+
+Error Location : Could not find file 'D:\LIVE CODE\CBSCORENEW\SqlConn\SYS1.dat'.
+
+ Error Page Url: WinIOError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The ConnectionString property has not been initialized.-----------------
+-----------Exception Details on  13-Jul-18 11:56:25 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-Jul-18 11:56:25 AM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmCashReceipt.aspx?FrmCashReceipt.aspx%3fencrypt=&FL=N&P=00&A=00
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The ConnectionString property has not been initialized.
+
+ Error Page Url: PermissionDemand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

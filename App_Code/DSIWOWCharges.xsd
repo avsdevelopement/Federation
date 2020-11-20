@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSIWOWCharges" targetNamespace="http://tempuri.org/DSIWOWCharges.xsd" xmlns:mstns="http://tempuri.org/DSIWOWCharges.xsd" xmlns="http://tempuri.org/DSIWOWCharges.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSIWOWCharges" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSIWOWCharges" msprop:Generator_UserDSName="DSIWOWCharges">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Glcode" msprop:Generator_ColumnVarNameInTable="columnGlcode" msprop:Generator_ColumnPropNameInRow="Glcode" msprop:Generator_ColumnPropNameInTable="GlcodeColumn" msprop:Generator_UserColumnName="Glcode" type="xs:string" minOccurs="0" />
+              <xs:element name="Subglcode" msprop:Generator_ColumnVarNameInTable="columnSubglcode" msprop:Generator_ColumnPropNameInRow="Subglcode" msprop:Generator_ColumnPropNameInTable="SubglcodeColumn" msprop:Generator_UserColumnName="Subglcode" type="xs:string" minOccurs="0" />
+              <xs:element name="SubglName" msprop:Generator_ColumnVarNameInTable="columnSubglName" msprop:Generator_ColumnPropNameInRow="SubglName" msprop:Generator_ColumnPropNameInTable="SubglNameColumn" msprop:Generator_UserColumnName="SubglName" type="xs:string" minOccurs="0" />
+              <xs:element name="Accno" msprop:Generator_ColumnVarNameInTable="columnAccno" msprop:Generator_ColumnPropNameInRow="Accno" msprop:Generator_ColumnPropNameInTable="AccnoColumn" msprop:Generator_UserColumnName="Accno" type="xs:string" minOccurs="0" />
+              <xs:element name="AccName" msprop:Generator_ColumnVarNameInTable="columnAccName" msprop:Generator_ColumnPropNameInRow="AccName" msprop:Generator_ColumnPropNameInTable="AccNameColumn" msprop:Generator_UserColumnName="AccName" type="xs:string" minOccurs="0" />
+              <xs:element name="InstrNo" msprop:Generator_ColumnVarNameInTable="columnInstrNo" msprop:Generator_ColumnPropNameInRow="InstrNo" msprop:Generator_ColumnPropNameInTable="InstrNoColumn" msprop:Generator_UserColumnName="InstrNo" type="xs:string" minOccurs="0" />
+              <xs:element name="InstrDate" msprop:Generator_ColumnVarNameInTable="columnInstrDate" msprop:Generator_ColumnPropNameInRow="InstrDate" msprop:Generator_ColumnPropNameInTable="InstrDateColumn" msprop:Generator_UserColumnName="InstrDate" type="xs:string" minOccurs="0" />
+              <xs:element name="InstrAmt" msprop:Generator_ColumnVarNameInTable="columnInstrAmt" msprop:Generator_ColumnPropNameInRow="InstrAmt" msprop:Generator_ColumnPropNameInTable="InstrAmtColumn" msprop:Generator_UserColumnName="InstrAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalDrAmt" msprop:Generator_ColumnVarNameInTable="columnTotalDrAmt" msprop:Generator_ColumnPropNameInRow="TotalDrAmt" msprop:Generator_ColumnPropNameInTable="TotalDrAmtColumn" msprop:Generator_UserColumnName="TotalDrAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalCrAmt" msprop:Generator_ColumnVarNameInTable="columnTotalCrAmt" msprop:Generator_ColumnPropNameInRow="TotalCrAmt" msprop:Generator_ColumnPropNameInTable="TotalCrAmtColumn" msprop:Generator_UserColumnName="TotalCrAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="CrPLAccNo" msprop:Generator_ColumnVarNameInTable="columnCrPLAccNo" msprop:Generator_ColumnPropNameInRow="CrPLAccNo" msprop:Generator_ColumnPropNameInTable="CrPLAccNoColumn" msprop:Generator_UserColumnName="CrPLAccNo" type="xs:string" minOccurs="0" />
+              <xs:element name="PLGLNAME" msprop:Generator_ColumnVarNameInTable="columnPLGLNAME" msprop:Generator_ColumnPropNameInRow="PLGLNAME" msprop:Generator_ColumnPropNameInTable="PLGLNAMEColumn" msprop:Generator_UserColumnName="PLGLNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="CrPLAmt" msprop:Generator_ColumnVarNameInTable="columnCrPLAmt" msprop:Generator_ColumnPropNameInRow="CrPLAmt" msprop:Generator_ColumnPropNameInTable="CrPLAmtColumn" msprop:Generator_UserColumnName="CrPLAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="CrPLRate" msprop:Generator_ColumnVarNameInTable="columnCrPLRate" msprop:Generator_ColumnPropNameInRow="CrPLRate" msprop:Generator_ColumnPropNameInTable="CrPLRateColumn" msprop:Generator_UserColumnName="CrPLRate" type="xs:string" minOccurs="0" />
+              <xs:element name="CrGSTAccno" msprop:Generator_ColumnVarNameInTable="columnCrGSTAccno" msprop:Generator_ColumnPropNameInRow="CrGSTAccno" msprop:Generator_ColumnPropNameInTable="CrGSTAccnoColumn" msprop:Generator_UserColumnName="CrGSTAccno" type="xs:string" minOccurs="0" />
+              <xs:element name="GSTGLNAME" msprop:Generator_ColumnVarNameInTable="columnGSTGLNAME" msprop:Generator_ColumnPropNameInRow="GSTGLNAME" msprop:Generator_ColumnPropNameInTable="GSTGLNAMEColumn" msprop:Generator_UserColumnName="GSTGLNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="CrGSTAmt" msprop:Generator_ColumnVarNameInTable="columnCrGSTAmt" msprop:Generator_ColumnPropNameInRow="CrGSTAmt" msprop:Generator_ColumnPropNameInTable="CrGSTAmtColumn" msprop:Generator_UserColumnName="CrGSTAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="CrGSTRate" msprop:Generator_ColumnVarNameInTable="columnCrGSTRate" msprop:Generator_ColumnPropNameInRow="CrGSTRate" msprop:Generator_ColumnPropNameInTable="CrGSTRateColumn" msprop:Generator_UserColumnName="CrGSTRate" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalChargesApp" msprop:Generator_ColumnVarNameInTable="columnTotalChargesApp" msprop:Generator_ColumnPropNameInRow="TotalChargesApp" msprop:Generator_ColumnPropNameInTable="TotalChargesAppColumn" msprop:Generator_UserColumnName="TotalChargesApp" type="xs:string" minOccurs="0" />
+              <xs:element name="AccBalance" msprop:Generator_ColumnVarNameInTable="columnAccBalance" msprop:Generator_ColumnPropNameInRow="AccBalance" msprop:Generator_ColumnPropNameInTable="AccBalanceColumn" msprop:Generator_UserColumnName="AccBalance" type="xs:string" minOccurs="0" />
+              <xs:element name="Flag" msprop:Generator_ColumnVarNameInTable="columnFlag" msprop:Generator_ColumnPropNameInRow="Flag" msprop:Generator_ColumnPropNameInTable="FlagColumn" msprop:Generator_UserColumnName="Flag" type="xs:string" minOccurs="0" />
+              <xs:element name="PendingGSTAmt" msprop:Generator_ColumnVarNameInTable="columnPendingGSTAmt" msprop:Generator_ColumnPropNameInRow="PendingGSTAmt" msprop:Generator_ColumnPropNameInTable="PendingGSTAmtColumn" msprop:Generator_UserColumnName="PendingGSTAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="PendingPLAmt" msprop:Generator_ColumnVarNameInTable="columnPendingPLAmt" msprop:Generator_ColumnPropNameInRow="PendingPLAmt" msprop:Generator_ColumnPropNameInTable="PendingPLAmtColumn" msprop:Generator_UserColumnName="PendingPLAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="FCrPLAmt" msprop:Generator_ColumnVarNameInTable="columnFCrPLAmt" msprop:Generator_ColumnPropNameInRow="FCrPLAmt" msprop:Generator_ColumnPropNameInTable="FCrPLAmtColumn" msprop:Generator_UserColumnName="FCrPLAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="FCrGSTAmt" msprop:Generator_ColumnVarNameInTable="columnFCrGSTAmt" msprop:Generator_ColumnPropNameInRow="FCrGSTAmt" msprop:Generator_ColumnPropNameInTable="FCrGSTAmtColumn" msprop:Generator_UserColumnName="FCrGSTAmt" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,407 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="CBSMaster.master.cs" Inherits="CBSMaster" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>AVS IN-SO-TECH</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="global/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- MetisMenu CSS -->
+    <link href="global/vendor/metisMenu/metisMenu.min.css" rel="stylesheet" />
+    <!-- Custom CSS -->
+    <link href="global/dist/css/sb-admin-2.css?ver=2" rel="stylesheet" />
+    <!-- Morris Charts CSS -->
+    <link href="global/vendor/morrisjs/morris.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+    <link href="global/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="global/css/components-rounded.css?ver=2" id="style_components" rel="stylesheet" type="text/css" />
+    <link href="CSS/jquery.fancybox.css" rel="stylesheet" />
+    <link href="CSS/FastGridSearch.css" rel="stylesheet" type="text/css" />
+    <link href="global/css/plugins.css" rel="stylesheet" type="text/css" />
+    <link href="admin/layout4/css/layout.css?ver=2" rel="stylesheet" type="text/css" />
+    <link href="admin/layout4/css/custom.css" rel="stylesheet" type="text/css" />
+    <link href="js/WebCalender/dhtmlxcalendar.css" rel="stylesheet" />
+    <script src="admin/layout4/scripts/layout.js" type="text/javascript"></script>
+    <script src="admin/layout4/scripts/demo.js" type="text/javascript"></script>
+    <script src="admin/pages/scripts/form-wizard.js"></script>
+    <link href="global/css/cbsmaster.css?ver=2" rel="stylesheet" type="text/css" />
+
+    <!-- New Design Files start-->
+    <link href="includes/css/newstyle.css?ver=2" rel="stylesheet" />
+    <!-- New Design Files end -->
+
+    <script src="js/jquery-1.8.2.min.js"></script>
+    <script src="js/RightClickDisabled.js"></script>
+    <script src="js/OnlyeNumeric.js"></script>
+    <script src="js/jquery.fancybox.js"></script>
+    <script src="js/jquery.fancybox.pack.js"></script>
+    <script src="js/ajaxLoading.js"></script>
+    <script src="js/WebCalender/dhtmlxcalendar.js"></script>
+    <script>
+       
+
+        function HandleBackFunctionality()
+        {
+            if(window.event)
+            {
+                if(window.event.clientX < 40 && window.event.clientY < 0)
+                {
+                    alert("Browser back button is clicked...");
+                }
+                else
+                {
+                    alert("Browser refresh button is clicked...");
+                }
+            }
+            else
+            {
+                if(event.currentTarget.performance.navigation.type == 1)
+                {
+                    alert("Browser refresh button is clicked...");
+                }
+                if(event.currentTarget.performance.navigation.type == 2)
+                {
+                    alert("Browser back button is clicked...");
+                }
+            }
+        }
+        function HandleBackFunctionality()
+        {
+            if(window.event)
+            {
+                if(window.event.clientX < 40 && window.event.clientY < 0)
+                {
+                    alert("Browser back button is clicked...");
+                }
+                else
+                {
+                    alert("Browser refresh button is clicked...");
+                }
+            }
+            else
+            {
+                if(event.currentTarget.performance.navigation.type == 1)
+                {
+                    alert("Browser refresh button is clicked...");
+                }
+                if(event.currentTarget.performance.navigation.type == 2)
+                {
+                    alert("Browser back button is clicked...");
+                }
+            }
+        }
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            $('li[data-toggle="collapse"]').each(function () {
+                if ($(this).next('ul').length == 0) {
+                    $(this).removeAttr('data-toggle').removeAttr('data-target').removeClass('collapsed');
+
+                }
+                $('ul#menu-content > ul').on('show.bs.collapse', function (e, obj) {
+                    $("ul#menu-content > ul").not(this).removeClass("in");
+                    var currentHead = $(this).prev("li");
+                    $("ul#menu-content > li").not(currentHead).removeClass("active");
+                    $(currentHead).addClass("active");
+                })
+            });
+
+    </script>
+
+    <%--Added By Amol ON 03/01/2017 for Handle Shortkut key --%>
+    <script type="text/javascript">
+        if (window.captureEvents) {
+            window.captureEvents(Event.KeyUp);
+            window.onkeyup = executeCode;
+        }
+        else if (window.attachEvent) {
+            document.attachEvent('onkeyup', executeCode);
+        }
+
+        function executeCode(evt) {
+            //var isCtrl=false;
+            if (evt == null) {
+                evt = window.event;
+            }
+            //if (event.keyCode == 17)
+            //{
+            //    isCtrl=true;
+            //}
+            //////Added by ankita 03/06/2017 Hot keys for following forms
+            //alert(event.keyCode);
+            if (event.keyCode == 82 && event.altKey)
+            {
+                //window.location="FrmCashReceipt.aspx";
+                
+                window.location="FrmCashReceipt.aspx?FL=N&P=00&A=00";
+            }
+            if (event.keyCode == 77 && event.altKey)
+            {
+                window.location="FrmMultiVoucher.aspx";
+            }
+            if (event.keyCode == 80 && event.altKey)
+            {
+                window.location="FrmCashPayment.aspx";
+            }
+            if (event.keyCode == 73 && event.altKey)
+            {
+                window.location="FrmLoanInstallment.aspx";
+            }
+            if (event.keyCode == 68 && event.altKey)
+            {
+                window.location="FrmDDSClose.aspx";
+            }
+            if (event.keyCode == 70 && event.altKey)
+            {
+                window.location="frmTDAClear.aspx?SUBGLCODE=&ACCNO=";
+            }
+            if (event.keyCode == 65 && event.altKey)
+            {
+                window.location="Frmaccopeaning.aspx";
+            }
+            if (event.keyCode == 83 && event.altKey)
+            {
+                window.location="FrmStatementView.aspx"; //Dhanya Shetty //15/02/2018 changed from FrmAccSTS to FrmStatementView as per Nikita//
+            }
+            if (event.keyCode == 67 && event.altKey)
+            {
+                window.location="FrmCashBook.aspx";
+            }
+            if (event.keyCode == 66 && event.altKey)
+            {
+                window.location="FrmRDayBook.aspx";
+            }
+            if (event.keyCode == 76 && event.altKey)
+            {
+                window.location="FrmProfitAndLoss.aspx";
+            }
+            if (event.keyCode == 71 && event.altKey)
+            {
+                window.location="FrmProductTransDetails.aspx";
+            }
+            if (event.keyCode == 84 && event.altKey)
+            {
+                window.location="FrmTrialBalance.aspx";
+            }
+            if (event.keyCode == 66 && event.ctrlKey)
+            {
+                window.location="FrmBalanceSheet.aspx";
+            }
+            if (event.keyCode == 113 || event.keyCode == 27)
+            {
+                window.location="FrmBlank.aspx";
+            }
+            if (event.keyCode == 115)
+            {
+                window.location="FrmChangeBank.aspx";
+            }
+            if (event.keyCode == 118)
+            {
+                window.location="FrmPhotoDisplay.aspx";
+            }
+            if (event.keyCode == 73 && event.ctrlKey)
+            {
+                window.location="frmInwardClear.aspx?FLAG=AD";
+            }
+            if (event.keyCode == 79 && event.altKey)
+            {
+                window.location="FrmOutClear.aspx";
+            }
+            if (event.keyCode == 86 && event.altKey)
+            {
+                window.location="FrmVoucherAutho.aspx";
+            }
+            // Amruta 06/06/2017
+            if (event.keyCode == 78 && event.altKey)
+            {
+                window.location="FrmNotice.aspx";
+            }
+            if (event.keyCode == 97 && event.altKey)
+            {
+                window.location="FrmNotice1.aspx?Value=g1";
+            }
+            if (event.keyCode == 98 && event.altKey)
+            {
+                window.location="FrmNotice1.aspx?Value=g2";
+            }
+            if (event.keyCode == 99 && event.altKey)
+            {
+                window.location="FrmNotice1.aspx?Value=g3";
+            }
+            if (event.keyCode == 100 && event.altKey)
+            {
+                window.location="FrmNotice1.aspx?Value=b1";
+            }
+            if (event.keyCode == 101 && event.altKey)
+            {
+                window.location="FrmNotice1.aspx?Value=b2";
+            }
+            if (event.keyCode == 102 && event.altKey)
+            {
+                window.location="FrmNotice1.aspx?Value=b3";
+            }
+            if (event.keyCode == 103 && event.altKey)
+            {
+                window.location="FrmNotice1.aspx?Value=b4";
+            }
+            if (event.keyCode == 104 && event.altKey)
+            {
+                window.location="FrmNotice1.aspx?Value=b5";
+            }
+            if (event.keyCode == 105 && event.altKey)
+            {
+                window.location="FrmNotice1.aspx?Value=b6";
+            }
+            //if (event.keyCode == 119)
+            //{
+            //    window.location="FrmPassbookPrint.aspx";
+            //}
+            evt.returnValue = false;
+            return false;
+        }
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="page-header-fixed page-sidebar-closed-hide-logo " onunload="HandleBackFunctionality()">
+    <form id="form1" runat="server" method="post" autocomplete="off">
+        <div id="wrapper"  class="new-wrap">
+            <!-- Navigation -->
+            <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0; border:0;">
+                
+
+               <div class="newheader">
+               		<div class="avslogo"> <a href="http://avsinsotech.com/" target="_blank"><img src="includes/images/avs-logo-white.png" /></a></div>
+                        <div class="headright">
+                    <div class="headtagline"><span class="clientlogo"><img src="includes/images/dummy-clientlogo.png" /></span> <asp:Label ID="lblbankName" runat="server" Text=""></asp:Label><br />
+                    <asp:Label ID="lblbranchname" runat="server" Text=""></asp:Label></div>
+                    <div class="headright-toplinks">
+                    	<ul class="links">  
+                            <li class="date"><i class="fa fa-calendar" aria-hidden="true"></i><asp:TextBox ID="TxtWorkigDate" runat="server" Enabled="false"></asp:TextBox></li>
+                            <li class="sepline">|</li>
+                            <li class="user"><a class="dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a><i class="fa fa-user" aria-hidden="true"></i> <asp:Label ID="lblUserName" runat="server" Text=""></asp:Label></a>                            </li>
+                            <li class="sepline">|</li>                  		 
+                    		<li><a href="FrmLogin.aspx?FL=LO"><i class="fa fa-sign-out" aria-hidden="true"></i> <asp:Label ID="Label1" ToolTip="LogOut User" Text="Logout" runat="server" /></a></li>
+                        </ul>
+                    	<ul class="links"> 
+                             <li class="call"><i class="fa fa-mobile" aria-hidden="true"></i>Online Support: <a href="tel:919969467636">9653165930</a><span class="sepline">/</span> <a href="tel:919969467637">9137193274</a></li>
+                        </ul>
+                    </div>
+                    </div>
+               	
+               </div>
+
+                <!-- /.navbar-top-links -->
+
+                <div class="navbar-default sidebar" role="navigation">
+                    <div class="sidebar-nav navbar-collapse">
+                        <div class="nav-side-menu">
+                            <i class="fa fa-bars fa-2x toggle-btn" data-toggle="collapse" data-target="#menu-content"></i>
+                            <div class="menu-list">
+                                <ul id="menu-content" class="menu-content collapse out">
+                                    <li class="sidebar-search">
+                                        <div class="input-group custom-search-form">
+                                            <input type="text" class="form-control" placeholder="Search..." runat="server" id="txtSearch" style="height:34px;" />
+                                            <span class="input-group-btn">
+                                                <button class="btn btn-default" type="button" id="btnSearch" runat="server" onserverclick="btnSearch_ServerClick">
+                                                    <i class="fa fa-search"></i>
+                                                </button>
+                                            </span>
+                                        </div>
+                                    </li>
+                                    <asp:Repeater ID="rptCategories" runat="server" OnItemDataBound="rptMenu_OnItemBound">
+                                        <ItemTemplate>
+                                            <li data-toggle="collapse" data-target='#<%#Eval("MenuTitle") %>' class="collapsed"><a
+                                                href='<%#Eval("PageUrl") %>'><i class='<%#Eval("CssFont") %>'></i>
+                                                <%#Eval("MenuTitle") %><span class="arrow"></span></a> </li>
+                                            <asp:Literal ID="ltrlSubMenu" runat="server"></asp:Literal>
+                                        </ItemTemplate>
+                                    </asp:Repeater>
+                                </ul>
+                            </div>
+                             <div class="menu-list">
+                            <ul id="Ul1" class="menu-content collapse out">
+                                <asp:LinkButton ID="Lnk_RDM" runat="server" Text="" OnClick="Lnk_RDM_Click" style="color:white;"></asp:LinkButton>
+                            </ul>
+                        </div>
+                        </div>
+                       
+                    </div>
+
+                </div>
+                <!-- /.navbar-static-side -->
+
+            </nav>
+
+            <div class="page-content-wrapper">
+                <div class="page-content">
+                    <div class="page-head">
+                        <asp:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server"></asp:ToolkitScriptManager>
+                        <asp:UpdateProgress ID="prgLoadingStatus" runat="server" DynamicLayout="true">
+                            <ProgressTemplate>
+                                <div id="overlay">
+                                    <div id="modalprogress">
+                                        <div id="theprogress">
+                                            <asp:Image ID="imgWaitIcon" runat="server" ImageAlign="AbsMiddle" ImageUrl="global/images/ajax-loader.gif" />
+                                            <span>Please wait... </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </ProgressTemplate>
+                        </asp:UpdateProgress>
+                        <!--<div class="page-header">
+                            <asp:Label ID="Lbl_Path" runat="server" CssClass="breadcrumb" Text="" ></asp:Label>
+                        </div>-->
+                         <div id="page-wrapper">
+                        <asp:UpdatePanel ID="UpdatePanel1" runat="server" style="background-color: #f8f8f8">
+
+                            <ContentTemplate>
+                                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                </asp:ContentPlaceHolder>
+                            </ContentTemplate>
+                        </asp:UpdatePanel>
+                             </div>
+                        <div class="page-footer">
+                            <div class="page-footer-inner">2016 © AVS In-So Tech.</div>
+                            <div class="scroll-to-top">
+                                <i class="icon-arrow-up"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- /#wrapper -->
+
+        <!-- jQuery -->
+        <script src="global/vendor/jquery/jquery.min.js"></script>
+
+        <!-- Bootstrap Core JavaScript -->
+        <script src="global/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+        <!-- Metis Menu Plugin JavaScript -->
+        <script src="global/vendor/metisMenu/metisMenu.min.js"></script>
+
+        <!-- Morris Charts JavaScript -->
+        <script src="global/vendor/raphael/raphael.min.js"></script>
+        <script src="global/vendor/morrisjs/morris.min.js"></script>
+        <script src="data/morris-data.js"></script>
+
+        <!-- Custom Theme JavaScript -->
+        <script src="global/dist/js/sb-admin-2.js"></script>
+        <asp:HiddenField ID="hdnSession" runat="server" />
+        <asp:HiddenField ID="HDsessntime" runat="server" Value="3000" />
+        <input type="text" id="hdnAccNo" style="display: none" />
+        <input type="text" id="hdnCustNo" style="display: none" />
+    </form>
+</body>
+</html>

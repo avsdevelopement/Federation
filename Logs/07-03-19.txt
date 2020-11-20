@@ -1,0 +1,1420 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/03/2019 4:08:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:08:18 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  07/03/2019 4:08:36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:08:36 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  07/03/2019 4:08:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:08:39 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  07/03/2019 4:08:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:08:40 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx?encrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI NILESH VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/03/2019 4:08:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:08:40 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx?encrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI NILESH VILAS
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindLoanDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  07/03/2019 4:09:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:09:07 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/03/2019 4:09:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:09:07 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: TxtLapply_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  07/03/2019 4:10:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:10:28 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  07/03/2019 4:10:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:10:28 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  07/03/2019 4:10:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:10:29 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  07/03/2019 4:10:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:10:29 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'REF' does not belong to table .-----------------
+-----------Exception Details on  07/03/2019 4:10:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:10:42 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmDashBoard.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'REF' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  07/03/2019 4:16:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:16:15 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  07/03/2019 4:16:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:16:15 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  07/03/2019 4:16:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:16:16 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  07/03/2019 4:18:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:18:15 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '5' And AB.SubGlCode = '301' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  07/03/2019 4:20:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:20:42 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx?encrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI NILESH VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/03/2019 4:20:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:20:42 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx?encrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI NILESH VILAS
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindLoanDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  07/03/2019 4:20:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:20:55 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/03/2019 4:20:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:20:55 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: TxtLapply_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  07/03/2019 4:22:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:22:00 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  07/03/2019 4:22:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:22:00 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  07/03/2019 4:22:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:22:00 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  07/03/2019 4:22:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:22:01 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  07/03/2019 4:25:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:25:18 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx?encrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI NILESH VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/03/2019 4:25:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:25:18 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx?encrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI NILESH VILAS
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindLoanDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  07/03/2019 4:25:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:25:31 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx?encrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI NILESH VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/03/2019 4:25:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:25:31 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx?encrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI NILESH VILAS
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindLoanDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  07/03/2019 4:25:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:25:46 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/03/2019 4:25:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:25:46 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI+NILESH+VILAS
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: TxtLapply_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  07/03/2019 4:26:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:26:07 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx?encrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI NILESH VILAS
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '201' 
+				And AB.ACCNO = '6148' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSB_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And AB.TrxType = 3 And AB.Stage = 1003 
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2019-01-08' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201901 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '3' And AB.SubGlCode = '202' 
+				And AB.ACCNO = '11' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2019-01-08' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/03/2019 4:26:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/03/2019 4:26:07 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx?encrypt=&Flag=AD&CUSTNO=6148&CustName=CHAUDHARI NILESH VILAS
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindLoanDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

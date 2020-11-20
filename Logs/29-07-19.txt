@@ -1,0 +1,400 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/07/2019 12:57:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 12:57:08 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  29/07/2019 1:00:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 1:00:54 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmCashReceipt.aspx?FrmCashReceipt.aspx%3fencrypt=&FL=N&P=00&A=00
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: TxtProName_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  29/07/2019 2:51:59 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 2:51:59 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  29/07/2019 2:57:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 2:57:31 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  29/07/2019 2:59:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 2:59:58 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  29/07/2019 3:04:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 3:04:55 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  29/07/2019 3:08:04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 3:08:04 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)-----------------
+-----------Exception Details on  29/07/2019 3:09:27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 3:09:27 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/07/2019 3:10:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 3:10:57 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Multiple_TDAClose
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  29/07/2019 3:12:04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 3:12:04 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Incorrect syntax near '1'.-----------------
+-----------Exception Details on  29/07/2019 3:19:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 3:19:47 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near '1'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  29/07/2019 3:25:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 3:25:30 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/07/2019 3:25:35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 3:25:35 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  29/07/2019 3:25:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 3:25:56 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/07/2019 4:56:27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 4:56:27 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  29/07/2019 6:16:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29/07/2019 6:16:22 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

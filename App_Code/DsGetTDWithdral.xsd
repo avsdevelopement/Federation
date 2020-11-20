@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsGetTDWithdral" targetNamespace="http://tempuri.org/DsGetTDWithdral.xsd" xmlns:mstns="http://tempuri.org/DsGetTDWithdral.xsd" xmlns="http://tempuri.org/DsGetTDWithdral.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsGetTDWithdral" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DsGetTDWithdral" msprop:Generator_UserDSName="DsGetTDWithdral">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Subglcode" msprop:Generator_ColumnVarNameInTable="columnSubglcode" msprop:Generator_ColumnPropNameInRow="Subglcode" msprop:Generator_ColumnPropNameInTable="SubglcodeColumn" msprop:Generator_UserColumnName="Subglcode" type="xs:string" minOccurs="0" />
+              <xs:element name="MEMTYPE" msprop:Generator_ColumnVarNameInTable="columnMEMTYPE" msprop:Generator_ColumnPropNameInRow="MEMTYPE" msprop:Generator_ColumnPropNameInTable="MEMTYPEColumn" msprop:Generator_UserColumnName="MEMTYPE" type="xs:string" minOccurs="0" />
+              <xs:element name="Custno" msprop:Generator_ColumnVarNameInTable="columnCustno" msprop:Generator_ColumnPropNameInRow="Custno" msprop:Generator_ColumnPropNameInTable="CustnoColumn" msprop:Generator_UserColumnName="Custno" type="xs:string" minOccurs="0" />
+              <xs:element name="ACCNO" msprop:Generator_ColumnVarNameInTable="columnACCNO" msprop:Generator_ColumnPropNameInRow="ACCNO" msprop:Generator_ColumnPropNameInTable="ACCNOColumn" msprop:Generator_UserColumnName="ACCNO" type="xs:string" minOccurs="0" />
+              <xs:element name="Custname" msprop:Generator_ColumnVarNameInTable="columnCustname" msprop:Generator_ColumnPropNameInRow="Custname" msprop:Generator_ColumnPropNameInTable="CustnameColumn" msprop:Generator_UserColumnName="Custname" type="xs:string" minOccurs="0" />
+              <xs:element name="OPENINGDATE" msprop:Generator_ColumnVarNameInTable="columnOPENINGDATE" msprop:Generator_ColumnPropNameInRow="OPENINGDATE" msprop:Generator_ColumnPropNameInTable="OPENINGDATEColumn" msprop:Generator_UserColumnName="OPENINGDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="SetNo" msprop:Generator_ColumnVarNameInTable="columnSetNo" msprop:Generator_ColumnPropNameInRow="SetNo" msprop:Generator_ColumnPropNameInTable="SetNoColumn" msprop:Generator_UserColumnName="SetNo" type="xs:string" minOccurs="0" />
+              <xs:element name="PARTICULARS" msprop:Generator_ColumnVarNameInTable="columnPARTICULARS" msprop:Generator_ColumnPropNameInRow="PARTICULARS" msprop:Generator_ColumnPropNameInTable="PARTICULARSColumn" msprop:Generator_UserColumnName="PARTICULARS" type="xs:string" minOccurs="0" />
+              <xs:element name="EntryDate" msprop:Generator_ColumnVarNameInTable="columnEntryDate" msprop:Generator_ColumnPropNameInRow="EntryDate" msprop:Generator_ColumnPropNameInTable="EntryDateColumn" msprop:Generator_UserColumnName="EntryDate" type="xs:string" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnPropNameInTable="AmountColumn" msprop:Generator_UserColumnName="Amount" type="xs:string" minOccurs="0" />
+              <xs:element name="EMPNO" msprop:Generator_ColumnVarNameInTable="columnEMPNO" msprop:Generator_ColumnPropNameInRow="EMPNO" msprop:Generator_ColumnPropNameInTable="EMPNOColumn" msprop:Generator_UserColumnName="EMPNO" type="xs:string" minOccurs="0" />
+              <xs:element name="DIVNO" msprop:Generator_ColumnVarNameInTable="columnDIVNO" msprop:Generator_ColumnPropNameInRow="DIVNO" msprop:Generator_ColumnPropNameInTable="DIVNOColumn" msprop:Generator_UserColumnName="DIVNO" type="xs:string" minOccurs="0" />
+              <xs:element name="NAMEOFDIV" msprop:Generator_ColumnVarNameInTable="columnNAMEOFDIV" msprop:Generator_ColumnPropNameInRow="NAMEOFDIV" msprop:Generator_ColumnPropNameInTable="NAMEOFDIVColumn" msprop:Generator_UserColumnName="NAMEOFDIV" type="xs:string" minOccurs="0" />
+              <xs:element name="OFFNO" msprop:Generator_ColumnVarNameInTable="columnOFFNO" msprop:Generator_ColumnPropNameInRow="OFFNO" msprop:Generator_ColumnPropNameInTable="OFFNOColumn" msprop:Generator_UserColumnName="OFFNO" type="xs:string" minOccurs="0" />
+              <xs:element name="NAMEOFOFFC" msprop:Generator_ColumnVarNameInTable="columnNAMEOFOFFC" msprop:Generator_ColumnPropNameInRow="NAMEOFOFFC" msprop:Generator_ColumnPropNameInTable="NAMEOFOFFCColumn" msprop:Generator_UserColumnName="NAMEOFOFFC" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

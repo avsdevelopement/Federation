@@ -1,0 +1,1250 @@
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:05:29 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:05:29 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:05:29 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:05:29 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:05:29 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:05:29 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:05:29 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:05:29 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:05:29 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:05:29 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:05:29 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:05:29 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:05:29 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:05:29 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:05:29 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:05:29 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/11/2020 12:06:54 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:06:54 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:47:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:47:25 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:47:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:47:25 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:47:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:47:25 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:47:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:47:25 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:47:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:47:25 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:47:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:47:25 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:47:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:47:25 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:47:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:47:25 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:49:04 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:49:04 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:49:04 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:49:04 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:49:04 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:49:04 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:49:04 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:49:04 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:49:05 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:49:05 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:49:05 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:49:05 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 12:49:05 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:49:05 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 12:49:05 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:49:05 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/11/2020 12:49:45 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 12:49:45 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 1:40:31 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:40:31 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 1:40:31 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:40:31 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 1:40:31 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:40:31 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 1:40:31 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:40:31 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 1:40:31 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:40:31 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 1:40:31 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:40:31 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 1:40:31 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:40:31 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 1:40:31 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:40:31 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 1:57:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:57:58 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 1:57:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:57:58 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 1:57:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:57:58 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 1:57:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:57:58 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 1:57:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:57:58 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 1:57:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:57:58 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  19/11/2020 1:57:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:57:58 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  19/11/2020 1:57:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 1:57:58 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/11/2020 2:54:08 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 2:54:08 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/11/2020 3:08:50 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 3:08:50 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/11/2020 3:46:41 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 3:46:41 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  19/11/2020 5:13:45 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 5:13:45 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  19/11/2020 6:01:28 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 6:01:28 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmRBIBank.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: txtDESCR_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SP_RBIBANK'.-----------------
+-----------Exception Details on  19/11/2020 6:01:56 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 6:01:56 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmRBIBank.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_RBIBANK'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  19/11/2020 6:14:23 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 6:14:23 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmRBIBank.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: txtDESCR_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  19/11/2020 6:22:40 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 19/11/2020 6:22:40 p.m.
+
+Error Line No : http://localhost:50921/CBSCORENEW/FrmRBIBank.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: txtDESCR_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

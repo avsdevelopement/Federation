@@ -1,0 +1,250 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  31/07/2020 10:19:18 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31/07/2020 10:19:18 a.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  31/07/2020 1:17:37 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31/07/2020 1:17:37 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  31/07/2020 3:05:15 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31/07/2020 3:05:15 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to int.-----------------
+-----------Exception Details on  31/07/2020 3:13:56 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31/07/2020 3:13:56 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&CASENO=11&CASEY=19-20&UserName=AVSINSOTECH&EDT=26/09/2019&BRCD=2&FN=R&rptname=RPTSTATEMENTACCREC.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to int.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  31/07/2020 5:15:03 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31/07/2020 5:15:03 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  31/07/2020 5:47:12 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31/07/2020 5:47:12 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Incorrect syntax near 'replace'.-----------------
+-----------Exception Details on  31/07/2020 5:50:56 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31/07/2020 5:50:56 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&CASENO=5&CASEY=19-20&UserName=AVSINSOTECH&EDT=26/09/2019&BRCD=2&FN=R&rptname=RPTSTATEMENTACCREC.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near 'replace'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The replace function requires 3 argument(s).-----------------
+-----------Exception Details on  31/07/2020 5:51:32 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31/07/2020 5:51:32 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&CASENO=5&CASEY=19-20&UserName=AVSINSOTECH&EDT=26/09/2019&BRCD=2&FN=R&rptname=RPTSTATEMENTACCREC.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The replace function requires 3 argument(s).
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The replace function requires 3 argument(s).-----------------
+-----------Exception Details on  31/07/2020 5:51:47 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31/07/2020 5:51:47 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&CASENO=5&CASEY=19-20&UserName=AVSINSOTECH&EDT=26/09/2019&BRCD=2&FN=R&rptname=RPTSTATEMENTACCREC.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The replace function requires 3 argument(s).
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The replace function requires 3 argument(s).-----------------
+-----------Exception Details on  31/07/2020 5:52:03 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 31/07/2020 5:52:03 p.m.
+
+Error Line No : http://localhost:6998/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&CASENO=5&CASEY=19-20&UserName=AVSINSOTECH&EDT=26/09/2019&BRCD=2&FN=R&rptname=RPTSTATEMENTACCREC.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The replace function requires 3 argument(s).
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

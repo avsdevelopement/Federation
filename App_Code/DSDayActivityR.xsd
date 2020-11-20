@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSDayActivityR" targetNamespace="http://tempuri.org/DSDayActivityR.xsd" xmlns:mstns="http://tempuri.org/DSDayActivityR.xsd" xmlns="http://tempuri.org/DSDayActivityR.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSDayActivityR" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSDayActivityR" msprop:Generator_UserDSName="DSDayActivityR">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SRNO" msprop:Generator_ColumnVarNameInTable="columnSRNO" msprop:Generator_ColumnPropNameInRow="SRNO" msprop:Generator_ColumnPropNameInTable="SRNOColumn" msprop:Generator_UserColumnName="SRNO" type="xs:string" minOccurs="0" />
+              <xs:element name="BRCD" msprop:Generator_ColumnVarNameInTable="columnBRCD" msprop:Generator_ColumnPropNameInRow="BRCD" msprop:Generator_ColumnPropNameInTable="BRCDColumn" msprop:Generator_UserColumnName="BRCD" type="xs:string" minOccurs="0" />
+              <xs:element name="DAYBEGINDATE" msprop:Generator_ColumnVarNameInTable="columnDAYBEGINDATE" msprop:Generator_ColumnPropNameInRow="DAYBEGINDATE" msprop:Generator_ColumnPropNameInTable="DAYBEGINDATEColumn" msprop:Generator_UserColumnName="DAYBEGINDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="DAYCLOSEDATE" msprop:Generator_ColumnVarNameInTable="columnDAYCLOSEDATE" msprop:Generator_ColumnPropNameInRow="DAYCLOSEDATE" msprop:Generator_ColumnPropNameInTable="DAYCLOSEDATEColumn" msprop:Generator_UserColumnName="DAYCLOSEDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="STATUS" msprop:Generator_ColumnVarNameInTable="columnSTATUS" msprop:Generator_ColumnPropNameInRow="STATUS" msprop:Generator_ColumnPropNameInTable="STATUSColumn" msprop:Generator_UserColumnName="STATUS" type="xs:string" minOccurs="0" />
+              <xs:element name="DAYCLOSEDBY" msprop:Generator_ColumnVarNameInTable="columnDAYCLOSEDBY" msprop:Generator_ColumnPropNameInRow="DAYCLOSEDBY" msprop:Generator_ColumnPropNameInTable="DAYCLOSEDBYColumn" msprop:Generator_UserColumnName="DAYCLOSEDBY" type="xs:string" minOccurs="0" />
+              <xs:element name="BRANCHNAME" msprop:Generator_ColumnVarNameInTable="columnBRANCHNAME" msprop:Generator_ColumnPropNameInRow="BRANCHNAME" msprop:Generator_ColumnPropNameInTable="BRANCHNAMEColumn" msprop:Generator_UserColumnName="BRANCHNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="DAYCLOSEDTIME" msprop:Generator_ColumnVarNameInTable="columnDAYCLOSEDTIME" msprop:Generator_ColumnPropNameInRow="DAYCLOSEDTIME" msprop:Generator_ColumnPropNameInTable="DAYCLOSEDTIMEColumn" msprop:Generator_UserColumnName="DAYCLOSEDTIME" type="xs:string" minOccurs="0" />
+              <xs:element name="DAYOPTIME" msprop:Generator_ColumnVarNameInTable="columnDAYOPTIME" msprop:Generator_ColumnPropNameInRow="DAYOPTIME" msprop:Generator_ColumnPropNameInTable="DAYOPTIMEColumn" msprop:Generator_UserColumnName="DAYOPTIME" type="xs:string" minOccurs="0" />
+              <xs:element name="DAYOPBY" msprop:Generator_ColumnVarNameInTable="columnDAYOPBY" msprop:Generator_ColumnPropNameInRow="DAYOPBY" msprop:Generator_ColumnPropNameInTable="DAYOPBYColumn" msprop:Generator_UserColumnName="DAYOPBY" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

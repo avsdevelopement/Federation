@@ -1,0 +1,1803 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  05/02/2019 11:18:15 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 11:18:15 AM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  05/02/2019 11:18:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 11:18:31 AM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+Insert Into #FinalData(BrCode, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CustName)
+				Select BrCd, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CName From AVS_DEDTRANX
+				Where BrCd = '5' And RecDiv In (1) And RecCode In (153) 
+				And MM In (1,12) And YYYY In (2019,2018) And CustNo In (3954,3954) And Status = '1' And Stage = '1003' 
+Exists : 
+ 
+dbo.AVSM_201902
+ 
+ 
+ 
+ -----------------
+-----------Exception Details on  05/02/2019 11:19:24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 11:19:24 AM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmRecoveryPosting.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+Insert Into #FinalData(BrCode, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CustName)
+				Select BrCd, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CName From AVS_DEDTRANX
+				Where BrCd = '5' And RecDiv In (1) And RecCode In (153) 
+				And MM In (1,12) And YYYY In (2019,2018) And CustNo In (3954,3954) And Status = '1' And Stage = '1003' 
+Exists : 
+ 
+dbo.AVSM_201902
+ 
+ 
+ 
+ 
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+Insert Into #FinalData(BrCode, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CustName)
+				Select BrCd, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CName From AVS_DEDTRANX
+				Where BrCd = '5' And RecDiv In (1) And RecCode In (153) 
+				And MM In (1,12) And YYYY In (2019,2018) And CustNo In (3954,3954) And Status = '1' And Stage = '1003' 
+Exists : 
+ 
+dbo.AVSM_201902
+ 
+ 
+ 
+ -----------------
+-----------Exception Details on  05/02/2019 11:24:01 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 11:24:01 AM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmRecoveryPosting.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+Insert Into #FinalData(BrCode, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CustName)
+				Select BrCd, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CName From AVS_DEDTRANX
+				Where BrCd = '5' And RecDiv In (1) And RecCode In (153) 
+				And MM In (1,12) And YYYY In (2019,2018) And CustNo In (3954,3954) And Status = '1' And Stage = '1003' 
+Exists : 
+ 
+dbo.AVSM_201902
+ 
+ 
+ 
+ 
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+Insert Into #FinalData(BrCode, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CustName)
+				Select BrCd, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CName From AVS_DEDTRANX
+				Where BrCd = '5' And RecDiv In (1) And RecCode In (153) 
+				And MM In (1,12) And YYYY In (2019,2018) And CustNo In (3954,3954) And Status = '1' And Stage = '1003' 
+Exists : 
+ 
+dbo.AVSM_201902
+ 
+ 
+ 
+ -----------------
+-----------Exception Details on  05/02/2019 11:26:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 11:26:08 AM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmRecoveryPosting.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+Insert Into #FinalData(BrCode, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CustName)
+				Select BrCd, GlCode, SubGlCode, AccNo, R_Inst, R_Intr, CustNo, CName From AVS_DEDTRANX
+				Where BrCd = '5' And RecDiv In (1) And RecCode In (153) 
+				And MM In (1,12) And YYYY In (2019,2018) And CustNo In (3954,3954) And Status = '1' And Stage = '1003' 
+Exists : 
+ 
+dbo.AVSM_201902
+ 
+ 
+ 
+ 
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:35:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:23 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:35:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:23 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:35:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:23 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:35:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:23 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:35:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:23 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:35:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:24 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:35:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:24 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:35:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:24 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:35:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:54 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:35:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:54 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:35:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:55 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:35:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:55 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:35:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:55 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:35:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:55 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:35:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:55 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:35:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:35:55 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:37:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:08 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:37:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:08 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:37:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:08 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:37:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:08 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:37:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:09 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:37:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:09 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:37:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:09 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:37:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:09 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:37:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:42 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:37:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:42 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:37:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:42 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:37:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:42 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:37:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:42 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:37:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:42 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:37:43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:43 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:37:43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:37:43 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:41:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:15 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:41:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:15 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:41:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:15 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:41:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:15 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:41:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:16 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:41:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:16 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:41:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:16 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:41:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:16 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:41:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:57 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:41:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:57 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:41:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:57 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:41:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:57 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:41:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:57 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:41:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:57 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:41:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:57 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:41:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:41:57 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:42:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:42:09 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:42:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:42:09 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:43:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:43:01 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:43:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:43:01 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:43:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:43:29 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:43:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:43:29 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:43:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:43:39 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:43:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:43:39 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:43:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:43:39 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:43:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:43:39 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:54:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:54:13 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:54:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:54:13 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  05/02/2019 6:56:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:56:22 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC060" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  05/02/2019 6:56:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/02/2019 6:56:22 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

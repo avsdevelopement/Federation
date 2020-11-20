@@ -1,0 +1,125 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  11/03/2019 6:41:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/03/2019 6:41:18 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0196'.-----------------
+-----------Exception Details on  11/03/2019 6:42:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/03/2019 6:42:13 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmReportViewer.aspx?FrmReportViewer.aspx?encrypt=&BRCD=1&ED=13/12/2019&Flag=1&rptname=RptAVS5153.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0196'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  11/03/2019 6:42:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/03/2019 6:42:13 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmReportViewer.aspx?FrmReportViewer.aspx?encrypt=&BRCD=1&ED=13/12/2019&Flag=1&rptname=RptAVS5153.rdlc
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: CustomerReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0196'.-----------------
+-----------Exception Details on  11/03/2019 6:43:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/03/2019 6:43:46 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmReportViewer.aspx?FrmReportViewer.aspx?encrypt=&BRCD=1&ED=13/12/2019&Flag=1&rptname=RptAVS5153.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0196'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  11/03/2019 6:43:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/03/2019 6:43:46 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmReportViewer.aspx?FrmReportViewer.aspx?encrypt=&BRCD=1&ED=13/12/2019&Flag=1&rptname=RptAVS5153.rdlc
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: CustomerReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

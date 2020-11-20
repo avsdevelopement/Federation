@@ -1,0 +1,64 @@
+AGCD = SPACE(4)
+@ 10,10 say "Agent Code " get agcd Pict "K999"
+read
+if lastkey() = 27
+   close all
+   clear
+   retu
+endif
+SELE 0
+use mdaily share again noup
+SELE ACC_NO, 000000 AS "TOTAL", SUBS(NAME,1,16) AS "NAME", 0000000 AS "Balance", date() -1 as "cdt", 00000000 as "lst_coll" from mdaily Where a_code = AGCD Into Table quer1.tmp
+scan
+  macno = acc_no
+  lbl = tekbal("daily1",macno,agcd)
+
+  cmntbl = getcmbl(macno,agcd)
+  sele quer1
+  repl balance with lbl
+endsca
+brow
+
+
+
+proc getcmbl
+para _ACNO,agcd
+IF _ACNO = 765
+*   SET STEP ON
+ENDIF
+C = sele()
+sele 0
+tdl_reg = "dl"+ allt(str(month(date()))) + allt(str(year(date())))
+use &tdl_reg share 
+bl = 0
+if seek(iif(Empty(agcd),_ACNO,agcd + str(_acno)))
+Set order to acc_date
+if empty(agcd)
+   r = recno()
+   do while acc_no = _ACNO and !bof()
+      r = recno()
+      skip -1
+   enddo
+   goto r
+   do while acc_no = _ACNO and !eof()
+      bl = bl + credit - debit
+      skip
+   enddo
+else
+
+   r = recno()
+   do while acc_no = _ACNO and d_acc_no = agcd and !bof()
+      r = recno()
+      skip -1
+   enddo
+   goto r
+   do while acc_no = _ACNO and d_acc_no = agcd and !eof()
+      bl = bl + credit - debit
+      skip
+   enddo
+
+endif  
+endif
+use
+sele (C)
+retu bl

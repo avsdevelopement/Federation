@@ -1,0 +1,327 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  28/02/2020 9:10:26 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:10:26 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  28/02/2020 9:12:16 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:12:16 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx?encrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=15
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  28/02/2020 9:12:23 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:12:23 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'TrxType'.
+Invalid column name 'Amount'.-----------------
+-----------Exception Details on  28/02/2020 9:14:16 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:14:16 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=22
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'TrxType'.
+Invalid column name 'Amount'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  28/02/2020 9:21:16 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:21:16 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=22
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  28/02/2020 9:27:11 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:27:11 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'CASENO'.-----------------
+-----------Exception Details on  28/02/2020 9:32:42 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:32:42 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=14
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'CASENO'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  28/02/2020 9:34:01 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:34:01 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=14
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  28/02/2020 9:34:08 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:34:08 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CREDIT'.-----------------
+-----------Exception Details on  28/02/2020 9:39:24 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:39:24 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=15
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CREDIT'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CREDIT'.-----------------
+-----------Exception Details on  28/02/2020 9:39:38 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:39:38 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=15
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CREDIT'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CREDIT'.-----------------
+-----------Exception Details on  28/02/2020 9:39:48 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:39:48 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=15
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CREDIT'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was outside the bounds of the array.-----------------
+-----------Exception Details on  28/02/2020 9:46:36 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/02/2020 9:46:36 a.m.
+
+Error Line No : http://localhost:1203/CBSCORENEW/frmAVS51203.aspx?frmAVS51203.aspx%3fencrypt=&BRCD=2&CASE_YEAR=19-20&CASENO=15
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Index was outside the bounds of the array.
+
+ Error Page Url: Authorized
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

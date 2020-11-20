@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsRptDayBook_PEN" targetNamespace="http://tempuri.org/DsRptDayBook_PEN.xsd" xmlns:mstns="http://tempuri.org/DsRptDayBook_PEN.xsd" xmlns="http://tempuri.org/DsRptDayBook_PEN.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsRptDayBook_PEN" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DsRptDayBook_PEN" msprop:Generator_DataSetName="DsRptDayBook_PEN">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="GLNAME" msprop:Generator_ColumnVarNameInTable="columnGLNAME" msprop:Generator_ColumnPropNameInRow="GLNAME" msprop:Generator_ColumnPropNameInTable="GLNAMEColumn" msprop:Generator_UserColumnName="GLNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="ENTRYDATE" msprop:Generator_ColumnVarNameInTable="columnENTRYDATE" msprop:Generator_ColumnPropNameInRow="ENTRYDATE" msprop:Generator_ColumnPropNameInTable="ENTRYDATEColumn" msprop:Generator_UserColumnName="ENTRYDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="CCRCount" msprop:Generator_ColumnVarNameInTable="columnCCRCount" msprop:Generator_ColumnPropNameInRow="CCRCount" msprop:Generator_ColumnPropNameInTable="CCRCountColumn" msprop:Generator_UserColumnName="CCRCount" type="xs:string" minOccurs="0" />
+              <xs:element name="CBRCount" msprop:Generator_ColumnVarNameInTable="columnCBRCount" msprop:Generator_ColumnPropNameInRow="CBRCount" msprop:Generator_ColumnPropNameInTable="CBRCountColumn" msprop:Generator_UserColumnName="CBRCount" type="xs:string" minOccurs="0" />
+              <xs:element name="CTRCount" msprop:Generator_ColumnVarNameInTable="columnCTRCount" msprop:Generator_ColumnPropNameInRow="CTRCount" msprop:Generator_ColumnPropNameInTable="CTRCountColumn" msprop:Generator_UserColumnName="CTRCount" type="xs:string" minOccurs="0" />
+              <xs:element name="CCR" msprop:Generator_ColumnVarNameInTable="columnCCR" msprop:Generator_ColumnPropNameInRow="CCR" msprop:Generator_ColumnPropNameInTable="CCRColumn" msprop:Generator_UserColumnName="CCR" type="xs:string" minOccurs="0" />
+              <xs:element name="CBR" msprop:Generator_ColumnVarNameInTable="columnCBR" msprop:Generator_ColumnPropNameInRow="CBR" msprop:Generator_ColumnPropNameInTable="CBRColumn" msprop:Generator_UserColumnName="CBR" type="xs:string" minOccurs="0" />
+              <xs:element name="CTR" msprop:Generator_ColumnVarNameInTable="columnCTR" msprop:Generator_ColumnPropNameInRow="CTR" msprop:Generator_ColumnPropNameInTable="CTRColumn" msprop:Generator_UserColumnName="CTR" type="xs:string" minOccurs="0" />
+              <xs:element name="DCRCount" msprop:Generator_ColumnVarNameInTable="columnDCRCount" msprop:Generator_ColumnPropNameInRow="DCRCount" msprop:Generator_ColumnPropNameInTable="DCRCountColumn" msprop:Generator_UserColumnName="DCRCount" type="xs:string" minOccurs="0" />
+              <xs:element name="DBRCount" msprop:Generator_ColumnVarNameInTable="columnDBRCount" msprop:Generator_ColumnPropNameInRow="DBRCount" msprop:Generator_ColumnPropNameInTable="DBRCountColumn" msprop:Generator_UserColumnName="DBRCount" type="xs:string" minOccurs="0" />
+              <xs:element name="DTRCount" msprop:Generator_ColumnVarNameInTable="columnDTRCount" msprop:Generator_ColumnPropNameInRow="DTRCount" msprop:Generator_ColumnPropNameInTable="DTRCountColumn" msprop:Generator_UserColumnName="DTRCount" type="xs:string" minOccurs="0" />
+              <xs:element name="DCR" msprop:Generator_ColumnVarNameInTable="columnDCR" msprop:Generator_ColumnPropNameInRow="DCR" msprop:Generator_ColumnPropNameInTable="DCRColumn" msprop:Generator_UserColumnName="DCR" type="xs:string" minOccurs="0" />
+              <xs:element name="DBR" msprop:Generator_ColumnVarNameInTable="columnDBR" msprop:Generator_ColumnPropNameInRow="DBR" msprop:Generator_ColumnPropNameInTable="DBRColumn" msprop:Generator_UserColumnName="DBR" type="xs:string" minOccurs="0" />
+              <xs:element name="DTR" msprop:Generator_ColumnVarNameInTable="columnDTR" msprop:Generator_ColumnPropNameInRow="DTR" msprop:Generator_ColumnPropNameInTable="DTRColumn" msprop:Generator_UserColumnName="DTR" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalCr" msprop:Generator_ColumnVarNameInTable="columnTotalCr" msprop:Generator_ColumnPropNameInRow="TotalCr" msprop:Generator_ColumnPropNameInTable="TotalCrColumn" msprop:Generator_UserColumnName="TotalCr" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalDr" msprop:Generator_ColumnVarNameInTable="columnTotalDr" msprop:Generator_ColumnPropNameInRow="TotalDr" msprop:Generator_ColumnPropNameInTable="TotalDrColumn" msprop:Generator_UserColumnName="TotalDr" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalCountCr" msprop:Generator_ColumnVarNameInTable="columnTotalCountCr" msprop:Generator_ColumnPropNameInRow="TotalCountCr" msprop:Generator_ColumnPropNameInTable="TotalCountCrColumn" msprop:Generator_UserColumnName="TotalCountCr" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalCountDr" msprop:Generator_ColumnVarNameInTable="columnTotalCountDr" msprop:Generator_ColumnPropNameInRow="TotalCountDr" msprop:Generator_ColumnPropNameInTable="TotalCountDrColumn" msprop:Generator_UserColumnName="TotalCountDr" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

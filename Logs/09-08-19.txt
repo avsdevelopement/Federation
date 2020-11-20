@@ -1,0 +1,125 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  09/08/2019 11:06:43-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09/08/2019 11:06:43
+
+Error Line No : http://localhost:52210/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  09/08/2019 06:02:44-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09/08/2019 06:02:44
+
+Error Line No : http://localhost:52210/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  09/08/2019 06:02:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09/08/2019 06:02:54
+
+Error Line No : http://localhost:52210/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)-----------------
+-----------Exception Details on  09/08/2019 06:04:11-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09/08/2019 06:04:11
+
+Error Line No : http://localhost:52210/CBSCORENEW/frmavs5049.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  09/08/2019 06:04:26-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09/08/2019 06:04:26
+
+Error Line No : http://localhost:52210/CBSCORENEW/frmavs5049.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: txtTDate_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

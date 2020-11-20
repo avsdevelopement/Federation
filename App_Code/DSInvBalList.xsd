@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSInvBalList" targetNamespace="http://tempuri.org/DSInvBalList.xsd" xmlns:mstns="http://tempuri.org/DSInvBalList.xsd" xmlns="http://tempuri.org/DSInvBalList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSInvBalList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSInvBalList" msprop:Generator_UserDSName="DSInvBalList">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CUSTACCNO" msdata:Caption="CustAccNo" msprop:Generator_ColumnVarNameInTable="columnCUSTACCNO" msprop:Generator_ColumnPropNameInRow="CUSTACCNO" msprop:Generator_ColumnPropNameInTable="CUSTACCNOColumn" msprop:Generator_UserColumnName="CUSTACCNO" type="xs:string" minOccurs="0" />
+              <xs:element name="BANKNAME" msdata:Caption="PeriodType" msprop:Generator_ColumnVarNameInTable="columnBANKNAME" msprop:Generator_ColumnPropNameInRow="BANKNAME" msprop:Generator_ColumnPropNameInTable="BANKNAMEColumn" msprop:Generator_UserColumnName="BANKNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="GLNAME" msdata:Caption="Period" msprop:Generator_ColumnVarNameInTable="columnGLNAME" msprop:Generator_ColumnPropNameInRow="GLNAME" msprop:Generator_ColumnPropNameInTable="GLNAMEColumn" msprop:Generator_UserColumnName="GLNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="RECEIPTNO" msdata:Caption="RateOfInt" msprop:Generator_ColumnVarNameInTable="columnRECEIPTNO" msprop:Generator_ColumnPropNameInRow="RECEIPTNO" msprop:Generator_ColumnPropNameInTable="RECEIPTNOColumn" msprop:Generator_UserColumnName="RECEIPTNO" type="xs:string" minOccurs="0" />
+              <xs:element name="ClosingBal" msdata:Caption="OpeningDate" msprop:Generator_ColumnVarNameInTable="columnClosingBal" msprop:Generator_ColumnPropNameInRow="ClosingBal" msprop:Generator_ColumnPropNameInTable="ClosingBalColumn" msprop:Generator_UserColumnName="ClosingBal" type="xs:string" minOccurs="0" />
+              <xs:element name="DEPODATE" msdata:Caption="ClosingDate" msprop:Generator_ColumnVarNameInTable="columnDEPODATE" msprop:Generator_ColumnPropNameInRow="DEPODATE" msprop:Generator_ColumnPropNameInTable="DEPODATEColumn" msprop:Generator_UserColumnName="DEPODATE" type="xs:string" minOccurs="0" />
+              <xs:element name="PERIOD" msdata:Caption="PrincipleAmt" msprop:Generator_ColumnVarNameInTable="columnPERIOD" msprop:Generator_ColumnPropNameInRow="PERIOD" msprop:Generator_ColumnPropNameInTable="PERIODColumn" msprop:Generator_UserColumnName="PERIOD" type="xs:string" minOccurs="0" />
+              <xs:element name="MATUDATE" msdata:Caption="ClosingBal" msprop:Generator_ColumnVarNameInTable="columnMATUDATE" msprop:Generator_ColumnPropNameInRow="MATUDATE" msprop:Generator_ColumnPropNameInTable="MATUDATEColumn" msprop:Generator_UserColumnName="MATUDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="RATEOFINT" msdata:Caption="BankName" msprop:Generator_ColumnVarNameInTable="columnRATEOFINT" msprop:Generator_ColumnPropNameInRow="RATEOFINT" msprop:Generator_ColumnPropNameInTable="RATEOFINTColumn" msprop:Generator_UserColumnName="RATEOFINT" type="xs:string" minOccurs="0" />
+              <xs:element name="PRINCIPLEAMT" msdata:Caption="ReceiptNo" msprop:Generator_ColumnVarNameInTable="columnPRINCIPLEAMT" msprop:Generator_ColumnPropNameInRow="PRINCIPLEAMT" msprop:Generator_ColumnPropNameInTable="PRINCIPLEAMTColumn" msprop:Generator_UserColumnName="PRINCIPLEAMT" type="xs:string" minOccurs="0" />
+              <xs:element name="INTAMT" msdata:Caption="IntPayOut" msprop:Generator_ColumnVarNameInTable="columnINTAMT" msprop:Generator_ColumnPropNameInRow="INTAMT" msprop:Generator_ColumnPropNameInTable="INTAMTColumn" msprop:Generator_UserColumnName="INTAMT" type="xs:string" minOccurs="0" />
+              <xs:element name="SUBGLCODE" msdata:Caption="SubGlCode" msprop:Generator_ColumnVarNameInTable="columnSUBGLCODE" msprop:Generator_ColumnPropNameInRow="SUBGLCODE" msprop:Generator_ColumnPropNameInTable="SUBGLCODEColumn" msprop:Generator_UserColumnName="SUBGLCODE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

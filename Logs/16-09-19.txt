@@ -1,0 +1,750 @@
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  16/09/2019 10:24:45-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 10:24:45
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmAVS5030.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  16/09/2019 03:46:19-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:19
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  16/09/2019 03:46:19-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:19
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  16/09/2019 03:46:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:20
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  16/09/2019 03:46:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:20
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  16/09/2019 03:46:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:20
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  16/09/2019 03:46:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:20
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  16/09/2019 03:46:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:20
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  16/09/2019 03:46:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:20
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  16/09/2019 03:46:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:40
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  16/09/2019 03:46:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:40
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  16/09/2019 03:46:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:40
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  16/09/2019 03:46:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:40
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  16/09/2019 03:46:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:40
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  16/09/2019 03:46:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:40
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sbc'.-----------------
+-----------Exception Details on  16/09/2019 03:46:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:40
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sbc'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  16/09/2019 03:46:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 03:46:40
+
+Error Line No : http://localhost:62463/CBSCORENEW/Frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/09/2019 05:21:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 05:21:20
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/09/2019 05:21:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 05:21:54
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/09/2019 05:38:21-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 05:38:21
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MM'.-----------------
+-----------Exception Details on  16/09/2019 05:40:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 05:40:02
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MM'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'Total' does not belong to table .-----------------
+-----------Exception Details on  16/09/2019 05:40:21-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 05:40:21
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'Total' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  16/09/2019 06:05:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 06:05:20
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.-----------------
+-----------Exception Details on  16/09/2019 06:08:28-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 06:08:28
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRecoveryPosting.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.-----------------
+-----------Exception Details on  16/09/2019 06:09:21-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 06:09:21
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRecoveryPosting.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.-----------------
+-----------Exception Details on  16/09/2019 06:09:56-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 06:09:56
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRecoveryPosting.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.-----------------
+-----------Exception Details on  16/09/2019 06:10:32-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 06:10:32
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRecoveryPosting.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.-----------------
+-----------Exception Details on  16/09/2019 06:12:08-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 06:12:08
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRecoveryPosting.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.-----------------
+-----------Exception Details on  16/09/2019 06:13:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 06:13:54
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRecoveryPosting.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SurityAmt'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MM'.-----------------
+-----------Exception Details on  16/09/2019 06:23:15-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/09/2019 06:23:15
+
+Error Line No : http://localhost:62463/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'MM'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

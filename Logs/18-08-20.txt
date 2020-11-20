@@ -1,0 +1,1906 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  18/08/2020 10:21:03 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 10:21:03 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'TOT_RECV' does not belong to table .-----------------
+-----------Exception Details on  18/08/2020 10:26:56 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 10:26:56 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'TOT_RECV' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'TOT_RECV' does not belong to table .-----------------
+-----------Exception Details on  18/08/2020 10:29:24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 10:29:24 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'TOT_RECV' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object cannot be cast from DBNull to other types.-----------------
+-----------Exception Details on  18/08/2020 10:48:42 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 10:48:42 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Object cannot be cast from DBNull to other types.
+
+ Error Page Url: System.IConvertible.ToDateTime
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  18/08/2020 10:52:48 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 10:52:48 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)-----------------
+-----------Exception Details on  18/08/2020 11:13:07 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 11:13:07 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  18/08/2020 11:13:07 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 11:13:07 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)-----------------
+-----------Exception Details on  18/08/2020 11:13:07 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 11:13:07 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)
+
+ Error Page Url: UserCreateRequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  18/08/2020 11:13:07 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 11:13:07 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)-----------------
+-----------Exception Details on  18/08/2020 11:13:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 11:13:08 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)
+
+ Error Page Url: UserCreateRequest
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  18/08/2020 11:13:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 11:13:08 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'CASESTATUS'.
+Invalid column name 'APPLICTIONDATE'.
+Invalid column name 'societyTyp'.
+Invalid column name 'CASESTATUS'.-----------------
+-----------Exception Details on  18/08/2020 11:26:53 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 11:26:53 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmAvs51210.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'CASESTATUS'.
+Invalid column name 'APPLICTIONDATE'.
+Invalid column name 'societyTyp'.
+Invalid column name 'CASESTATUS'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)-----------------
+-----------Exception Details on  18/08/2020 11:26:56 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 11:26:56 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmAvs51210.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  18/08/2020 11:26:56 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 11:26:56 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmAvs51210.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: PageLoad
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.-----------------
+-----------Exception Details on  18/08/2020 11:28:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 11:28:08 AM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  18/08/2020 12:08:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:08:13 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:12:43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:12:43 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx?encrypt=&CaseY=19-20&CaseNo=6&Edate=08/08/2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:35:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:35:54 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:39:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:39:15 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:40:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:40:41 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:40:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:40:49 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:41:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:41:01 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:41:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:41:45 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:41:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:41:56 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:42:06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:42:06 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:42:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:42:28 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:44:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:44:14 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to bigint.-----------------
+-----------Exception Details on  18/08/2020 12:44:25 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:44:25 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to bigint.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 12:44:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 12:44:29 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/avsupsetp.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 1:09:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 1:09:37 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx?encrypt=&CaseY=19-20&CaseNo=20&Edate=01/08/2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 1:10:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 1:10:15 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=20&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 1:10:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 1:10:16 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=20&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 1:23:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 1:23:29 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=20&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 1:23:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 1:23:30 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=20&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  18/08/2020 2:11:36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 2:11:36 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  18/08/2020 2:17:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 2:17:17 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'TOT_RECV' does not belong to table .-----------------
+-----------Exception Details on  18/08/2020 2:23:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 2:23:00 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'TOT_RECV' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  18/08/2020 3:26:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 3:26:31 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  18/08/2020 4:23:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 4:23:39 PM
+
+Error Line No : http://localhost:64546/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  18/08/2020 5:21:44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:21:44 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  18/08/2020 5:44:06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:44:06 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  18/08/2020 5:44:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:44:08 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 5:44:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:44:21 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx?encrypt=&CaseY=19-20&CaseNo=6&Edate=01/08/2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 5:45:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:45:00 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 5:45:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:45:00 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'SpGlMastDropDown'.-----------------
+-----------Exception Details on  18/08/2020 5:54:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:54:58 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmGlMaster2.aspx?FrmGlMaster2.aspx%3fencrypt=&Flag=MD
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SpGlMastDropDown'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'GLMarathiFonttype' does not belong to table .-----------------
+-----------Exception Details on  18/08/2020 5:56:06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:56:06 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmGlMaster2.aspx?FrmGlMaster2.aspx%3fencrypt=&Flag=MD
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'GLMarathiFonttype' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'GLMarathiFonttype' does not belong to table .-----------------
+-----------Exception Details on  18/08/2020 5:56:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:56:33 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmGlMaster2.aspx?FrmGlMaster2.aspx%3fencrypt=&Flag=MD
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'GLMarathiFonttype' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'GLMarathiFonttype' does not belong to table .-----------------
+-----------Exception Details on  18/08/2020 5:58:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:58:28 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmGlMaster2.aspx?FrmGlMaster2.aspx%3fencrypt=&Flag=MD
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'GLMarathiFonttype' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'GLMarathiFonttype' does not belong to table .-----------------
+-----------Exception Details on  18/08/2020 5:58:35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:58:35 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmGlMaster2.aspx?FrmGlMaster2.aspx%3fencrypt=&Flag=MD
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'GLMarathiFonttype' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 5:59:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:59:21 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 5:59:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 5:59:22 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:04:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:04:18 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:04:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:04:18 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:05:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:05:03 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:05:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:05:03 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:16:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:16:26 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:16:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:16:26 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:17:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:17:51 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:17:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:17:51 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:32:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:32:14 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:32:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:32:15 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:35:12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:35:12 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:35:12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:35:12 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:47:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:47:07 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:47:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:47:08 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=6&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:57:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:57:15 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=218&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/08/2020 6:57:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 6:57:16 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/08/2020&ACCNO=218&rptname=RptUpsetCoverletter_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 7:08:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 7:08:23 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/AVSUPSETP.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 7:10:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 7:10:33 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/AVSUPSETP.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 7:27:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 7:27:17 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/AVSUPSETP.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 7:27:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 7:27:42 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/AVSUPSETP.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 7:28:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 7:28:03 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/AVSUPSETP.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 7:58:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 7:58:14 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/AVSUPSETP.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 8:01:19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 8:01:19 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/AVSUPSETP.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.-----------------
+-----------Exception Details on  18/08/2020 8:02:05 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/08/2020 8:02:05 PM
+
+Error Line No : http://localhost:55918/CBSCORENEW/AVSUPSETP.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'EDATE'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

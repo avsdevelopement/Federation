@@ -1,0 +1,375 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  08/07/2019 5:34:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 5:34:13 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  08/07/2019 5:46:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 5:46:32 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmMultiTransaction.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  08/07/2019 5:46:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 5:46:47 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  08/07/2019 5:49:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 5:49:52 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDA.aspx?FrmTDA.aspx%3fencrypt=&op=AD&FL=N&P=00&A=00
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: txtAccNo_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  08/07/2019 6:00:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 6:00:51 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  08/07/2019 6:00:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 6:00:58 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Conversion failed when converting the varchar value '2019-06-29' to data type int.-----------------
+-----------Exception Details on  08/07/2019 6:01:12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 6:01:12 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmAuthorizeCR.aspx?FrmAuthorizeCR.aspx?encrypt=&Flag=AT&VN=6&SN=1
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Conversion failed when converting the varchar value '2019-06-29' to data type int.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Conversion failed when converting the varchar value '2019-06-29' to data type int.-----------------
+-----------Exception Details on  08/07/2019 6:04:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 6:04:57 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmAuthorizeCR.aspx?FrmAuthorizeCR.aspx?encrypt=&Flag=AT&VN=6&SN=1
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Conversion failed when converting the varchar value '2019-06-29' to data type int.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  08/07/2019 6:12:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 6:12:37 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmMultiTransaction.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  08/07/2019 6:13:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 6:13:41 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  08/07/2019 6:13:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 6:13:46 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  @RecNo is not a parameter for procedure SP_OpClBalance.-----------------
+-----------Exception Details on  08/07/2019 6:14:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 6:14:01 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RecNo is not a parameter for procedure SP_OpClBalance.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  @RecNo is not a parameter for procedure SP_OpClBalance.-----------------
+-----------Exception Details on  08/07/2019 6:14:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 6:14:02 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RecNo is not a parameter for procedure SP_OpClBalance.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  @RecNo is not a parameter for procedure SP_OpClBalance.-----------------
+-----------Exception Details on  08/07/2019 6:14:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 6:14:31 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RecNo is not a parameter for procedure SP_OpClBalance.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  @RecNo is not a parameter for procedure SP_OpClBalance.-----------------
+-----------Exception Details on  08/07/2019 6:14:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/07/2019 6:14:31 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RecNo is not a parameter for procedure SP_OpClBalance.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

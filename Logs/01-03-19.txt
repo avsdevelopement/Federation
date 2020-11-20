@@ -1,0 +1,306 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/03/2019 11:16:56 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:16:56 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  There is no row at position 0.-----------------
+-----------Exception Details on  01/03/2019 11:17:34 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:17:34 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmCashReceipt.aspx?FrmCashReceipt.aspx%3fencrypt=&FL=N&P=00&A=00
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: GetNodeByIndex
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/03/2019 11:18:52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:18:52 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/03/2019 11:23:17 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:23:17 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/03/2019 11:24:12 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:24:12 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  01/03/2019 11:24:29 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:24:29 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmCashReceipt.aspx?FrmCashReceipt.aspx%3fencrypt=&FL=N&P=00&A=00
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  01/03/2019 11:28:40 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:28:40 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmCashReceipt.aspx?FrmCashReceipt.aspx%3fencrypt=&FL=N&P=00&A=00
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/03/2019 11:29:19 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:29:19 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/03/2019 11:29:27 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:29:27 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/03/2019 11:29:37 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:29:37 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.-----------------
+-----------Exception Details on  01/03/2019 11:30:50 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:30:50 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmAuthorizeCR.aspx?FrmAuthorizeCR.aspx?encrypt=&Flag=AT&VN=85&SN=1
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SHIVJYOTIIMAGE" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Conversion failed when converting the varchar value '2019-01-04' to data type int.-----------------
+-----------Exception Details on  01/03/2019 11:30:50 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/03/2019 11:30:50 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmAuthorizeCR.aspx?FrmAuthorizeCR.aspx?encrypt=&Flag=AT&VN=85&SN=1
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Conversion failed when converting the varchar value '2019-01-04' to data type int.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

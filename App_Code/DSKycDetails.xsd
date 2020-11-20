@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSKycDetails" targetNamespace="http://tempuri.org/DSKycDetails.xsd" xmlns:mstns="http://tempuri.org/DSKycDetails.xsd" xmlns="http://tempuri.org/DSKycDetails.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSKycDetails" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSKycDetails" msprop:Generator_UserDSName="DSKycDetails">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTNO" msprop:Generator_ColumnVarNameInTable="columnCUSTNO" msprop:Generator_ColumnPropNameInRow="CUSTNO" msprop:Generator_ColumnPropNameInTable="CUSTNOColumn" msprop:Generator_UserColumnName="CUSTNO" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTNAME" msprop:Generator_ColumnVarNameInTable="columnCUSTNAME" msprop:Generator_ColumnPropNameInRow="CUSTNAME" msprop:Generator_ColumnPropNameInTable="CUSTNAMEColumn" msprop:Generator_UserColumnName="CUSTNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="DOCP" msprop:Generator_ColumnVarNameInTable="columnDOCP" msprop:Generator_ColumnPropNameInRow="DOCP" msprop:Generator_ColumnPropNameInTable="DOCPColumn" msprop:Generator_UserColumnName="DOCP" type="xs:string" minOccurs="0" />
+              <xs:element name="DOCS" msprop:Generator_ColumnVarNameInTable="columnDOCS" msprop:Generator_ColumnPropNameInRow="DOCS" msprop:Generator_ColumnPropNameInTable="DOCSColumn" msprop:Generator_UserColumnName="DOCS" type="xs:string" minOccurs="0" />
+              <xs:element name="DOCA" msprop:Generator_ColumnVarNameInTable="columnDOCA" msprop:Generator_ColumnPropNameInRow="DOCA" msprop:Generator_ColumnPropNameInTable="DOCAColumn" msprop:Generator_UserColumnName="DOCA" type="xs:string" minOccurs="0" />
+              <xs:element name="DOCI" msprop:Generator_ColumnVarNameInTable="columnDOCI" msprop:Generator_ColumnPropNameInRow="DOCI" msprop:Generator_ColumnPropNameInTable="DOCIColumn" msprop:Generator_UserColumnName="DOCI" type="xs:string" minOccurs="0" />
+              <xs:element name="KYCYN" msprop:Generator_ColumnVarNameInTable="columnKYCYN" msprop:Generator_ColumnPropNameInRow="KYCYN" msprop:Generator_ColumnPropNameInTable="KYCYNColumn" msprop:Generator_UserColumnName="KYCYN" type="xs:string" minOccurs="0" />
+              <xs:element name="KYCDESC" msprop:Generator_ColumnVarNameInTable="columnKYCDESC" msprop:Generator_ColumnPropNameInRow="KYCDESC" msprop:Generator_ColumnPropNameInTable="KYCDESCColumn" msprop:Generator_UserColumnName="KYCDESC" type="xs:string" minOccurs="0" />
+              <xs:element name="DOCAD" msprop:Generator_ColumnVarNameInTable="columnDOCAD" msprop:Generator_ColumnPropNameInRow="DOCAD" msprop:Generator_ColumnPropNameInTable="DOCADColumn" msprop:Generator_UserColumnName="DOCAD" type="xs:string" minOccurs="0" />
+              <xs:element name="DOCPAN" msprop:Generator_ColumnVarNameInTable="columnDOCPAN" msprop:Generator_ColumnPropNameInRow="DOCPAN" msprop:Generator_ColumnPropNameInTable="DOCPANColumn" msprop:Generator_UserColumnName="DOCPAN" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

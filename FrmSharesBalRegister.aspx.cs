@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+public partial class FrmSharesBalRegister : System.Web.UI.Page
+{
+    DbConnection conn = new DbConnection();
+    ClsLogMaintainance CLM = new ClsLogMaintainance();
+    string FL = "";
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        try
+        {
+            if (!IsPostBack)
+            {
+                if (Session["UserName"] == null)
+                {
+                    Response.Redirect("FrmLogin.aspx");
+                }
+                //added by ankita 07/10/2017 to make user frndly 
+                TxtFDate.Text = conn.sExecuteScalar("select '01/04/'+ convert(varchar(10),(year(dateadd(month, -3,'" + conn.ConvertDate(Session["EntryDate"].ToString()) + "'))))");
+
+                TxtTDate.Text = Session["EntryDate"].ToString();
+                TxtFBrID.Text = Session["BRCD"].ToString();
+                TxtTBrID.Focus();
+            }
+        }
+        catch (Exception Ex)
+        {
+            ExceptionLogging.SendErrorToText(Ex);
+        }
+    }
+    protected void btnPrint_Click(object sender, EventArgs e)
+    {
+        try
+        {
+            FL = "Insert";//ankita 15/09/2017
+            string Res = CLM.LOGDETAILS(FL, Session["BRCD"].ToString(), Session["MID"].ToString(), "PlExpenses_Rpt" + "_" + Session["LOGINCODE"].ToString() + "", "00", Session["MID"].ToString());
+            if (Rdeatils.SelectedValue == "1")
+            {
+                string redirectURL = "FrmRView.aspx?FBRCD=" + TxtFBrID.Text + "&TBRCD=" + TxtTBrID.Text + "&FromDate=" + TxtFDate.Text + "&ToDate=" + TxtTDate.Text + "&rptname=RptShrBalRegister.rdlc" + "";
+                ScriptManager.RegisterStartupScript(Page, Page.GetType(), "popup", "window.open('" + redirectURL + "','_blank')", true);
+            }
+            if (Rdeatils.SelectedValue == "2")
+            {
+                string redirectURL = "FrmRView.aspx?FBRCD=" + TxtFBrID.Text + "&TBRCD=" + TxtTBrID.Text + "&FromDate=" + TxtFDate.Text + "&ToDate=" + TxtTDate.Text + "&rptname=RptShrBalRegisterSumry.rdlc" + "";
+                ScriptManager.RegisterStartupScript(Page, Page.GetType(), "popup", "window.open('" + redirectURL + "','_blank')", true);
+            }
+            if (Rdeatils.SelectedValue == "3")
+            {
+                string redirectURL = "FrmRView.aspx?FBRCD=" + TxtFBrID.Text + "&TBRCD=" + TxtTBrID.Text + "&FromDate=" + TxtFDate.Text + "&ToDate=" + TxtTDate.Text + "&rptname=RptShrBalanceCertWise.rdlc" + "";
+                ScriptManager.RegisterStartupScript(Page, Page.GetType(), "popup", "window.open('" + redirectURL + "','_blank')", true);
+            }
+        }
+        catch (Exception Ex)
+        {
+            ExceptionLogging.SendErrorToText(Ex);
+        }
+    }
+}

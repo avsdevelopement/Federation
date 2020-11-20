@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsGetIntRateWiseDT" targetNamespace="http://tempuri.org/DsGetIntRateWiseDT.xsd" xmlns:mstns="http://tempuri.org/DsGetIntRateWiseDT.xsd" xmlns="http://tempuri.org/DsGetIntRateWiseDT.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsGetIntRateWiseDT" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DsGetIntRateWiseDT" msprop:Generator_UserDSName="DsGetIntRateWiseDT">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IntRate" msprop:Generator_ColumnVarNameInTable="columnIntRate" msprop:Generator_ColumnPropNameInRow="IntRate" msprop:Generator_ColumnPropNameInTable="IntRateColumn" msprop:Generator_UserColumnName="IntRate" type="xs:string" minOccurs="0" />
+              <xs:element name="AcctType" msprop:Generator_ColumnVarNameInTable="columnAcctType" msprop:Generator_ColumnPropNameInRow="AcctType" msprop:Generator_ColumnPropNameInTable="AcctTypeColumn" msprop:Generator_UserColumnName="AcctType" type="xs:string" minOccurs="0" />
+              <xs:element name="AcctTypeDesc" msprop:Generator_ColumnVarNameInTable="columnAcctTypeDesc" msprop:Generator_ColumnPropNameInRow="AcctTypeDesc" msprop:Generator_ColumnPropNameInTable="AcctTypeDescColumn" msprop:Generator_UserColumnName="AcctTypeDesc" type="xs:string" minOccurs="0" />
+              <xs:element name="UpTo6M" msprop:Generator_ColumnVarNameInTable="columnUpTo6M" msprop:Generator_ColumnPropNameInRow="UpTo6M" msprop:Generator_ColumnPropNameInTable="UpTo6MColumn" msprop:Generator_UserColumnName="UpTo6M" type="xs:string" minOccurs="0" />
+              <xs:element name="UpTo6M_Amt" msprop:Generator_ColumnVarNameInTable="columnUpTo6M_Amt" msprop:Generator_ColumnPropNameInRow="UpTo6M_Amt" msprop:Generator_ColumnPropNameInTable="UpTo6M_AmtColumn" msprop:Generator_UserColumnName="UpTo6M_Amt" type="xs:string" minOccurs="0" />
+              <xs:element name="Abv_6_12_M" msprop:Generator_ColumnVarNameInTable="columnAbv_6_12_M" msprop:Generator_ColumnPropNameInRow="Abv_6_12_M" msprop:Generator_ColumnPropNameInTable="Abv_6_12_MColumn" msprop:Generator_UserColumnName="Abv_6_12_M" type="xs:string" minOccurs="0" />
+              <xs:element name="Abv_6_12_M_Amt" msprop:Generator_ColumnVarNameInTable="columnAbv_6_12_M_Amt" msprop:Generator_ColumnPropNameInRow="Abv_6_12_M_Amt" msprop:Generator_ColumnPropNameInTable="Abv_6_12_M_AmtColumn" msprop:Generator_UserColumnName="Abv_6_12_M_Amt" type="xs:string" minOccurs="0" />
+              <xs:element name="Abv_12_15_M" msprop:Generator_ColumnVarNameInTable="columnAbv_12_15_M" msprop:Generator_ColumnPropNameInRow="Abv_12_15_M" msprop:Generator_ColumnPropNameInTable="Abv_12_15_MColumn" msprop:Generator_UserColumnName="Abv_12_15_M" type="xs:string" minOccurs="0" />
+              <xs:element name="Abv_12_15_M_Amt" msprop:Generator_ColumnVarNameInTable="columnAbv_12_15_M_Amt" msprop:Generator_ColumnPropNameInRow="Abv_12_15_M_Amt" msprop:Generator_ColumnPropNameInTable="Abv_12_15_M_AmtColumn" msprop:Generator_UserColumnName="Abv_12_15_M_Amt" type="xs:string" minOccurs="0" />
+              <xs:element name="Abv_15_60_M" msprop:Generator_ColumnVarNameInTable="columnAbv_15_60_M" msprop:Generator_ColumnPropNameInRow="Abv_15_60_M" msprop:Generator_ColumnPropNameInTable="Abv_15_60_MColumn" msprop:Generator_UserColumnName="Abv_15_60_M" type="xs:string" minOccurs="0" />
+              <xs:element name="Abv_15_60_M_Amt" msprop:Generator_ColumnVarNameInTable="columnAbv_15_60_M_Amt" msprop:Generator_ColumnPropNameInRow="Abv_15_60_M_Amt" msprop:Generator_ColumnPropNameInTable="Abv_15_60_M_AmtColumn" msprop:Generator_UserColumnName="Abv_15_60_M_Amt" type="xs:string" minOccurs="0" />
+              <xs:element name="Abv_60M" msprop:Generator_ColumnVarNameInTable="columnAbv_60M" msprop:Generator_ColumnPropNameInRow="Abv_60M" msprop:Generator_ColumnPropNameInTable="Abv_60MColumn" msprop:Generator_UserColumnName="Abv_60M" type="xs:string" minOccurs="0" />
+              <xs:element name="Abv_60M_Amt" msprop:Generator_ColumnVarNameInTable="columnAbv_60M_Amt" msprop:Generator_ColumnPropNameInRow="Abv_60M_Amt" msprop:Generator_ColumnPropNameInTable="Abv_60M_AmtColumn" msprop:Generator_UserColumnName="Abv_60M_Amt" type="xs:string" minOccurs="0" />
+              <xs:element name="Glname" msprop:Generator_ColumnVarNameInTable="columnGlname" msprop:Generator_ColumnPropNameInRow="Glname" msprop:Generator_ColumnPropNameInTable="GlnameColumn" msprop:Generator_UserColumnName="Glname" type="xs:string" minOccurs="0" />
+              <xs:element name="Subglcode" msprop:Generator_ColumnVarNameInTable="columnSubglcode" msprop:Generator_ColumnPropNameInRow="Subglcode" msprop:Generator_ColumnPropNameInTable="SubglcodeColumn" msprop:Generator_UserColumnName="Subglcode" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

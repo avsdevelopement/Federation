@@ -1,0 +1,729 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  28/09/2020 10:03:50 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 10:03:50 a.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  28/09/2020 10:19:48 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 10:19:48 a.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  28/09/2020 2:45:09 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 2:45:09 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  28/09/2020 3:08:35 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:08:35 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  28/09/2020 3:08:35 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:08:35 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  28/09/2020 3:08:36 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:08:36 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  28/09/2020 3:08:36 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:08:36 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptPossessionNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 3:09:15 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:09:15 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx?encrypt=&CaseY=19-20&CaseNo=33&Edate=08/09/2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 3:10:42 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:10:42 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 3:19:12 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:19:12 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 3:19:29 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:19:29 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 3:19:33 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:19:33 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 3:21:54 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:21:54 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 3:34:48 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:34:48 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 3:34:59 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:34:59 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 3:35:38 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:35:38 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 3:37:36 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:37:36 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'ddlRCNo' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  28/09/2020 3:37:36 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 3:37:36 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlRCNo' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 4:14:20 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 4:14:20 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 4:18:52 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 4:18:52 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'ddlRCNo' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  28/09/2020 4:18:55 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 4:18:55 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlRCNo' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'BRCD'.-----------------
+-----------Exception Details on  28/09/2020 4:20:16 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 4:20:16 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'BRCD'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ID'.-----------------
+-----------Exception Details on  28/09/2020 4:20:23 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 4:20:23 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ID'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 4:21:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 4:21:25 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 4:21:51 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 4:21:51 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 4:22:26 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 4:22:26 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.-----------------
+-----------Exception Details on  28/09/2020 4:22:28 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 4:22:28 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/AVSUPSETP.aspx?AVSUPSETP.aspx%3fencrypt=&CaseY=19-20&CaseNo=33&Edate=08%2f09%2f2020
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'id'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  28/09/2020 4:24:38 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 4:24:38 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  28/09/2020 5:58:15 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28/09/2020 5:58:15 p.m.
+
+Error Line No : http://localhost:9482/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

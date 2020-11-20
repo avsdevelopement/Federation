@@ -1,0 +1,206 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  05/03/2019 5:10:44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/03/2019 5:10:44 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Violation of PRIMARY KEY constraint 'Master_CS'. Cannot insert duplicate key in object 'dbo.MASTER'. The duplicate key value is (5001089).
+The statement has been terminated.-----------------
+-----------Exception Details on  05/03/2019 5:14:04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/03/2019 5:14:04 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmIPersonal.aspx?FrmIPersonal.aspx%3fencrypt=&Flag=AD
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of PRIMARY KEY constraint 'Master_CS'. Cannot insert duplicate key in object 'dbo.MASTER'. The duplicate key value is (5001089).
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  05/03/2019 5:14:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/03/2019 5:14:18 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmIPersonal.aspx?FrmIPersonal.aspx%3fencrypt=&Flag=AD
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Violation of PRIMARY KEY constraint 'Master_CS'. Cannot insert duplicate key in object 'dbo.MASTER'. The duplicate key value is (5001089).
+The statement has been terminated.-----------------
+-----------Exception Details on  05/03/2019 5:15:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/03/2019 5:15:32 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmIPersonal.aspx?FrmIPersonal.aspx%3fencrypt=&Flag=AD
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of PRIMARY KEY constraint 'Master_CS'. Cannot insert duplicate key in object 'dbo.MASTER'. The duplicate key value is (5001089).
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Violation of PRIMARY KEY constraint 'Master_CS'. Cannot insert duplicate key in object 'dbo.MASTER'. The duplicate key value is (5001089).
+The statement has been terminated.-----------------
+-----------Exception Details on  05/03/2019 5:16:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/03/2019 5:16:16 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmIPersonal.aspx?FrmIPersonal.aspx%3fencrypt=&Flag=AD
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of PRIMARY KEY constraint 'Master_CS'. Cannot insert duplicate key in object 'dbo.MASTER'. The duplicate key value is (5001089).
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  05/03/2019 5:17:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/03/2019 5:17:33 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmIPersonal.aspx?FrmIPersonal.aspx%3fencrypt=&Flag=AD
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  05/03/2019 5:24:34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/03/2019 5:24:34 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  05/03/2019 6:30:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05/03/2019 6:30:51 PM
+
+Error Line No : http://localhost:20548/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

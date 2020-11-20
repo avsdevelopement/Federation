@@ -1,0 +1,75 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  24/01/2018 3:57:59 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 24/01/2018 3:57:59 PM
+
+Error Line No : http://localhost:3953/CBSCORENEW/FrmDailyBalLessClgBal.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: TxtFprdcode_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'RptDailyBalanceLessThenClg'.-----------------
+-----------Exception Details on  24/01/2018 3:58:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 24/01/2018 3:58:01 PM
+
+Error Line No : http://localhost:3953/CBSCORENEW/FrmRView.aspx?AsOnDate=31/12/2017 &FBrcd=1 &Product=0000&rptname=RptDailyBalanceLessThenClg.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'RptDailyBalanceLessThenClg'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  24/01/2018 7:54:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 24/01/2018 7:54:09 PM
+
+Error Line No : http://localhost:3953/CBSCORENEW/FrmMontlyRecList.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: TxtTprdcode_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

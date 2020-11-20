@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsGetDayBookDetailsCrDr" targetNamespace="http://tempuri.org/DsGetDayBookDetailsCrDr.xsd" xmlns:mstns="http://tempuri.org/DsGetDayBookDetailsCrDr.xsd" xmlns="http://tempuri.org/DsGetDayBookDetailsCrDr.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsGetDayBookDetailsCrDr" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DsGetDayBookDetailsCrDr" msprop:Generator_DataSetName="DsGetDayBookDetailsCrDr">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BRCD" msprop:Generator_ColumnVarNameInTable="columnBRCD" msprop:Generator_ColumnPropNameInRow="BRCD" msprop:Generator_ColumnPropNameInTable="BRCDColumn" msprop:Generator_UserColumnName="BRCD" type="xs:string" minOccurs="0" />
+              <xs:element name="ENTRYDATE" msprop:Generator_ColumnVarNameInTable="columnENTRYDATE" msprop:Generator_ColumnPropNameInRow="ENTRYDATE" msprop:Generator_ColumnPropNameInTable="ENTRYDATEColumn" msprop:Generator_UserColumnName="ENTRYDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="Subglcode_C" msprop:Generator_ColumnVarNameInTable="columnSubglcode_C" msprop:Generator_ColumnPropNameInRow="Subglcode_C" msprop:Generator_ColumnPropNameInTable="Subglcode_CColumn" msprop:Generator_UserColumnName="Subglcode_C" type="xs:string" minOccurs="0" />
+              <xs:element name="GLName_C" msprop:Generator_ColumnVarNameInTable="columnGLName_C" msprop:Generator_ColumnPropNameInRow="GLName_C" msprop:Generator_ColumnPropNameInTable="GLName_CColumn" msprop:Generator_UserColumnName="GLName_C" type="xs:string" minOccurs="0" />
+              <xs:element name="PARTICULARS_C" msprop:Generator_ColumnVarNameInTable="columnPARTICULARS_C" msprop:Generator_ColumnPropNameInRow="PARTICULARS_C" msprop:Generator_ColumnPropNameInTable="PARTICULARS_CColumn" msprop:Generator_UserColumnName="PARTICULARS_C" type="xs:string" minOccurs="0" />
+              <xs:element name="Setno_C" msprop:Generator_ColumnVarNameInTable="columnSetno_C" msprop:Generator_ColumnPropNameInRow="Setno_C" msprop:Generator_ColumnPropNameInTable="Setno_CColumn" msprop:Generator_UserColumnName="Setno_C" type="xs:string" minOccurs="0" />
+              <xs:element name="ACCNO_C" msprop:Generator_ColumnVarNameInTable="columnACCNO_C" msprop:Generator_ColumnPropNameInRow="ACCNO_C" msprop:Generator_ColumnPropNameInTable="ACCNO_CColumn" msprop:Generator_UserColumnName="ACCNO_C" type="xs:string" minOccurs="0" />
+              <xs:element name="Custno_C" msprop:Generator_ColumnVarNameInTable="columnCustno_C" msprop:Generator_ColumnPropNameInRow="Custno_C" msprop:Generator_ColumnPropNameInTable="Custno_CColumn" msprop:Generator_UserColumnName="Custno_C" type="xs:string" minOccurs="0" />
+              <xs:element name="CustName_C" msprop:Generator_ColumnVarNameInTable="columnCustName_C" msprop:Generator_ColumnPropNameInRow="CustName_C" msprop:Generator_ColumnPropNameInTable="CustName_CColumn" msprop:Generator_UserColumnName="CustName_C" type="xs:string" minOccurs="0" />
+              <xs:element name="CCR" msprop:Generator_ColumnVarNameInTable="columnCCR" msprop:Generator_ColumnPropNameInRow="CCR" msprop:Generator_ColumnPropNameInTable="CCRColumn" msprop:Generator_UserColumnName="CCR" type="xs:string" minOccurs="0" />
+              <xs:element name="CBR" msprop:Generator_ColumnVarNameInTable="columnCBR" msprop:Generator_ColumnPropNameInRow="CBR" msprop:Generator_ColumnPropNameInTable="CBRColumn" msprop:Generator_UserColumnName="CBR" type="xs:string" minOccurs="0" />
+              <xs:element name="CTR" msprop:Generator_ColumnVarNameInTable="columnCTR" msprop:Generator_ColumnPropNameInRow="CTR" msprop:Generator_ColumnPropNameInTable="CTRColumn" msprop:Generator_UserColumnName="CTR" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalCr" msprop:Generator_ColumnVarNameInTable="columnTotalCr" msprop:Generator_ColumnPropNameInRow="TotalCr" msprop:Generator_ColumnPropNameInTable="TotalCrColumn" msprop:Generator_UserColumnName="TotalCr" type="xs:string" minOccurs="0" />
+              <xs:element name="Subglcode_D" msprop:Generator_ColumnVarNameInTable="columnSubglcode_D" msprop:Generator_ColumnPropNameInRow="Subglcode_D" msprop:Generator_ColumnPropNameInTable="Subglcode_DColumn" msprop:Generator_UserColumnName="Subglcode_D" type="xs:string" minOccurs="0" />
+              <xs:element name="GLName_D" msprop:Generator_ColumnVarNameInTable="columnGLName_D" msprop:Generator_ColumnPropNameInRow="GLName_D" msprop:Generator_ColumnPropNameInTable="GLName_DColumn" msprop:Generator_UserColumnName="GLName_D" type="xs:string" minOccurs="0" />
+              <xs:element name="PARTICULARS_D" msprop:Generator_ColumnVarNameInTable="columnPARTICULARS_D" msprop:Generator_ColumnPropNameInRow="PARTICULARS_D" msprop:Generator_ColumnPropNameInTable="PARTICULARS_DColumn" msprop:Generator_UserColumnName="PARTICULARS_D" type="xs:string" minOccurs="0" />
+              <xs:element name="Setno_D" msprop:Generator_ColumnVarNameInTable="columnSetno_D" msprop:Generator_ColumnPropNameInRow="Setno_D" msprop:Generator_ColumnPropNameInTable="Setno_DColumn" msprop:Generator_UserColumnName="Setno_D" type="xs:string" minOccurs="0" />
+              <xs:element name="ACCNO_D" msprop:Generator_ColumnVarNameInTable="columnACCNO_D" msprop:Generator_ColumnPropNameInRow="ACCNO_D" msprop:Generator_ColumnPropNameInTable="ACCNO_DColumn" msprop:Generator_UserColumnName="ACCNO_D" type="xs:string" minOccurs="0" />
+              <xs:element name="Custno_D" msprop:Generator_ColumnVarNameInTable="columnCustno_D" msprop:Generator_ColumnPropNameInRow="Custno_D" msprop:Generator_ColumnPropNameInTable="Custno_DColumn" msprop:Generator_UserColumnName="Custno_D" type="xs:string" minOccurs="0" />
+              <xs:element name="CustName_D" msprop:Generator_ColumnVarNameInTable="columnCustName_D" msprop:Generator_ColumnPropNameInRow="CustName_D" msprop:Generator_ColumnPropNameInTable="CustName_DColumn" msprop:Generator_UserColumnName="CustName_D" type="xs:string" minOccurs="0" />
+              <xs:element name="DCR" msprop:Generator_ColumnVarNameInTable="columnDCR" msprop:Generator_ColumnPropNameInRow="DCR" msprop:Generator_ColumnPropNameInTable="DCRColumn" msprop:Generator_UserColumnName="DCR" type="xs:string" minOccurs="0" />
+              <xs:element name="DBR" msprop:Generator_ColumnVarNameInTable="columnDBR" msprop:Generator_ColumnPropNameInRow="DBR" msprop:Generator_ColumnPropNameInTable="DBRColumn" msprop:Generator_UserColumnName="DBR" type="xs:string" minOccurs="0" />
+              <xs:element name="DTR" msprop:Generator_ColumnVarNameInTable="columnDTR" msprop:Generator_ColumnPropNameInRow="DTR" msprop:Generator_ColumnPropNameInTable="DTRColumn" msprop:Generator_UserColumnName="DTR" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalDr" msprop:Generator_ColumnVarNameInTable="columnTotalDr" msprop:Generator_ColumnPropNameInRow="TotalDr" msprop:Generator_ColumnPropNameInTable="TotalDrColumn" msprop:Generator_UserColumnName="TotalDr" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

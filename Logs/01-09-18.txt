@@ -1,0 +1,306 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01-Sep-18 3:37:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 3:37:11 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01-Sep-18 3:37:43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 3:37:43 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanLimit.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: TxtAccNo_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.-----------------
+-----------Exception Details on  01-Sep-18 3:38:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 3:38:07 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanLimit.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.-----------------
+-----------Exception Details on  01-Sep-18 3:39:04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 3:39:04 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanLimit.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01-Sep-18 3:42:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 3:42:18 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanLimit.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: TxtAccNo_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object cannot be cast from DBNull to other types.-----------------
+-----------Exception Details on  01-Sep-18 3:42:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 3:42:22 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanLimit.aspx
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Object cannot be cast from DBNull to other types.
+
+ Error Page Url: System.IConvertible.ToDateTime
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.-----------------
+-----------Exception Details on  01-Sep-18 3:42:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 3:42:29 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanLimit.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.-----------------
+-----------Exception Details on  01-Sep-18 3:42:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 3:42:48 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanLimit.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.-----------------
+-----------Exception Details on  01-Sep-18 3:42:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 3:42:49 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanLimit.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01-Sep-18 4:14:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 4:14:28 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object cannot be cast from DBNull to other types.-----------------
+-----------Exception Details on  01-Sep-18 4:16:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 4:16:02 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmLoanLimit.aspx
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Object cannot be cast from DBNull to other types.
+
+ Error Page Url: System.IConvertible.ToDateTime
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01-Sep-18 4:22:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01-Sep-18 4:22:46 PM
+
+Error Line No : http://localhost:8017/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

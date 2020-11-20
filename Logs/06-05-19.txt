@@ -1,0 +1,275 @@
+-----------Exception Details on  Login failed for user 'sa'.-----------------
+-----------Exception Details on  06/05/2019 3:45:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/05/2019 3:45:31 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sa'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  06/05/2019 3:45:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/05/2019 3:45:31 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sa'.-----------------
+-----------Exception Details on  06/05/2019 3:45:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/05/2019 3:45:31 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  06/05/2019 3:45:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/05/2019 3:45:31 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sa'.-----------------
+-----------Exception Details on  06/05/2019 3:45:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/05/2019 3:45:31 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  06/05/2019 3:45:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/05/2019 3:45:31 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'sa'.-----------------
+-----------Exception Details on  06/05/2019 3:45:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/05/2019 3:45:31 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'sa'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  06/05/2019 3:45:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/05/2019 3:45:31 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  06/05/2019 3:53:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/05/2019 3:53:45 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'CustNo' does not belong to table .-----------------
+-----------Exception Details on  06/05/2019 4:09:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/05/2019 4:09:45 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CustNo' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  06/05/2019 4:22:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06/05/2019 4:22:11 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

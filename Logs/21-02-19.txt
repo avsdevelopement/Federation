@@ -1,0 +1,125 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  21/02/2019 12:28:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21/02/2019 12:28:32 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  21/02/2019 12:28:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21/02/2019 12:28:53 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmStatementView.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: GridDataBound
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  21/02/2019 12:29:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21/02/2019 12:29:17 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmStatementView.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: GridDataBound
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  21/02/2019 1:38:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21/02/2019 1:38:49 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  21/02/2019 1:39:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21/02/2019 1:39:17 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmInvClosure.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

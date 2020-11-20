@@ -1,0 +1,825 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  26/02/2019 1:25:35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 1:25:35 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  26/02/2019 1:26:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 1:26:30 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  26/02/2019 2:07:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:07:53 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  26/02/2019 2:25:05 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:25:05 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SanssionDate' does not belong to table .-----------------
+-----------Exception Details on  26/02/2019 2:25:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:25:22 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SanssionDate' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SanssionDate' does not belong to table .-----------------
+-----------Exception Details on  26/02/2019 2:27:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:27:23 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SanssionDate' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SanssionDate' does not belong to table .-----------------
+-----------Exception Details on  26/02/2019 2:28:20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:28:20 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SanssionDate' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:29:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:29:31 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SanssionDate' does not belong to table .-----------------
+-----------Exception Details on  26/02/2019 2:29:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:29:32 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SanssionDate' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:29:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:29:56 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:30:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:30:21 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:30:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:30:57 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SanssionDate' does not belong to table .-----------------
+-----------Exception Details on  26/02/2019 2:30:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:30:57 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SanssionDate' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:31:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:31:39 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:38:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:38:51 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SanssionDate' does not belong to table .-----------------
+-----------Exception Details on  26/02/2019 2:38:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:38:51 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SanssionDate' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:39:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:39:17 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:40:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:40:31 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:41:43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:41:43 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:42:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:42:24 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SanssionDate' does not belong to table .-----------------
+-----------Exception Details on  26/02/2019 2:42:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:42:24 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SanssionDate' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:42:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:42:40 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:44:44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:44:44 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SanssionDate' does not belong to table .-----------------
+-----------Exception Details on  26/02/2019 2:44:44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:44:44 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SanssionDate' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:45:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:45:17 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:45:34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:45:34 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SanssionDate' does not belong to table .-----------------
+-----------Exception Details on  26/02/2019 2:45:34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:45:34 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmLoanInstallment.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SanssionDate' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  26/02/2019 2:47:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:47:15 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:47:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:47:37 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/frmloaninstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 2:49:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:49:18 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/frmloaninstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SanssionDate' does not belong to table .-----------------
+-----------Exception Details on  26/02/2019 2:49:19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 2:49:19 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/frmloaninstallment.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SanssionDate' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'ACCNO ' was not found on the selected data source.-----------------
+-----------Exception Details on  26/02/2019 3:19:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 3:19:55 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/frmloaninstallment.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'ACCNO ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'SanssionDate' does not belong to table .-----------------
+-----------Exception Details on  26/02/2019 3:24:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 26/02/2019 3:24:08 PM
+
+Error Line No : http://localhost:18072/CBSCORENEW/frmloaninstallment.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'SanssionDate' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

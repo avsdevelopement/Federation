@@ -1,0 +1,100 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/09/2020 10:46:57 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/09/2020 10:46:57 a.m.
+
+Error Line No : http://localhost:6983/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  12/09/2020 10:47:28 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/09/2020 10:47:28 a.m.
+
+Error Line No : http://localhost:6983/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  12/09/2020 10:53:41 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/09/2020 10:53:41 a.m.
+
+Error Line No : http://localhost:6983/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  12/09/2020 11:23:46 a.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/09/2020 11:23:46 a.m.
+
+Error Line No : http://localhost:6983/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

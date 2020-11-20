@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font-smooth:always; }
+ol, ul { margin:0; padding:0; list-style-type:none; }
+blockquote, q { quotes: none; }
+.enquiryForm h2 { font-family:Arial, Helvetica, sans-serif; font-size:16px; text-transform:uppercase; font-weight:bold; color:#cc0000; margin:0 0 10px 0; }
+.enquiryForm p.formhead { font-family:Arial, Helvetica, sans-serif; font-size:16px; text-transform:uppercase; font-weight:bold; color:#cc0000; margin:0 0 10px 0; }
+.enquiryForm p { margin:0 0 15px 0; }
+.textbox1 {width: 160px;
+border-top: #dadada solid 2px;
+border-left: #dadada solid 2px;
+border-right: #e9e9e9 solid 1px;
+border-bottom: #e9e9e9 solid 1px;
+border-radius: 6px;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+height: 21px;
+padding: 0 10px 0 10px;
+background-color: #FFFFFF;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #333333;
+outline: none; }
+
+
+.footerPan { background-color:#666666; }
+.footer { width:980px; margin:0 auto; overflow: hidden; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#cccccc; padding:10px 0 10px 0; }
+.footerPan .left-footer { width: 79%; float: left; padding: 0; }
+.footerPan .right-footer { width: 19%; float: left; padding: 0; }
+ @media only screen and (max-width: 760px), (min-device-width: 768px) and (max-device-width: 1024px) {
+.pgMid th { /*display: none;*/
+}
+.pgMid table, .pgMid thead, .pgMid tbody, .pgMid td, .pgMid tr { 
+}
+.pgMid thead tr {
+position: absolute;
+top: -9999px;
+left: -9999px;
+}
+.pgMid tr {
+border: 1px solid #fff;
+}
+.pgMid td {
+border: none;
+border: 1px solid #fff;
+position: relative;
+}
+.pgMid td:before {
+position: absolute;
+top: 6px;
+left: 6px;
+width: 45%;
+padding-right: 10px;
+white-space: nowrap;
+}
+
+.pgMid td:before { content: attr(data-title); }
+
+/* Table Overflow
+*  Add a .overflow wrap around tables to make tables responsive for mobile
+*/
+
+.overflow { overflow: auto; }
+
+
+}
+
+
+.gCall {
+	position:fixed;
+	top:150px;
+	right:0;
+	z-index:9999999;
+	width:500px;
+	font-size:13px;
+	right:-467px;
+}
+.getBut {
+	display:block;
+	width:33px;
+	float:left;
+	margin-top:50px;
+	cursor:pointer
+}
+#gcallformCon {
+	width:450px;
+	float:left;
+	background:#fff;
+	border:2px solid #32bec3;
+	border-right:none;
+	padding:8px;
+
+}
+#gcallformCon li {
+	margin:12px 0
+}
+#gcallformCon .note {
+  display: block;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+#gcallformCon .rightLinks {
+  border-bottom: 1px dashed #333;
+  color: #333333;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 5px 0;
+  padding: 0 0 5px;
+  text-transform: uppercase;
+}
+/*.footerPan{ height:150px;}*/
+@media (max-width:640px) {
+	.gCall {
+		
+		top:20px;
+		
+	}
+	#gcallformCon li {
+	  margin: 6px 0;
+	}
+	.footer > div{    font-size: 10px;}
+	/*.footerPan{ height:270px;}*/
+}

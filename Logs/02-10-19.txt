@@ -1,0 +1,850 @@
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  02/10/2019 10:30:17-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:30:17
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 10:30:22-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:30:22
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'STAGE' does not belong to table .-----------------
+-----------Exception Details on  02/10/2019 10:30:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:30:30
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'STAGE' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'STAGE' does not belong to table .-----------------
+-----------Exception Details on  02/10/2019 10:30:32-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:30:32
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'STAGE' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'STAGE' does not belong to table .-----------------
+-----------Exception Details on  02/10/2019 10:30:34-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:30:34
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'STAGE' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'STAGE' does not belong to table .-----------------
+-----------Exception Details on  02/10/2019 10:30:36-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:30:36
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'STAGE' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'STAGE' does not belong to table .-----------------
+-----------Exception Details on  02/10/2019 10:30:47-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:30:47
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'STAGE' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'STAGE' does not belong to table .-----------------
+-----------Exception Details on  02/10/2019 10:34:31-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:34:31
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'STAGE' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 10:35:29-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:35:29
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BtnSubmit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 10:35:31-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:35:31
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BtnSubmit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 10:40:33-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:40:33
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BtnSubmit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 10:40:47-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:40:47
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BtnSubmit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 10:41:50-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:41:50
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BtnSubmit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 10:43:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 10:43:30
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmAvs5172.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: getalldata
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 11:20:26-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 11:20:26
+
+Error Line No : http://localhost:50645/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 03:18:19-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 03:18:19
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 03:28:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 03:28:40
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  02/10/2019 04:20:52-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:20:52
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 04:22:15-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:22:15
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  02/10/2019 04:22:36-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:22:36
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  02/10/2019 04:22:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:22:40
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmAVS5040.aspx?FrmAVS5040.aspx?encrypt=&CUSTNO=8595
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: ParseDouble
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  02/10/2019 04:28:12-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:28:12
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 04:28:15-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:28:15
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmAVS5040.aspx?FrmAVS5040.aspx?encrypt=&CUSTNO=8559
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: GetPayble
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  02/10/2019 04:29:19-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:29:19
+
+Error Line No : http://localhost:49767/CBSCORENEW/frmTDAClear.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 04:29:22-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:29:22
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  02/10/2019 04:29:33-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:29:33
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 04:29:37-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:29:37
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmAVS5040.aspx?FrmAVS5040.aspx?encrypt=&CUSTNO=8559
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: GetPayble
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  02/10/2019 04:29:39-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:29:39
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmAVS5040.aspx?FrmAVS5040.aspx%3fencrypt=&CUSTNO=8559
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  02/10/2019 04:30:41-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:30:41
+
+Error Line No : http://localhost:49767/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  02/10/2019 04:33:04-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:33:04
+
+Error Line No : http://localhost:49767/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 04:33:46-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:33:46
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  02/10/2019 04:34:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:34:10
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  02/10/2019 04:34:12-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:34:12
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmAVS5040.aspx?FrmAVS5040.aspx?encrypt=&CUSTNO=8559
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: GetPayble
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  02/10/2019 04:34:37-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02/10/2019 04:34:37
+
+Error Line No : http://localhost:49767/CBSCORENEW/FrmAVS5040.aspx?FrmAVS5040.aspx%3fencrypt=&CUSTNO=8559
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

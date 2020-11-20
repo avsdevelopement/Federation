@@ -1,0 +1,203 @@
+﻿body { margin:0px;
+}
+.GrayHeader
+{
+    background-color:#507CD1;
+    font-weight:bold;
+    font-size: 8pt;
+    color: white;
+    padding-left:10px;
+    height: 30px;
+    font-family: Verdana;
+    
+    
+}
+.GrayHeader1
+{
+    background-color:#507CD1;
+    font-size: 8pt;
+    color: white;
+    padding-left: 10px;
+    height: 28px;
+    font-family: Verdana;
+    text-align: left;
+}
+
+.chk
+{
+    /*background:#dfdfdf;*/
+    color:#333333;
+    font:normal 8pt verdana;
+}
+ .chkselect
+{
+    /*background:#E3F8FE;*/
+    font:normal 8pt verdana;
+    color:#21A121;
+}
+
+.GrayHeader2
+{
+    font-size: 8pt;
+    padding-left: 10px;
+    height: 22px;
+    font-family: Verdana;
+    text-align: left;
+    background-color:#ffffff;
+}
+
+.GrayHeader3
+{
+    font-size: 8pt;
+    padding-left: 10px;
+    height: 22px;
+    font-family: Verdana;
+    text-align: left;
+    background-color:#e3eafc;
+
+}
+.TBSGreen
+{
+  font-family:Verdana;
+  font-size:8pt;
+  border-color:gray;
+  background-color:#efefff;
+  border-width:1px;
+  border-style:solid; 
+   
+}
+.borderlight
+{
+    border:solid 1px #bbdeff;
+    
+}
+.button_new
+{
+     padding-top:7px;
+     color:White;
+     font:normal 10pt verdana;
+     background-color:#000066;
+    
+}
+.LightSkyBlue
+{
+     background-color:LightSkyBlue;
+         font-weight:bold;
+    font-size: 8pt;
+    color: white;
+    padding-left:10px;
+     text-align:left;
+    font-family: Verdana;
+
+}
+	
+.GrayHeader_right
+{
+    background-color:#507CD1;
+    font-size: 8pt;
+    color: white;
+    padding-right: 10px;
+    height: 28px;
+    font-family: Verdana;
+    text-align: right;
+}
+.chkClass
+{
+    background-image: url(../img/checkbox_bg.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    width:20px;
+}
+.chkClass1
+{
+    background-image: url(../img/checkbox.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    width:20px;
+}
+.headercss
+{
+    background-color:#cccccc;
+}
+.displaycss
+{
+    background-color:#ffffff;
+    
+}
+.rowcss
+{
+    background-color:#ffffff;
+    display:none;
+}
+.rowcss1
+{
+    background-color:#ffffff;
+   
+}
+.tablecss
+{
+    background-color:#ffffff;
+}
+
+
+.plusClass
+{
+    background-image: url(../img/plus.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.plusClass1
+{
+    background-image: url(../img/minus.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+ .TBGray
+{
+  font-family:Verdana;
+  font-size:10pt;
+  border-color:white;
+  background-color:#eeeeee;
+  border-width:1px;
+  border-style:solid; 
+   
+}
+.TBRed
+{
+  font-family:Verdana;
+  font-size:10pt;
+  color:white;
+  border-color:white;
+  background-color:#FF0000;
+  border-width:1px;
+  border-style:solid; 
+   
+}
+.TBYellow
+{
+  font-family:Verdana;
+  font-size:10pt;
+  border-color:white;
+  background-color:#FF0080;
+  border-width:1px;
+  border-style:solid; 
+   
+}
+.BackRow
+{
+  background-color:#FF0080;  
+}
+.BottomBorder
+{        
+    border-bottom:1px solid white;
+}
+
+.DivScroll
+{
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-color:lightgray;
+    width:1000px;
+    height:450px;
+}

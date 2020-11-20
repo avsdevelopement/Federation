@@ -1,0 +1,250 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/05/2019 10:03:37 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/05/2019 10:03:37 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'CustNo' does not belong to table .-----------------
+-----------Exception Details on  07/05/2019 10:04:27 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/05/2019 10:04:27 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CustNo' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/05/2019 10:11:09 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/05/2019 10:11:09 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'CustNo' does not belong to table .-----------------
+-----------Exception Details on  07/05/2019 10:11:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/05/2019 10:11:21 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CustNo' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'CustNo' does not belong to table .-----------------
+-----------Exception Details on  07/05/2019 11:50:52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/05/2019 11:50:52 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CustNo' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'CustNo' does not belong to table .-----------------
+-----------Exception Details on  07/05/2019 11:54:01 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/05/2019 11:54:01 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CustNo' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  07/05/2019 11:59:06 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/05/2019 11:59:06 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'CustNo' does not belong to table .-----------------
+-----------Exception Details on  07/05/2019 11:59:24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/05/2019 11:59:24 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CustNo' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Column 'CustNo' does not belong to table .-----------------
+-----------Exception Details on  07/05/2019 12:00:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/05/2019 12:00:11 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CustNo' does not belong to table .
+
+ Error Page Url: GetDataColumn
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Input string was not in a correct format.-----------------
+-----------Exception Details on  07/05/2019 12:00:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07/05/2019 12:00:37 PM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmVoucherAutho.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: ParseDouble
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

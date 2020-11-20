@@ -1,0 +1,1179 @@
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  18/09/2020 1:45:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 1:45:25 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  18/09/2020 1:45:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 1:45:25 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  18/09/2020 1:45:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 1:45:25 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  18/09/2020 1:45:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 1:45:25 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  18/09/2020 1:45:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 1:45:25 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  18/09/2020 1:45:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 1:45:25 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Login failed for user 'SBC'.-----------------
+-----------Exception Details on  18/09/2020 1:45:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 1:45:25 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/frmlogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  18/09/2020 1:45:25 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 1:45:25 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/frmlogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  18/09/2020 1:55:09 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 1:55:09 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.-----------------
+-----------Exception Details on  18/09/2020 2:08:17 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 2:08:17 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&SETNO=3924&SCROLLNO=1&UserName=AVSINSOTECH&EDT=10/08/2020&BRCD=2&FN=R&rptname=RptReceiptPrintHSFM.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.-----------------
+-----------Exception Details on  18/09/2020 2:09:17 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 2:09:17 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&SETNO=3924&SCROLLNO=1&UserName=AVSINSOTECH&EDT=10/08/2020&BRCD=2&FN=R&rptname=RptReceiptPrintHSFM.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  18/09/2020 3:12:42 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 3:12:42 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  18/09/2020 3:24:06 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 3:24:06 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.-----------------
+-----------Exception Details on  18/09/2020 3:33:14 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 3:33:14 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&SETNO=3924&SCROLLNO=1&UserName=AVSINSOTECH&EDT=10/08/2020&BRCD=2&FN=R&rptname=RptReceiptPrintHSFM.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'ddlNotice' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  18/09/2020 4:32:35 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 4:32:35 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlNotice' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'ddlNotice' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  18/09/2020 4:32:58 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 4:32:58 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlNotice' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  18/09/2020 5:02:37 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:02:37 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  18/09/2020 5:24:45 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:24:45 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:24:59 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:24:59 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptDemandNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:24:59 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:24:59 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptDemandNotice_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:25:18 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:25:18 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:25:18 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:25:18 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=08/09/2020&ACCNO=33&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function SP_SROMonthlyRPTS has too many arguments specified.-----------------
+-----------Exception Details on  18/09/2020 5:38:15 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:38:15 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/frmavs51212.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_SROMonthlyRPTS has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function SP_SROMonthlyRPTS has too many arguments specified.-----------------
+-----------Exception Details on  18/09/2020 5:41:35 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:41:35 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/frmavs51212.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_SROMonthlyRPTS has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  18/09/2020 5:46:37 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:46:37 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:48:16 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:48:16 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=33&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:48:17 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:48:17 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=33&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  18/09/2020 5:56:05 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:56:05 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:56:20 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:56:20 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:56:21 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:56:21 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:56:33 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:56:33 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:56:33 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:56:33 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:58:05 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:58:05 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:58:06 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:58:06 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:59:04 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:59:04 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:59:04 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:59:04 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:59:53 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:59:53 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 5:59:53 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 5:59:53 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 6:01:46 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 6:01:46 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 6:01:47 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 6:01:47 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=36&rptname=RptAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  String was not recognized as a valid DateTime.-----------------
+-----------Exception Details on  18/09/2020 6:01:56 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 6:01:56 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmNotice_SRO.aspx
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: Parse
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 6:02:01 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 6:02:01 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=33&rptname=RptAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 6:02:01 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 6:02:01 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=33&rptname=RptAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 6:20:28 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 6:20:28 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=33&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 6:20:28 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 6:20:28 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&ACCNO=33&rptname=RptBeforeAttchment_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 6:54:18 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 6:54:18 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&Edate1=01/01/2020&ACCNO=33&rptname=RptVisit_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  18/09/2020 6:54:18 p.m.-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18/09/2020 6:54:18 p.m.
+
+Error Line No : http://localhost:4618/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&BRCD=&LOANGL=19-20&AddFlag=1&Edate=01/09/2020&Edate1=01/01/2020&ACCNO=33&rptname=RptVisit_Sro.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

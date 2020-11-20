@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSShrCerti_shivSam" targetNamespace="http://tempuri.org/DSShrCerti_shivSam.xsd" xmlns:mstns="http://tempuri.org/DSShrCerti_shivSam.xsd" xmlns="http://tempuri.org/DSShrCerti_shivSam.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSShrCerti_shivSam" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSShrCerti_shivSam" msprop:Generator_UserDSName="DSShrCerti_shivSam">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CustNo" msprop:Generator_ColumnVarNameInTable="columnCustNo" msprop:Generator_ColumnPropNameInRow="CustNo" msprop:Generator_ColumnPropNameInTable="CustNoColumn" msprop:Generator_UserColumnName="CustNo" type="xs:string" minOccurs="0" />
+              <xs:element name="CustAccNo" msprop:Generator_ColumnVarNameInTable="columnCustAccNo" msprop:Generator_ColumnPropNameInRow="CustAccNo" msprop:Generator_ColumnPropNameInTable="CustAccNoColumn" msprop:Generator_UserColumnName="CustAccNo" type="xs:string" minOccurs="0" />
+              <xs:element name="custname" msprop:Generator_ColumnVarNameInTable="columncustname" msprop:Generator_ColumnPropNameInRow="custname" msprop:Generator_ColumnPropNameInTable="custnameColumn" msprop:Generator_UserColumnName="custname" type="xs:string" minOccurs="0" />
+              <xs:element name="sharefrom" msprop:Generator_ColumnVarNameInTable="columnsharefrom" msprop:Generator_ColumnPropNameInRow="sharefrom" msprop:Generator_ColumnPropNameInTable="sharefromColumn" msprop:Generator_UserColumnName="sharefrom" type="xs:string" minOccurs="0" />
+              <xs:element name="shareto" msprop:Generator_ColumnVarNameInTable="columnshareto" msprop:Generator_ColumnPropNameInRow="shareto" msprop:Generator_ColumnPropNameInTable="sharetoColumn" msprop:Generator_UserColumnName="shareto" type="xs:string" minOccurs="0" />
+              <xs:element name="totalshares" msprop:Generator_ColumnVarNameInTable="columntotalshares" msprop:Generator_ColumnPropNameInRow="totalshares" msprop:Generator_ColumnPropNameInTable="totalsharesColumn" msprop:Generator_UserColumnName="totalshares" type="xs:string" minOccurs="0" />
+              <xs:element name="sharesvalue" msprop:Generator_ColumnVarNameInTable="columnsharesvalue" msprop:Generator_ColumnPropNameInRow="sharesvalue" msprop:Generator_ColumnPropNameInTable="sharesvalueColumn" msprop:Generator_UserColumnName="sharesvalue" type="xs:string" minOccurs="0" />
+              <xs:element name="totalshareamt" msprop:Generator_ColumnVarNameInTable="columntotalshareamt" msprop:Generator_ColumnPropNameInRow="totalshareamt" msprop:Generator_ColumnPropNameInTable="totalshareamtColumn" msprop:Generator_UserColumnName="totalshareamt" type="xs:string" minOccurs="0" />
+              <xs:element name="cert_no" msprop:Generator_ColumnVarNameInTable="columncert_no" msprop:Generator_ColumnPropNameInRow="cert_no" msprop:Generator_ColumnPropNameInTable="cert_noColumn" msprop:Generator_UserColumnName="cert_no" type="xs:string" minOccurs="0" />
+              <xs:element name="cert_issue1stdate" msprop:Generator_ColumnVarNameInTable="columncert_issue1stdate" msprop:Generator_ColumnPropNameInRow="cert_issue1stdate" msprop:Generator_ColumnPropNameInTable="cert_issue1stdateColumn" msprop:Generator_UserColumnName="cert_issue1stdate" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

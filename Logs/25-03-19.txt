@@ -1,0 +1,3054 @@
+-----------Exception Details on  Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  25/03/2019 10:04:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:08 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  25/03/2019 10:04:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:08 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  25/03/2019 10:04:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:08 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  25/03/2019 10:04:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:08 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  25/03/2019 10:04:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:08 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  25/03/2019 10:04:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:08 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  25/03/2019 10:04:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:08 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  25/03/2019 10:04:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:08 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  25/03/2019 10:04:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:31 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: .ctor
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  25/03/2019 10:04:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:31 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  25/03/2019 10:04:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:31 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  25/03/2019 10:04:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:31 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  25/03/2019 10:04:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:31 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Fill: SelectCommand.Connection property has not been initialized.-----------------
+-----------Exception Details on  25/03/2019 10:04:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:31 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Fill: SelectCommand.Connection property has not been initialized.
+
+ Error Page Url: GetConnection3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.-----------------
+-----------Exception Details on  25/03/2019 10:04:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:31 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "SBC30" requested by the login. The login failed.
+Login failed for user 'SBC'.
+
+ Error Page Url: TryGetConnection
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  ExecuteScalar: Connection property has not been initialized.-----------------
+-----------Exception Details on  25/03/2019 10:04:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:04:31 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteScalar: Connection property has not been initialized.
+
+ Error Page Url: ValidateCommand
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/03/2019 10:26:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:26:08 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/03/2019 10:26:19 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:26:19 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.-----------------
+-----------Exception Details on  25/03/2019 10:28:19 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:28:19 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/CustomerAccountDetails.aspx?CustomerAccountDetails.aspx?encrypt=&Flag=AD
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.-----------------
+-----------Exception Details on  25/03/2019 10:32:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:32:41 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/CustomerAccountDetails.aspx?CustomerAccountDetails.aspx?encrypt=&Flag=AT
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.-----------------
+-----------Exception Details on  25/03/2019 10:36:16 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:36:16 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/CustomerAccountDetails.aspx?CustomerAccountDetails.aspx?encrypt=&Flag=AD
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/03/2019 10:36:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:36:21 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/03/2019 10:38:51 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:38:51 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/03/2019 10:39:04 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:39:04 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.-----------------
+-----------Exception Details on  25/03/2019 10:39:26 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:39:26 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/CustomerAccountDetails.aspx?CustomerAccountDetails.aspx?encrypt=&Flag=AT
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.-----------------
+-----------Exception Details on  25/03/2019 10:45:54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:45:54 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/CustomerAccountDetails.aspx?CustomerAccountDetails.aspx?encrypt=&Flag=AT
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/03/2019 10:57:56 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 10:57:56 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.-----------------
+-----------Exception Details on  25/03/2019 11:10:01 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:10:01 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/CustomerAccountDetails.aspx?CustomerAccountDetails.aspx?encrypt=&Flag=AD
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_SMS_INSERT' expects parameter '@SMS_TYPE', which was not supplied.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  25/03/2019 11:36:17 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:36:17 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  There is no row at position 0.-----------------
+-----------Exception Details on  25/03/2019 11:37:52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:37:52 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: GetNodeByIndex
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '100077' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '100077' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  25/03/2019 11:38:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:38:05 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '100077' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '100077' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/03/2019 11:38:10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:38:10 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD=1 AND SUBGLCODE IN (2002,2001) AND TRXTYPE=1
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and brcd=1)
+					AND ENTRYDATE BETWEEN '2001-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD in (1,1) AND SUBGLCODE IN (4) 
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and BRCD in (1,1))
+					AND ENTRYDATE BETWEEN '2001-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+Jan  1 2001 12:00AM
+Jan  1 2001 12:00AM
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+day
+1
+Dec 31 2000 12:00AM
+A
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_200101 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2001-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+							AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_200101 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2001-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1'  AND SUBGLCODE=202) 
+							AND TRXTYPE=2
+Credit
+Feb 28 2018 12:00AM
+2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+										FROM AVSM_201802 
+										WHERE STAGE<>1004 AND BRCD='1' 
+										AND ENTRYDATE='2018-02-28'
+										AND SUBGLCODE=4 
+										AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD in ('1','1') AND SUBGLCODE=4) 
+										AND TRXTYPE=1 AND SETNO='999'
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+												FROM AVSM_201802 
+												WHERE STAGE<>1004 AND BRCD='1' 
+												AND ENTRYDATE='2018-02-28'
+												AND SUBGLCODE=311 
+												AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+												AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=198 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=311 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+														FROM AVSM_201802 
+														WHERE STAGE<>1004 AND BRCD='1' 
+														AND ENTRYDATE='2018-02-28'
+														AND SUBGLCODE=198 
+														AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+														AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=2
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+2
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+2
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+Credit
+Feb 28 2018 12:00AM
+3
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+3
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+3
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+A
+A-----------------
+-----------Exception Details on  25/03/2019 11:38:49 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:38:49 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&FDate=01/01/2001&TDate=25/03/2019&CustNO=100077&BRCD=1&rptname=RptMemberPassBook1.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD=1 AND SUBGLCODE IN (2002,2001) AND TRXTYPE=1
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and brcd=1)
+					AND ENTRYDATE BETWEEN '2001-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD in (1,1) AND SUBGLCODE IN (4) 
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and BRCD in (1,1))
+					AND ENTRYDATE BETWEEN '2001-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+Jan  1 2001 12:00AM
+Jan  1 2001 12:00AM
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+day
+1
+Dec 31 2000 12:00AM
+A
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_200101 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2001-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+							AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_200101 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2001-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1'  AND SUBGLCODE=202) 
+							AND TRXTYPE=2
+Credit
+Feb 28 2018 12:00AM
+2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+										FROM AVSM_201802 
+										WHERE STAGE<>1004 AND BRCD='1' 
+										AND ENTRYDATE='2018-02-28'
+										AND SUBGLCODE=4 
+										AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD in ('1','1') AND SUBGLCODE=4) 
+										AND TRXTYPE=1 AND SETNO='999'
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+												FROM AVSM_201802 
+												WHERE STAGE<>1004 AND BRCD='1' 
+												AND ENTRYDATE='2018-02-28'
+												AND SUBGLCODE=311 
+												AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+												AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=198 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=311 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+														FROM AVSM_201802 
+														WHERE STAGE<>1004 AND BRCD='1' 
+														AND ENTRYDATE='2018-02-28'
+														AND SUBGLCODE=198 
+														AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+														AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=2
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+2
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+2
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+Credit
+Feb 28 2018 12:00AM
+3
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+3
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+3
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+A
+A
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD=1 AND SUBGLCODE IN (2002,2001) AND TRXTYPE=1
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and brcd=1)
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD in (1,1) AND SUBGLCODE IN (4) 
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and BRCD in (1,1))
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+Jan  1 2015 12:00AM
+Jan  1 2015 12:00AM
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+day
+1
+Dec 31 2014 12:00AM
+A
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+							AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1'  AND SUBGLCODE=202) 
+							AND TRXTYPE=2
+Credit
+Feb 28 2018 12:00AM
+2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+										FROM AVSM_201802 
+										WHERE STAGE<>1004 AND BRCD='1' 
+										AND ENTRYDATE='2018-02-28'
+										AND SUBGLCODE=4 
+										AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD in ('1','1') AND SUBGLCODE=4) 
+										AND TRXTYPE=1 AND SETNO='999'
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+												FROM AVSM_201802 
+												WHERE STAGE<>1004 AND BRCD='1' 
+												AND ENTRYDATE='2018-02-28'
+												AND SUBGLCODE=311 
+												AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+												AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=198 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=311 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+														FROM AVSM_201802 
+														WHERE STAGE<>1004 AND BRCD='1' 
+														AND ENTRYDATE='2018-02-28'
+														AND SUBGLCODE=198 
+														AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+														AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=2
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+2
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+2
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+Credit
+Feb 28 2018 12:00AM
+3
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+3
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+3
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+A
+A-----------------
+-----------Exception Details on  25/03/2019 11:39:11 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:39:11 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&FDate=01/01/2015&TDate=25/03/2019&CustNO=100077&BRCD=1&rptname=RptMemberPassBook1.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD=1 AND SUBGLCODE IN (2002,2001) AND TRXTYPE=1
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and brcd=1)
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD in (1,1) AND SUBGLCODE IN (4) 
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and BRCD in (1,1))
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+Jan  1 2015 12:00AM
+Jan  1 2015 12:00AM
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+day
+1
+Dec 31 2014 12:00AM
+A
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+							AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1'  AND SUBGLCODE=202) 
+							AND TRXTYPE=2
+Credit
+Feb 28 2018 12:00AM
+2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+										FROM AVSM_201802 
+										WHERE STAGE<>1004 AND BRCD='1' 
+										AND ENTRYDATE='2018-02-28'
+										AND SUBGLCODE=4 
+										AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD in ('1','1') AND SUBGLCODE=4) 
+										AND TRXTYPE=1 AND SETNO='999'
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+												FROM AVSM_201802 
+												WHERE STAGE<>1004 AND BRCD='1' 
+												AND ENTRYDATE='2018-02-28'
+												AND SUBGLCODE=311 
+												AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+												AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=198 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=311 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+														FROM AVSM_201802 
+														WHERE STAGE<>1004 AND BRCD='1' 
+														AND ENTRYDATE='2018-02-28'
+														AND SUBGLCODE=198 
+														AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+														AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=2
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+2
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+2
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+Credit
+Feb 28 2018 12:00AM
+3
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+3
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+3
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+A
+A
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD=1 AND SUBGLCODE IN (2002,2001) AND TRXTYPE=1
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and brcd=1)
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD in (1,1) AND SUBGLCODE IN (4) 
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and BRCD in (1,1))
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+Jan  1 2015 12:00AM
+Jan  1 2015 12:00AM
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+day
+1
+Dec 31 2014 12:00AM
+A
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+							AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1'  AND SUBGLCODE=202) 
+							AND TRXTYPE=2
+Credit
+Feb 28 2018 12:00AM
+2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+										FROM AVSM_201802 
+										WHERE STAGE<>1004 AND BRCD='1' 
+										AND ENTRYDATE='2018-02-28'
+										AND SUBGLCODE=4 
+										AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD in ('1','1') AND SUBGLCODE=4) 
+										AND TRXTYPE=1 AND SETNO='999'
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+												FROM AVSM_201802 
+												WHERE STAGE<>1004 AND BRCD='1' 
+												AND ENTRYDATE='2018-02-28'
+												AND SUBGLCODE=311 
+												AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+												AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=198 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=311 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+														FROM AVSM_201802 
+														WHERE STAGE<>1004 AND BRCD='1' 
+														AND ENTRYDATE='2018-02-28'
+														AND SUBGLCODE=198 
+														AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+														AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=2
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+2
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+2
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+Credit
+Feb 28 2018 12:00AM
+3
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+3
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+3
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+A
+A-----------------
+-----------Exception Details on  25/03/2019 11:39:34 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:39:34 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&FDate=01/01/2015&TDate=25/03/2019&CustNO=100077&BRCD=1&rptname=RptMemberPassBook1.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD=1 AND SUBGLCODE IN (2002,2001) AND TRXTYPE=1
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and brcd=1)
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD in (1,1) AND SUBGLCODE IN (4) 
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and BRCD in (1,1))
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+Jan  1 2015 12:00AM
+Jan  1 2015 12:00AM
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+day
+1
+Dec 31 2014 12:00AM
+A
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+							AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1'  AND SUBGLCODE=202) 
+							AND TRXTYPE=2
+Credit
+Feb 28 2018 12:00AM
+2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+										FROM AVSM_201802 
+										WHERE STAGE<>1004 AND BRCD='1' 
+										AND ENTRYDATE='2018-02-28'
+										AND SUBGLCODE=4 
+										AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD in ('1','1') AND SUBGLCODE=4) 
+										AND TRXTYPE=1 AND SETNO='999'
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+												FROM AVSM_201802 
+												WHERE STAGE<>1004 AND BRCD='1' 
+												AND ENTRYDATE='2018-02-28'
+												AND SUBGLCODE=311 
+												AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+												AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=198 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=311 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+														FROM AVSM_201802 
+														WHERE STAGE<>1004 AND BRCD='1' 
+														AND ENTRYDATE='2018-02-28'
+														AND SUBGLCODE=198 
+														AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+														AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=2
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+2
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+2
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+Credit
+Feb 28 2018 12:00AM
+3
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+3
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+3
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+A
+A
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD=1 AND SUBGLCODE IN (2002,2001) AND TRXTYPE=1
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and brcd=1)
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD in (1,1) AND SUBGLCODE IN (4) 
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and BRCD in (1,1))
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+Jan  1 2015 12:00AM
+Jan  1 2015 12:00AM
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+day
+1
+Dec 31 2014 12:00AM
+A
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+							AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1'  AND SUBGLCODE=202) 
+							AND TRXTYPE=2
+Credit
+Feb 28 2018 12:00AM
+2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+										FROM AVSM_201802 
+										WHERE STAGE<>1004 AND BRCD='1' 
+										AND ENTRYDATE='2018-02-28'
+										AND SUBGLCODE=4 
+										AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD in ('1','1') AND SUBGLCODE=4) 
+										AND TRXTYPE=1 AND SETNO='999'
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+												FROM AVSM_201802 
+												WHERE STAGE<>1004 AND BRCD='1' 
+												AND ENTRYDATE='2018-02-28'
+												AND SUBGLCODE=311 
+												AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+												AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=198 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=311 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+														FROM AVSM_201802 
+														WHERE STAGE<>1004 AND BRCD='1' 
+														AND ENTRYDATE='2018-02-28'
+														AND SUBGLCODE=198 
+														AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+														AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=2
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+2
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+2
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+Credit
+Feb 28 2018 12:00AM
+3
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+3
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+3
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+A
+A-----------------
+-----------Exception Details on  25/03/2019 11:41:57 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:41:57 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmRView.aspx?FrmRView.aspx?encrypt=&FDate=01/01/2015&TDate=25/03/2019&CustNO=100077&BRCD=1&rptname=RptMemberPassBook1.rdlc
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+Invalid object name 'AVSM_201903'.
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD=1 AND SUBGLCODE IN (2002,2001) AND TRXTYPE=1
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and brcd=1)
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+INSERT IntO #ACCSTATUS(ACCNO,GLCODE,SUBGLCODE,EDATE,SETNO,INSTNO,PARTI,PARTI1,CREDIT,DEBIT,TRXTYPE,BRCD,STAGE,systemdate) 
+					SELECT ACCNO,GLCODE,SUBGLCODE,ENTRYDATE,SETNO,INSTRUMENTNO,PARTICULARS,PARTICULARS2,(CASE WHEN TRXTYPE=1 THEN ISNULL(AMOUNT,0) ELSE  0 END) ,
+					(CASE WHEN TRXTYPE=2 THEN ISNULL(AMOUNT,0) ELSE  0 END),TRXTYPE,BRCD,STAGE,systemdate 
+					FROM AVSM_201903 
+					WHERE STAGE<>1004 AND  BRCD in (1,1) AND SUBGLCODE IN (4) 
+					AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO='100077' and BRCD in (1,1))
+					AND ENTRYDATE BETWEEN '2015-01-01' AND '2019-03-25' 
+					Order by ENTRYDATE,setno,SCROLLNO
+Jan  1 2015 12:00AM
+Jan  1 2015 12:00AM
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+day
+1
+Dec 31 2014 12:00AM
+A
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+							AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+							FROM AVSM_201501 
+							WHERE STAGE<>1004 AND BRCD='1' 
+							AND ENTRYDATE='2015-01-01'
+							AND SUBGLCODE='2001' 
+							AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1'  AND SUBGLCODE=202) 
+							AND TRXTYPE=2
+Credit
+Feb 28 2018 12:00AM
+2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+										FROM AVSM_201802 
+										WHERE STAGE<>1004 AND BRCD='1' 
+										AND ENTRYDATE='2018-02-28'
+										AND SUBGLCODE=4 
+										AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD in ('1','1') AND SUBGLCODE=4) 
+										AND TRXTYPE=1 AND SETNO='999'
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+												FROM AVSM_201802 
+												WHERE STAGE<>1004 AND BRCD='1' 
+												AND ENTRYDATE='2018-02-28'
+												AND SUBGLCODE=311 
+												AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+												AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=198 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=311 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=311) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=1 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=1) 
+													AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+														FROM AVSM_201802 
+														WHERE STAGE<>1004 AND BRCD='1' 
+														AND ENTRYDATE='2018-02-28'
+														AND SUBGLCODE=198 
+														AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=198) 
+														AND TRXTYPE=2
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=44 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=44) 
+													AND TRXTYPE=2
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+2
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+2
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+Credit
+Feb 28 2018 12:00AM
+3
+201@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=1
+ 
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=1
+201@GLCOUNT
+ 
+Feb 28 2018 12:00AM
+Feb 28 2018 12:00AM
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=201 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+													AND TRXTYPE=2
+ 
+3
+202@GLCOUNT
+ 
+SELECT @retvalOUT=SUM(ISNULL(AMOUNT,0)) 
+													FROM AVSM_201802 
+													WHERE STAGE<>1004 AND BRCD='1' 
+													AND ENTRYDATE='2018-02-28'
+													AND SUBGLCODE=202 
+													AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+													AND TRXTYPE=2
+gl
+3
+ 
+as
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=201) 
+											AND TRXTYPE=1
+SELECT @retvalOUT=SUM(ISNULL(CASE WHEN (TRXTYPE=2) THEN -1*AMOUNT ELSE AMOUNT END,0)) 
+											FROM AVSM_201802 
+											WHERE STAGE<>1004 AND BRCD='1' 
+											AND ENTRYDATE='2018-02-28'
+											AND SUBGLCODE='2001' 
+											AND ACCNO IN (SELECT ACCNO FROM AVS_ACC WHERE CUSTNO=100077 AND BRCD='1' AND SUBGLCODE=202) 
+											AND TRXTYPE=1
+A
+A
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  25/03/2019 11:43:33 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:43:33 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  25/03/2019 11:45:18 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:45:18 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  25/03/2019 11:51:28 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:51:28 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  25/03/2019 11:51:46 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:51:46 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  25/03/2019 11:51:51 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:51:51 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00-----------------
+-----------Exception Details on  25/03/2019 11:56:03 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 25/03/2019 11:56:03 AM
+
+Error Line No : http://localhost:5706/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+Invalid column name 'RecSrNo'.
+ 
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0' 
+				And EntryDate <= '2018-04-01' And AB.TrxType = 1 And AB.Stage = 1003 
+0.00
+Select @retvalOUT=IsNull(Sum(AB.Amount),0) From AVSM_201804 AB 
+				Where AB.BrCd = '1' And AB.GlCode = '4' And AB.SubGlCode = '4' 
+				And AB.ACCNO = '634' And (Case When AB.RecSrNo Is Null Or RecSrNo = '' Then 0 Else AB.RecSrNo End) = '0'
+				And EntryDate <= '2018-04-01' And AB.TrxType = 2 And AB.Stage = 1003 
+0.00
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

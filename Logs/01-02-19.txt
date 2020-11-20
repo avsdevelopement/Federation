@@ -1,0 +1,799 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/02/2019 11:58:14 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 11:58:14 AM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/02/2019 11:58:36 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 11:58:36 AM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/02/2019 12:36:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 12:36:48 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/02/2019 12:36:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 12:36:55 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.
+Insert into #AVSB	
+								(BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD)
+								Select BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSB_201901 Where BrCd = 5 And Trxtype = '3' and stage <> '1004' 
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+								Union All
+								Select AID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSM_201901 Where BrCd = 5 And ENTRYDATE <= '2019-01-28' And Trxtype <> '3' And stage <> '1004'
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+In Specific
+Cnn		:41
+1285-----------------
+-----------Exception Details on  01/02/2019 3:17:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:17:50 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmRecoveryGeneration.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+Insert into #AVSB	
+								(BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD)
+								Select BID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSB_201901 Where BrCd = 5 And Trxtype = '3' and stage <> '1004' 
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+								Union All
+								Select AID,GLCODE,SUBGLCODE,ENTRYDATE,ACCNO,TRXTYPE,AMOUNT,STAGE,BRCD
+								From Dbo.AVSM_201901 Where BrCd = 5 And ENTRYDATE <= '2019-01-28' And Trxtype <> '3' And stage <> '1004'
+								and SUBGLCODE in (Select REC_PRD from AVS_RS where STAGE<>'1004')
+In Specific
+Cnn		:41
+1285
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/02/2019 3:20:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:20:13 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  01/02/2019 3:20:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:20:48 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:21:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:21:40 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:21:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:21:41 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:21:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:21:41 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:21:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:21:42 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:21:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:21:42 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:21:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:21:50 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:21:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:21:50 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:21:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:21:51 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:21:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:21:51 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:21:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:21:52 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:21:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:21:56 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/02/2019 3:34:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:34:52 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  01/02/2019 3:35:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:35:08 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmCustomerDetails.aspx
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:35:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:35:48 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:35:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:35:48 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:35:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:35:49 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:35:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:35:49 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:35:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:35:50 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:35:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:35:55 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:35:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:35:56 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:35:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:35:56 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:35:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:35:56 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to numeric.-----------------
+-----------Exception Details on  01/02/2019 3:35:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:35:57 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to numeric.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  01/02/2019 3:36:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 01/02/2019 3:36:39 PM
+
+Error Line No : http://localhost:3425/CBSCORENEW/FrmAVS5027.aspx?FrmAVS5027.aspx%3fencrypt=&Flag=AD&CUSTNO=100034&CustName=MISS.PRATIKSHA+ARVIND+PATIL
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: TxtSprcd_TextChanged
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,50 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/12/2018 12:51:18-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/12/2018 12:51:18
+
+Error Line No : http://localhost:2092/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  17/12/2018 12:51:33-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17/12/2018 12:51:33
+
+Error Line No : http://localhost:2092/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

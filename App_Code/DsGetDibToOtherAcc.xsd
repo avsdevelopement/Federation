@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsGetDibToOtherAcc" targetNamespace="http://tempuri.org/DsGetDibToOtherAcc.xsd" xmlns:mstns="http://tempuri.org/DsGetDibToOtherAcc.xsd" xmlns="http://tempuri.org/DsGetDibToOtherAcc.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsGetDibToOtherAcc" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DsGetDibToOtherAcc" msprop:Generator_DataSetName="DsGetDibToOtherAcc">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CustNo" msprop:Generator_ColumnVarNameInTable="columnCustNo" msprop:Generator_ColumnPropNameInRow="CustNo" msprop:Generator_ColumnPropNameInTable="CustNoColumn" msprop:Generator_UserColumnName="CustNo" type="xs:string" minOccurs="0" />
+              <xs:element name="CustName" msprop:Generator_ColumnVarNameInTable="columnCustName" msprop:Generator_ColumnPropNameInRow="CustName" msprop:Generator_ColumnPropNameInTable="CustNameColumn" msprop:Generator_UserColumnName="CustName" type="xs:string" minOccurs="0" />
+              <xs:element name="From_Brcd" msprop:Generator_ColumnVarNameInTable="columnFrom_Brcd" msprop:Generator_ColumnPropNameInRow="From_Brcd" msprop:Generator_ColumnPropNameInTable="From_BrcdColumn" msprop:Generator_UserColumnName="From_Brcd" type="xs:string" minOccurs="0" />
+              <xs:element name="From_Product" msprop:Generator_ColumnVarNameInTable="columnFrom_Product" msprop:Generator_ColumnPropNameInRow="From_Product" msprop:Generator_ColumnPropNameInTable="From_ProductColumn" msprop:Generator_UserColumnName="From_Product" type="xs:string" minOccurs="0" />
+              <xs:element name="From_AccNo" msprop:Generator_ColumnVarNameInTable="columnFrom_AccNo" msprop:Generator_ColumnPropNameInRow="From_AccNo" msprop:Generator_ColumnPropNameInTable="From_AccNoColumn" msprop:Generator_UserColumnName="From_AccNo" type="xs:string" minOccurs="0" />
+              <xs:element name="DIVAmount" msprop:Generator_ColumnVarNameInTable="columnDIVAmount" msprop:Generator_ColumnPropNameInRow="DIVAmount" msprop:Generator_ColumnPropNameInTable="DIVAmountColumn" msprop:Generator_UserColumnName="DIVAmount" type="xs:string" minOccurs="0" />
+              <xs:element name="Trf_Brcd" msprop:Generator_ColumnVarNameInTable="columnTrf_Brcd" msprop:Generator_ColumnPropNameInRow="Trf_Brcd" msprop:Generator_ColumnPropNameInTable="Trf_BrcdColumn" msprop:Generator_UserColumnName="Trf_Brcd" type="xs:string" minOccurs="0" />
+              <xs:element name="Trf_Product" msprop:Generator_ColumnVarNameInTable="columnTrf_Product" msprop:Generator_ColumnPropNameInRow="Trf_Product" msprop:Generator_ColumnPropNameInTable="Trf_ProductColumn" msprop:Generator_UserColumnName="Trf_Product" type="xs:string" minOccurs="0" />
+              <xs:element name="Trf_AccNo" msprop:Generator_ColumnVarNameInTable="columnTrf_AccNo" msprop:Generator_ColumnPropNameInRow="Trf_AccNo" msprop:Generator_ColumnPropNameInTable="Trf_AccNoColumn" msprop:Generator_UserColumnName="Trf_AccNo" type="xs:string" minOccurs="0" />
+              <xs:element name="VoucherType" msprop:Generator_ColumnVarNameInTable="columnVoucherType" msprop:Generator_ColumnPropNameInRow="VoucherType" msprop:Generator_ColumnPropNameInTable="VoucherTypeColumn" msprop:Generator_UserColumnName="VoucherType" type="xs:string" minOccurs="0" />
+              <xs:element name="ABBGL_F" msprop:Generator_ColumnVarNameInTable="columnABBGL_F" msprop:Generator_ColumnPropNameInRow="ABBGL_F" msprop:Generator_ColumnPropNameInTable="ABBGL_FColumn" msprop:Generator_UserColumnName="ABBGL_F" type="xs:string" minOccurs="0" />
+              <xs:element name="ABBGL_T" msprop:Generator_ColumnVarNameInTable="columnABBGL_T" msprop:Generator_ColumnPropNameInRow="ABBGL_T" msprop:Generator_ColumnPropNameInTable="ABBGL_TColumn" msprop:Generator_UserColumnName="ABBGL_T" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

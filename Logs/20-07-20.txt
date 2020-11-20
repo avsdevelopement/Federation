@@ -1,0 +1,425 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/07/2020 10:49:28 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 10:49:28 AM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/07/2020 12:00:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 12:00:37 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/07/2020 12:16:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 12:16:00 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)-----------------
+-----------Exception Details on  20/07/2020 2:18:44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 2:18:44 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/WebServices/Contact.asmx/GetMenuForm
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/07/2020 3:23:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 3:23:52 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/07/2020 4:20:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 4:20:42 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Incorrect syntax near '@AMOUNT'.-----------------
+-----------Exception Details on  20/07/2020 4:38:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 4:38:22 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near '@AMOUNT'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/07/2020 4:51:43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 4:51:43 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BtnSubmit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/07/2020 4:52:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 4:52:39 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Parameter '@STAGE' was supplied multiple times.-----------------
+-----------Exception Details on  20/07/2020 4:54:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 4:54:09 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Parameter '@STAGE' was supplied multiple times.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Parameter '@STAGE' was supplied multiple times.-----------------
+-----------Exception Details on  20/07/2020 4:58:27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 4:58:27 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Parameter '@STAGE' was supplied multiple times.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/07/2020 5:00:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 5:00:18 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BtnSubmit_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/07/2020 5:00:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 5:00:33 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/07/2020 5:21:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 5:21:28 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'BRCD'.-----------------
+-----------Exception Details on  20/07/2020 5:24:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 5:24:52 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'BRCD'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'BRCD'.-----------------
+-----------Exception Details on  20/07/2020 5:25:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 5:25:52 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmAvs51214.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'BRCD'.
+
+ Error Page Url: GetPropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  20/07/2020 5:40:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/07/2020 5:40:45 PM
+
+Error Line No : http://localhost:1669/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

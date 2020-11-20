@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSInvReg" targetNamespace="http://tempuri.org/DSInvReg.xsd" xmlns:mstns="http://tempuri.org/DSInvReg.xsd" xmlns="http://tempuri.org/DSInvReg.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSInvReg" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCTCODE" type="xs:string" minOccurs="0" />
+              <xs:element name="ACCNO" type="xs:string" minOccurs="0" />
+              <xs:element name="INVDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="INVAMT" type="xs:string" minOccurs="0" />
+              <xs:element name="INTAMT" type="xs:string" minOccurs="0" />
+              <xs:element name="MATURITYAMT" type="xs:string" minOccurs="0" />
+              <xs:element name="RATE" type="xs:string" minOccurs="0" />
+              <xs:element name="PERIOD" type="xs:string" minOccurs="0" />
+              <xs:element name="CLOSINGBAL" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,1 @@
+PRINT \\server\c$\PassBook.txt

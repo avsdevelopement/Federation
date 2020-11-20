@@ -1,0 +1,198 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Data;
+
+/// <summary>
+/// Summary description for ClsInClear
+/// </summary>
+public class ClsInClear
+{
+
+    string sql, sqlc, sqld;
+    DbConnection conn = new DbConnection();
+    public ClsInClear()
+    {
+        //
+        // TODO: Add constructor logic here
+        //
+    }
+    public int Get_CLG_GL_NO(string brcd)
+    {
+        int CLG_GL_NO = 0;
+        try
+        {
+            string sql_clg_gl = "select CLG_GL_NO from INWORD_PARAMETER WHERE BRCD='" + brcd + "' AND STAGE <>  1004";
+            CLG_GL_NO = Convert.ToInt32(conn.sExecuteScalar(sql_clg_gl));
+        }
+        catch (Exception Ex)
+        {
+            ExceptionLogging.SendErrorToText(Ex);
+            //HttpContext.Current.//Response.Redirect("FrmLogin.aspx", true);
+        }
+        return CLG_GL_NO;
+    }
+
+    public int Get_CLG_GL_NO_return(string brcd)
+    {
+        int CLG_GL_NO = 0;
+        try
+        {
+            string sql_clg_gl = "select RETURN_GL_NO from INWORD_PARAMETER WHERE BRCD='" + brcd + "' AND STAGE <>  1004";
+            CLG_GL_NO = Convert.ToInt32(conn.sExecuteScalar(sql_clg_gl));
+        }
+        catch (Exception Ex)
+        {
+            ExceptionLogging.SendErrorToText(Ex);
+            //HttpContext.Current.//Response.Redirect("FrmLogin.aspx", true);
+        }
+        return CLG_GL_NO;
+    }
+
+    public int GetNewSetNo(string brcd)
+    {
+        int SetNo = 1;
+        try
+        {
+
+            sql = "(select (ISNULL(MAX(SET_NO),0) +TO_NUMBER('1')) FROM INWORD_2016010 WHERE BRCD = '" + brcd + "')";
+            SetNo = Convert.ToInt32(conn.sExecuteScalar(sql));
+        }
+        catch (Exception Ex)
+        {
+            ExceptionLogging.SendErrorToText(Ex);
+            //HttpContext.Current.//Response.Redirect("FrmLogin.aspx", true);
+        }
+        return SetNo;
+    }
+
+    public int GetNewScrollNo(int setno, string brcd)
+    {
+        int ScrollNo = 0;
+        try
+        {
+            sql = "select (ISNULL(MAX(SCROLL_NO),0) +TO_NUMBER('1')) FROM INWORD_2016010 WHERE BRCD = '" + brcd + "' AND SET_NO='" + setno + "'";
+            ScrollNo = Convert.ToInt32(conn.sExecuteScalar(sql));
+        }
+        catch (Exception Ex)
+        {
+            ExceptionLogging.SendErrorToText(Ex);
+            //HttpContext.Current.//Response.Redirect("FrmLogin.aspx", true);
+        }
+        return ScrollNo;
+    }
+
+
+    public int GetcurrentSetNo(string brcd)
+    {
+        int SetNo = 1;
+        try
+        {
+            sql = "(select MAX(SET_NO) FROM INWORD_2016010 WHERE BRCD = '" + brcd + "')";
+            SetNo = Convert.ToInt32(conn.sExecuteScalar(sql));
+        }
+        catch (Exception Ex)
+        {
+            ExceptionLogging.SendErrorToText(Ex);
+            //HttpContext.Current.//Response.Redirect("FrmLogin.aspx", true);
+        }
+        return SetNo;
+    }
+
+    public int InsertNewSetNo(string Entrydate, string BRCD, string Procode, string AccNo, string AccTypeid, string OpTypeId, string partic, string bankcd, string brnchcd, string insttype, string instdate, string instno, string instamt, string MID, string PACMAC, int SetNo, int ScrollNo, int CLG_GL_NO)
+    {
+        int result = 0;
+        try
+        {
+            string[] TD = Entrydate.Split('/');
+
+            sqlc = "INSERT INTO INWORD_" + TD[2].ToString() + TD[1].ToString() + " (ENTRYDATE, FUNDING_DATE, BRCD, PRDUCT_CODE, ACC_NO, ACC_TYPE, OPRTN_TYPE, PARTICULARS, BANK_CODE, BRANCH_CODE, INSTRU_TYPE, INSTRUDATE, INSTRU_NO, INSTRU_AMOUNT, STAGE, MID, CID, VID, PAC_MAC, CLG_FLAG, SYSTEM_DATE, CD, SET_NO, SCROLL_NO ) VALUES ('" + conn.ConvertDate(Entrydate) + "','" + conn.ConvertDate(Entrydate) + "','1','" + Procode + "','" + AccNo + "','" + AccTypeid + "', '" + OpTypeId + "','" + partic + "','" + bankcd + "','" + brnchcd + "','" + insttype + "','" + conn.ConvertDate(instdate) + "','" + instno + "','" + instamt + "','1001','" + MID + "','0','0','" + PACMAC + "','1', getdate(), 'C','" + SetNo + "', '" + ScrollNo + "')";
+            sqld = "INSERT INTO INWORD_" + TD[2].ToString() + TD[1].ToString() + " (ENTRYDATE, FUNDING_DATE, BRCD, PRDUCT_CODE, ACC_NO, ACC_TYPE, OPRTN_TYPE, PARTICULARS, BANK_CODE, BRANCH_CODE, INSTRU_TYPE, INSTRUDATE, INSTRU_NO, INSTRU_AMOUNT, STAGE, MID, CID, VID, PAC_MAC, CLG_FLAG, SYSTEM_DATE, CD, SET_NO, SCROLL_NO ) VALUES ('" + conn.ConvertDate(Entrydate) + "','" + conn.ConvertDate(Entrydate) + "','1','" + Procode + "','" + CLG_GL_NO + "','" + AccTypeid + "', '" + OpTypeId + "','" + partic + "','" + bankcd + "','" + brnchcd + "','" + insttype + "','" + conn.ConvertDate(instdate) + "','" + instno + "','" + instamt + "','1001','" + MID + "','0','0','" + PACMAC + "','1', getdate(), 'D','" + SetNo + "', '" + ScrollNo + "')";
+            result = conn.sExecuteQuery(sqlc);
+            result = conn.sExecuteQuery(sqld);
+        }
+        catch (Exception Ex)
+        {
+            ExceptionLogging.SendErrorToText(Ex);
+            //HttpContext.Current.//Response.Redirect("FrmLogin.aspx", true);
+        }
+        return result;
+    }
+
+    // Delete Entries
+    public int DeleteOwgClearingEntry(int setno, string brcd)
+    {
+        int result = 0;
+        try
+        {
+            sql = "UPDATE INWORD_2016010 SET STAGE='1004' WHERE SET_NO='" + setno + "' AND BRCD = '" + brcd + "' AND STAGE <> '1003' ";
+            result = conn.sExecuteQuery(sql);
+        }
+        catch (Exception Ex)
+        {
+            ExceptionLogging.SendErrorToText(Ex);
+            //HttpContext.Current.//Response.Redirect("FrmLogin.aspx", true);
+        }
+        return result;
+    }
+
+
+    public void DeleteData()
+    {
+        try
+        {
+            string sqltruncate = "delete from INWORD_201610_TEMP";
+            string sqltruncatecommit = "commit";
+            conn.sExecuteQuery(sqltruncate);
+            conn.sExecuteQuery(sqltruncatecommit);
+        }
+        catch (Exception Ex)
+        {
+            ExceptionLogging.SendErrorToText(Ex);
+            //HttpContext.Current.//Response.Redirect("FrmLogin.aspx", true);
+        }
+    }
+
+    public void ReportData(string sbrcd)
+    {
+
+        DataTable dt = new DataTable();
+        try
+        {
+            sql = "select OW.SET_NO, OW.SCROLL_NO SCRL, OW.PRDUCT_CODE AT,OW.ACC_NO AC, M.CUSTNAME Name, OW.INSTRU_AMOUNT Amount,RBI.DESCR BankName, " +
+                    " OW.INSTRU_NO InstNo, OW.INSTRUDATE Date1, OW.PARTICULARS from OWG_201607 OW " +
+                    " LEFT JOIN AVS_ACC ACC ON ACC.ACCNO=OW.ACC_NO AND ACC.BRCD = OW.BRCD AND OW.PRDUCT_CODE=ACC.SUBGLCODE " +
+                    " LEFT JOIN MASTER M ON M.CUSTNO=ACC.CUSTNO AND M.BRCD = ACC.BRCD " +
+                    " LEFT JOIN (SELECT DESCR,BANKRBICD FROM RBIBANK WHERE  BRANCHRBICD=0 AND STATECD=400 )RBI ON RBI.BANKRBICD=OW.BANK_CODE " +
+                    " WHERE OW.BRCD='" + sbrcd + "' AND OW.STAGE <>'1004' AND OW.CD='C' AND TO_CHAR(OW.SYSTEM_DATE), 'DD-MM-YYYY') = TO_CHAR(SYSDATE), 'DD-MM-YYYY') order by OW.SET_NO, SCRL ";
+            dt = conn.GetDatatable(sql);
+
+            int j = 0;
+            if (dt.Rows.Count > 1)
+            {
+
+            }
+            int i = 0;
+            if (dt.Rows.Count > 1)
+            {
+                i = dt.Rows.Count;
+                while (i > 0)
+                {
+                    string sqlinsert = "Insert into INWORD_2016010_TEMP VALUES ('" + dt.Rows[j][0] + "','" + dt.Rows[j][1] + "','" + dt.Rows[j][2] + "','" + dt.Rows[j][3] + "','" + dt.Rows[j][4] + "','" + dt.Rows[j][5] + "','" + dt.Rows[j][6] + "','" + dt.Rows[j][7] + "','" + Convert.ToDateTime(dt.Rows[j][8]).ToString("dd/MM/yyyy") + "','DD-MM-YYYY'),'" + dt.Rows[j][9] + "')";
+                    conn.sExecuteQuery(sqlinsert);
+                    i = i - 1;
+                    j = j + 1;
+                }
+            }
+
+
+            int k = 0;
+        }
+        catch (Exception Ex)
+        {
+            ExceptionLogging.SendErrorToText(Ex);
+            //HttpContext.Current.//Response.Redirect("FrmLogin.aspx", true);
+        }
+    }
+}

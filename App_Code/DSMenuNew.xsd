@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSMenuNew" targetNamespace="http://tempuri.org/DSMenuNew.xsd" xmlns:mstns="http://tempuri.org/DSMenuNew.xsd" xmlns="http://tempuri.org/DSMenuNew.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSMenuNew" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSMenuNew" msprop:Generator_DataSetName="DSMenuNew">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="GRP1MenuID" msprop:Generator_ColumnVarNameInTable="columnGRP1MenuID" msprop:Generator_ColumnPropNameInRow="GRP1MenuID" msprop:Generator_ColumnPropNameInTable="GRP1MenuIDColumn" msprop:Generator_UserColumnName="GRP1MenuID" type="xs:string" minOccurs="0" />
+              <xs:element name="Grp1MenuTitle" msprop:Generator_ColumnVarNameInTable="columnGrp1MenuTitle" msprop:Generator_ColumnPropNameInRow="Grp1MenuTitle" msprop:Generator_ColumnPropNameInTable="Grp1MenuTitleColumn" msprop:Generator_UserColumnName="Grp1MenuTitle" type="xs:string" minOccurs="0" />
+              <xs:element name="Grp1PageURL" msprop:Generator_ColumnVarNameInTable="columnGrp1PageURL" msprop:Generator_ColumnPropNameInRow="Grp1PageURL" msprop:Generator_ColumnPropNameInTable="Grp1PageURLColumn" msprop:Generator_UserColumnName="Grp1PageURL" type="xs:string" minOccurs="0" />
+              <xs:element name="GRP2MenuID" msprop:Generator_ColumnVarNameInTable="columnGRP2MenuID" msprop:Generator_ColumnPropNameInRow="GRP2MenuID" msprop:Generator_ColumnPropNameInTable="GRP2MenuIDColumn" msprop:Generator_UserColumnName="GRP2MenuID" type="xs:string" minOccurs="0" />
+              <xs:element name="Grp2MenuTitle" msprop:Generator_ColumnVarNameInTable="columnGrp2MenuTitle" msprop:Generator_ColumnPropNameInRow="Grp2MenuTitle" msprop:Generator_ColumnPropNameInTable="Grp2MenuTitleColumn" msprop:Generator_UserColumnName="Grp2MenuTitle" type="xs:string" minOccurs="0" />
+              <xs:element name="Grp2PageURL" msprop:Generator_ColumnVarNameInTable="columnGrp2PageURL" msprop:Generator_ColumnPropNameInRow="Grp2PageURL" msprop:Generator_ColumnPropNameInTable="Grp2PageURLColumn" msprop:Generator_UserColumnName="Grp2PageURL" type="xs:string" minOccurs="0" />
+              <xs:element name="GRP3MenuID" msprop:Generator_ColumnVarNameInTable="columnGRP3MenuID" msprop:Generator_ColumnPropNameInRow="GRP3MenuID" msprop:Generator_ColumnPropNameInTable="GRP3MenuIDColumn" msprop:Generator_UserColumnName="GRP3MenuID" type="xs:string" minOccurs="0" />
+              <xs:element name="Grp3MenuTitle" msprop:Generator_ColumnVarNameInTable="columnGrp3MenuTitle" msprop:Generator_ColumnPropNameInRow="Grp3MenuTitle" msprop:Generator_ColumnPropNameInTable="Grp3MenuTitleColumn" msprop:Generator_UserColumnName="Grp3MenuTitle" type="xs:string" minOccurs="0" />
+              <xs:element name="Grp3PageURL" msprop:Generator_ColumnVarNameInTable="columnGrp3PageURL" msprop:Generator_ColumnPropNameInRow="Grp3PageURL" msprop:Generator_ColumnPropNameInTable="Grp3PageURLColumn" msprop:Generator_UserColumnName="Grp3PageURL" type="xs:string" minOccurs="0" />
+              <xs:element name="MenuID" msprop:Generator_ColumnVarNameInTable="columnMenuID" msprop:Generator_ColumnPropNameInRow="MenuID" msprop:Generator_ColumnPropNameInTable="MenuIDColumn" msprop:Generator_UserColumnName="MenuID" type="xs:string" minOccurs="0" />
+              <xs:element name="MenuTitle" msprop:Generator_ColumnVarNameInTable="columnMenuTitle" msprop:Generator_ColumnPropNameInRow="MenuTitle" msprop:Generator_ColumnPropNameInTable="MenuTitleColumn" msprop:Generator_UserColumnName="MenuTitle" type="xs:string" minOccurs="0" />
+              <xs:element name="PageURL" msprop:Generator_ColumnVarNameInTable="columnPageURL" msprop:Generator_ColumnPropNameInRow="PageURL" msprop:Generator_ColumnPropNameInTable="PageURLColumn" msprop:Generator_UserColumnName="PageURL" type="xs:string" minOccurs="0" />
+              <xs:element name="DataColumn13" msprop:Generator_ColumnVarNameInTable="columnDataColumn13" msprop:Generator_ColumnPropNameInRow="DataColumn13" msprop:Generator_ColumnPropNameInTable="DataColumn13Column" msprop:Generator_UserColumnName="DataColumn13" type="xs:string" minOccurs="0" />
+              <xs:element name="DataColumn14" msprop:Generator_ColumnVarNameInTable="columnDataColumn14" msprop:Generator_ColumnPropNameInRow="DataColumn14" msprop:Generator_ColumnPropNameInTable="DataColumn14Column" msprop:Generator_UserColumnName="DataColumn14" type="xs:string" minOccurs="0" />
+              <xs:element name="DataColumn15" msprop:Generator_ColumnVarNameInTable="columnDataColumn15" msprop:Generator_ColumnPropNameInRow="DataColumn15" msprop:Generator_ColumnPropNameInTable="DataColumn15Column" msprop:Generator_UserColumnName="DataColumn15" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

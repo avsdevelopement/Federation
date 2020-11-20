@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetGenLedgr" targetNamespace="http://tempuri.org/DataSetGenLedgr.xsd" xmlns:mstns="http://tempuri.org/DataSetGenLedgr.xsd" xmlns="http://tempuri.org/DataSetGenLedgr.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetGenLedgr" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DataSetGenLedgr" msprop:Generator_UserDSName="DataSetGenLedgr">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DTGenLedgr" msprop:Generator_TableClassName="DTGenLedgrDataTable" msprop:Generator_TableVarName="tableDTGenLedgr" msprop:Generator_RowChangedName="DTGenLedgrRowChanged" msprop:Generator_TablePropName="DTGenLedgr" msprop:Generator_RowDeletingName="DTGenLedgrRowDeleting" msprop:Generator_RowChangingName="DTGenLedgrRowChanging" msprop:Generator_RowEvHandlerName="DTGenLedgrRowChangeEventHandler" msprop:Generator_RowDeletedName="DTGenLedgrRowDeleted" msprop:Generator_RowClassName="DTGenLedgrRow" msprop:Generator_UserTableName="DTGenLedgr" msprop:Generator_RowEvArgName="DTGenLedgrRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="date" msprop:Generator_ColumnVarNameInTable="columndate" msprop:Generator_ColumnPropNameInRow="date" msprop:Generator_ColumnPropNameInTable="dateColumn" msprop:Generator_UserColumnName="date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="openingbal" msprop:Generator_ColumnVarNameInTable="columnopeningbal" msprop:Generator_ColumnPropNameInRow="openingbal" msprop:Generator_ColumnPropNameInTable="openingbalColumn" msprop:Generator_UserColumnName="openingbal" type="xs:string" minOccurs="0" />
+              <xs:element name="payment" msprop:Generator_ColumnVarNameInTable="columnpayment" msprop:Generator_ColumnPropNameInRow="payment" msprop:Generator_ColumnPropNameInTable="paymentColumn" msprop:Generator_UserColumnName="payment" type="xs:string" minOccurs="0" />
+              <xs:element name="receipt" msprop:Generator_ColumnVarNameInTable="columnreceipt" msprop:Generator_ColumnPropNameInRow="receipt" msprop:Generator_ColumnPropNameInTable="receiptColumn" msprop:Generator_UserColumnName="receipt" type="xs:string" minOccurs="0" />
+              <xs:element name="closingbal" msprop:Generator_ColumnVarNameInTable="columnclosingbal" msprop:Generator_ColumnPropNameInRow="closingbal" msprop:Generator_ColumnPropNameInTable="closingbalColumn" msprop:Generator_UserColumnName="closingbal" type="xs:string" minOccurs="0" />
+              <xs:element name="type" msprop:Generator_ColumnVarNameInTable="columntype" msprop:Generator_ColumnPropNameInRow="type" msprop:Generator_ColumnPropNameInTable="typeColumn" msprop:Generator_UserColumnName="type" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

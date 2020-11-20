@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSGSTMaster" targetNamespace="http://tempuri.org/DSGSTMaster.xsd" xmlns:mstns="http://tempuri.org/DSGSTMaster.xsd" xmlns="http://tempuri.org/DSGSTMaster.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSGSTMaster" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSGSTMaster" msprop:Generator_DataSetName="DSGSTMaster">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BRCD" msprop:Generator_ColumnVarNameInTable="columnBRCD" msprop:Generator_ColumnPropNameInRow="BRCD" msprop:Generator_ColumnPropNameInTable="BRCDColumn" msprop:Generator_UserColumnName="BRCD" type="xs:string" minOccurs="0" />
+              <xs:element name="MIDNAME" msprop:Generator_ColumnVarNameInTable="columnMIDNAME" msprop:Generator_ColumnPropNameInRow="MIDNAME" msprop:Generator_ColumnPropNameInTable="MIDNAMEColumn" msprop:Generator_UserColumnName="MIDNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="EFFECTDATE" msprop:Generator_ColumnVarNameInTable="columnEFFECTDATE" msprop:Generator_ColumnPropNameInRow="EFFECTDATE" msprop:Generator_ColumnPropNameInTable="EFFECTDATEColumn" msprop:Generator_UserColumnName="EFFECTDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="GST" msprop:Generator_ColumnVarNameInTable="columnGST" msprop:Generator_ColumnPropNameInRow="GST" msprop:Generator_ColumnPropNameInTable="GSTColumn" msprop:Generator_UserColumnName="GST" type="xs:string" minOccurs="0" />
+              <xs:element name="PRDCD" msprop:Generator_ColumnVarNameInTable="columnPRDCD" msprop:Generator_ColumnPropNameInRow="PRDCD" msprop:Generator_ColumnPropNameInTable="PRDCDColumn" msprop:Generator_UserColumnName="PRDCD" type="xs:string" minOccurs="0" />
+              <xs:element name="GLNAMEG" msprop:Generator_ColumnVarNameInTable="columnGLNAMEG" msprop:Generator_ColumnPropNameInRow="GLNAMEG" msprop:Generator_ColumnPropNameInTable="GLNAMEGColumn" msprop:Generator_UserColumnName="GLNAMEG" type="xs:string" minOccurs="0" />
+              <xs:element name="CGST" msprop:Generator_ColumnVarNameInTable="columnCGST" msprop:Generator_ColumnPropNameInRow="CGST" msprop:Generator_ColumnPropNameInTable="CGSTColumn" msprop:Generator_UserColumnName="CGST" type="xs:string" minOccurs="0" />
+              <xs:element name="CGSTPRDCD" msprop:Generator_ColumnVarNameInTable="columnCGSTPRDCD" msprop:Generator_ColumnPropNameInRow="CGSTPRDCD" msprop:Generator_ColumnPropNameInTable="CGSTPRDCDColumn" msprop:Generator_UserColumnName="CGSTPRDCD" type="xs:string" minOccurs="0" />
+              <xs:element name="GLNAMEC" msprop:Generator_ColumnVarNameInTable="columnGLNAMEC" msprop:Generator_ColumnPropNameInRow="GLNAMEC" msprop:Generator_ColumnPropNameInTable="GLNAMECColumn" msprop:Generator_UserColumnName="GLNAMEC" type="xs:string" minOccurs="0" />
+              <xs:element name="SGST" msprop:Generator_ColumnVarNameInTable="columnSGST" msprop:Generator_ColumnPropNameInRow="SGST" msprop:Generator_ColumnPropNameInTable="SGSTColumn" msprop:Generator_UserColumnName="SGST" type="xs:string" minOccurs="0" />
+              <xs:element name="SGSTPRDCD" msprop:Generator_ColumnVarNameInTable="columnSGSTPRDCD" msprop:Generator_ColumnPropNameInRow="SGSTPRDCD" msprop:Generator_ColumnPropNameInTable="SGSTPRDCDColumn" msprop:Generator_UserColumnName="SGSTPRDCD" type="xs:string" minOccurs="0" />
+              <xs:element name="GLNAMES" msprop:Generator_ColumnVarNameInTable="columnGLNAMES" msprop:Generator_ColumnPropNameInRow="GLNAMES" msprop:Generator_ColumnPropNameInTable="GLNAMESColumn" msprop:Generator_UserColumnName="GLNAMES" type="xs:string" minOccurs="0" />
+              <xs:element name="USERNAME" msprop:Generator_ColumnVarNameInTable="columnUSERNAME" msprop:Generator_ColumnPropNameInRow="USERNAME" msprop:Generator_ColumnPropNameInTable="USERNAMEColumn" msprop:Generator_UserColumnName="USERNAME" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

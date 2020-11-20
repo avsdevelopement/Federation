@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="LienMarkReportDs" targetNamespace="http://tempuri.org/LienMarkReportDs.xsd" xmlns:mstns="http://tempuri.org/LienMarkReportDs.xsd" xmlns="http://tempuri.org/LienMarkReportDs.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="ocbs" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ocbs (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.ocbs.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="LienMarkReportDs" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="LienMarkReportDs" msprop:Generator_UserDSName="LienMarkReportDs">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DepCustNo" msprop:Generator_ColumnVarNameInTable="columnDepCustNo" msprop:Generator_ColumnPropNameInRow="DepCustNo" msprop:Generator_ColumnPropNameInTable="DepCustNoColumn" msprop:Generator_UserColumnName="DepCustNo" type="xs:string" minOccurs="0" />
+              <xs:element name="DepositGlCode" msprop:Generator_ColumnVarNameInTable="columnDepositGlCode" msprop:Generator_ColumnPropNameInRow="DepositGlCode" msprop:Generator_ColumnPropNameInTable="DepositGlCodeColumn" msprop:Generator_UserColumnName="DepositGlCode" type="xs:string" minOccurs="0" />
+              <xs:element name="DPNAME" msprop:Generator_ColumnVarNameInTable="columnDPNAME" msprop:Generator_ColumnPropNameInRow="DPNAME" msprop:Generator_ColumnPropNameInTable="DPNAMEColumn" msprop:Generator_UserColumnName="DPNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="DepositAccNo" msprop:Generator_ColumnVarNameInTable="columnDepositAccNo" msprop:Generator_ColumnPropNameInRow="DepositAccNo" msprop:Generator_ColumnPropNameInTable="DepositAccNoColumn" msprop:Generator_UserColumnName="DepositAccNo" type="xs:string" minOccurs="0" />
+              <xs:element name="DACCNAME" msprop:Generator_ColumnVarNameInTable="columnDACCNAME" msprop:Generator_ColumnPropNameInRow="DACCNAME" msprop:Generator_ColumnPropNameInTable="DACCNAMEColumn" msprop:Generator_UserColumnName="DACCNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="DepositAmt" msprop:Generator_ColumnVarNameInTable="columnDepositAmt" msprop:Generator_ColumnPropNameInRow="DepositAmt" msprop:Generator_ColumnPropNameInTable="DepositAmtColumn" msprop:Generator_UserColumnName="DepositAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="DepOpenDate" msprop:Generator_ColumnVarNameInTable="columnDepOpenDate" msprop:Generator_ColumnPropNameInRow="DepOpenDate" msprop:Generator_ColumnPropNameInTable="DepOpenDateColumn" msprop:Generator_UserColumnName="DepOpenDate" type="xs:string" minOccurs="0" />
+              <xs:element name="LoanGlCode" msprop:Generator_ColumnVarNameInTable="columnLoanGlCode" msprop:Generator_ColumnPropNameInRow="LoanGlCode" msprop:Generator_ColumnPropNameInTable="LoanGlCodeColumn" msprop:Generator_UserColumnName="LoanGlCode" type="xs:string" minOccurs="0" />
+              <xs:element name="LGLNAME" msprop:Generator_ColumnVarNameInTable="columnLGLNAME" msprop:Generator_ColumnPropNameInRow="LGLNAME" msprop:Generator_ColumnPropNameInTable="LGLNAMEColumn" msprop:Generator_UserColumnName="LGLNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="LoanAccNo" msprop:Generator_ColumnVarNameInTable="columnLoanAccNo" msprop:Generator_ColumnPropNameInRow="LoanAccNo" msprop:Generator_ColumnPropNameInTable="LoanAccNoColumn" msprop:Generator_UserColumnName="LoanAccNo" type="xs:string" minOccurs="0" />
+              <xs:element name="LACCNAME" msprop:Generator_ColumnVarNameInTable="columnLACCNAME" msprop:Generator_ColumnPropNameInRow="LACCNAME" msprop:Generator_ColumnPropNameInTable="LACCNAMEColumn" msprop:Generator_UserColumnName="LACCNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="LoanAmt" msprop:Generator_ColumnVarNameInTable="columnLoanAmt" msprop:Generator_ColumnPropNameInRow="LoanAmt" msprop:Generator_ColumnPropNameInTable="LoanAmtColumn" msprop:Generator_UserColumnName="LoanAmt" type="xs:string" minOccurs="0" />
+              <xs:element name="ENTRYDATE" msprop:Generator_ColumnVarNameInTable="columnENTRYDATE" msprop:Generator_ColumnPropNameInRow="ENTRYDATE" msprop:Generator_ColumnPropNameInTable="ENTRYDATEColumn" msprop:Generator_UserColumnName="ENTRYDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="SanctionDate" msprop:Generator_ColumnVarNameInTable="columnSanctionDate" msprop:Generator_ColumnPropNameInRow="SanctionDate" msprop:Generator_ColumnPropNameInTable="SanctionDateColumn" msprop:Generator_UserColumnName="SanctionDate" type="xs:string" minOccurs="0" />
+              <xs:element name="balance" msprop:Generator_ColumnVarNameInTable="columnbalance" msprop:Generator_ColumnPropNameInRow="balance" msprop:Generator_ColumnPropNameInTable="balanceColumn" msprop:Generator_UserColumnName="balance" type="xs:string" minOccurs="0" />
+              <xs:element name="overdue" msprop:Generator_ColumnVarNameInTable="columnoverdue" msprop:Generator_ColumnPropNameInRow="overdue" msprop:Generator_ColumnPropNameInTable="overdueColumn" msprop:Generator_UserColumnName="overdue" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

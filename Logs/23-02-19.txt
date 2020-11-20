@@ -1,0 +1,52 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  23/02/2019 11:08:43 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 23/02/2019 11:08:43 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index-----------------
+-----------Exception Details on  23/02/2019 11:15:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 23/02/2019 11:15:05 AM
+
+Error Line No : http://localhost:18072/CBSCORENEW/FrmDayClosed.aspx
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ Error Page Url: get_Item
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

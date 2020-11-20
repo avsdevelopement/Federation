@@ -1,0 +1,3921 @@
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 10:08:15 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:08:15 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:08:28 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:08:28 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0175'.-----------------
+-----------Exception Details on  22/06/2019 10:08:28 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:08:28 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0175'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 10:18:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:18:05 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:18:11 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:18:11 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0175'.-----------------
+-----------Exception Details on  22/06/2019 10:18:11 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:18:11 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0175'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 10:20:49 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:20:49 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0175'.-----------------
+-----------Exception Details on  22/06/2019 10:23:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:23:21 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0175'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RECSRNO'.-----------------
+-----------Exception Details on  22/06/2019 10:26:20 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:26:20 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RECSRNO'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RECSRNO'.-----------------
+-----------Exception Details on  22/06/2019 10:26:25 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:26:25 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RECSRNO'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Invalid column name 'RECSRNO'.-----------------
+-----------Exception Details on  22/06/2019 10:26:51 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:26:51 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'RECSRNO'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:31:36 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:31:36 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:31:38 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:31:38 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:31:56 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:31:56 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:34:10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:34:10 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:35:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:35:31 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 10:35:39 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:35:39 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: productcd
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:39:03 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:39:03 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:39:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:39:05 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 10:39:14 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:39:14 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:41:10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:41:10 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 10:41:11 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:41:11 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:41:11 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:41:11 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:43:12 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:43:12 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:43:17 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:43:17 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDACBS2.aspx?FrmTDACBS2.aspx?encrypt=&op=AD&FL=N&P=00&A=00
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'Isp_RenewAutoCheck'.-----------------
+-----------Exception Details on  22/06/2019 10:43:24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:43:24 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDACBS2.aspx?FrmTDACBS2.aspx%3fencrypt=&op=AD&FL=N&P=00&A=00
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'Isp_RenewAutoCheck'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 10:44:28 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:44:28 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDACBS2.aspx?FrmTDACBS2.aspx%3fencrypt=&op=AD&FL=N&P=00&A=00
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: FillData_RecSrno
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 10:45:10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:45:10 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 10:45:16 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:45:16 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 10:45:25 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:45:25 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Conversion failed when converting the varchar value '2019-06-01' to data type int.-----------------
+-----------Exception Details on  22/06/2019 10:45:35 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:45:35 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmAuthorizeCR.aspx?FrmAuthorizeCR.aspx?encrypt=&Flag=AT&VN=37&SN=1
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Conversion failed when converting the varchar value '2019-06-01' to data type int.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:46:51 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:46:51 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 10:48:24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:48:24 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:48:46 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:48:46 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 10:52:35 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:52:35 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:55:10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:55:10 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDACBS2.aspx?FrmTDACBS2.aspx?encrypt=&op=AD&FL=N&P=00&A=00
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'Isp_RenewAutoCheck'.-----------------
+-----------Exception Details on  22/06/2019 10:55:16 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:55:16 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDACBS2.aspx?FrmTDACBS2.aspx%3fencrypt=&op=AD&FL=N&P=00&A=00
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'Isp_RenewAutoCheck'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 10:55:20 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:55:20 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDACBS2.aspx?FrmTDACBS2.aspx%3fencrypt=&op=AD&FL=N&P=00&A=00
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: FillData_RecSrno
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 10:56:54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:56:54 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmCashReceipt.aspx?FrmCashReceipt.aspx%3fencrypt=&FL=N&P=00&A=00
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 10:57:10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:57:10 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 10:57:23 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:57:23 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Conversion failed when converting the varchar value '2019-06-01' to data type int.-----------------
+-----------Exception Details on  22/06/2019 10:57:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:57:41 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmAuthorizeCR.aspx?FrmAuthorizeCR.aspx?encrypt=&Flag=AT&VN=39&SN=1
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Conversion failed when converting the varchar value '2019-06-01' to data type int.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 10:58:11 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 10:58:11 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 11:04:11 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:04:11 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 11:04:12 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:04:12 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 11:04:15 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:04:15 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 11:06:18 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:06:18 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 11:06:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:06:21 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 11:06:30 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:06:30 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 11:07:49 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:07:49 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 11:13:16 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:13:16 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 11:14:19 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:14:19 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDACBS2.aspx?FrmTDACBS2.aspx?encrypt=&op=AD&FL=N&P=00&A=00
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'Isp_RenewAutoCheck'.-----------------
+-----------Exception Details on  22/06/2019 11:14:26 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:14:26 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDACBS2.aspx?FrmTDACBS2.aspx%3fencrypt=&op=AD&FL=N&P=00&A=00
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'Isp_RenewAutoCheck'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 11:14:29 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:14:29 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDACBS2.aspx?FrmTDACBS2.aspx%3fencrypt=&op=AD&FL=N&P=00&A=00
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: FillData_RecSrno
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 11:15:25 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:15:25 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 11:16:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:16:31 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmMultiTransaction.aspx
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'SUBGLCODE ' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 11:17:25 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:17:25 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmCashReceipt.aspx?FrmCashReceipt.aspx%3fencrypt=&FL=N&P=00&A=00
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'SUBGLCODE ' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 11:17:36 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:17:36 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmLogin.aspx?FrmLogin.aspx?encrypt=&FL=LO
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Logout
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 11:18:06 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:18:06 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Conversion failed when converting the varchar value '2019-06-01' to data type int.-----------------
+-----------Exception Details on  22/06/2019 11:18:18 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:18:18 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmAuthorizeCR.aspx?FrmAuthorizeCR.aspx?encrypt=&Flag=AT&VN=41&SN=1
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Conversion failed when converting the varchar value '2019-06-01' to data type int.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 11:18:47 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:18:47 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 11:21:29 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:21:29 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 11:26:51 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:26:51 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 11:38:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:38:41 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: LogDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 11:38:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:38:41 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 11:38:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:38:41 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: PageLoad
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 11:45:30 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:45:30 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 11:45:39 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:45:39 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 11:47:47 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:47:47 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 11:51:24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:51:24 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: LogDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 11:51:24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:51:24 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 11:51:24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:51:24 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: PageLoad
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 11:51:36 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:51:36 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 11:51:40 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:51:40 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 11:53:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:53:21 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 11:58:24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 11:58:24 AM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 12:00:04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 12:00:04 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'Isp_RenewAutoCheck'.-----------------
+-----------Exception Details on  22/06/2019 12:00:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 12:00:29 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDARenewNCBS2New.aspx?FrmTDARenewNCBS2New.aspx%3fencrypt=&RS=3&IPostType=NOR&MS=N&TPAMT=1000&FD=9295&PRD=312&FDP=312&CT=9295&DAMT=0&ACCT=1&OPRTYPE=1&INTPAY=0&IR=3012&REFID=95&ADFEE=0&ADSBGL=0&COMMCHG=0&COMMSBGL=0&GLC=5
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'Isp_RenewAutoCheck'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  @RecSrno is not a parameter for procedure SP_FDTEMPDATA.-----------------
+-----------Exception Details on  22/06/2019 12:00:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 12:00:30 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDARenewNCBS2New.aspx?FrmTDARenewNCBS2New.aspx%3fencrypt=&RS=3&IPostType=NOR&MS=N&TPAMT=1000&FD=9295&PRD=312&FDP=312&CT=9295&DAMT=0&ACCT=1&OPRTYPE=1&INTPAY=0&IR=3012&REFID=95&ADFEE=0&ADSBGL=0&COMMCHG=0&COMMSBGL=0&GLC=5
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RecSrno is not a parameter for procedure SP_FDTEMPDATA.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  @RecSrno is not a parameter for procedure SP_FDTEMPDATA.-----------------
+-----------Exception Details on  22/06/2019 12:00:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 12:00:30 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDARenewNCBS2New.aspx?FrmTDARenewNCBS2New.aspx%3fencrypt=&RS=3&IPostType=NOR&MS=N&TPAMT=1000&FD=9295&PRD=312&FDP=312&CT=9295&DAMT=0&ACCT=1&OPRTYPE=1&INTPAY=0&IR=3012&REFID=95&ADFEE=0&ADSBGL=0&COMMCHG=0&COMMSBGL=0&GLC=5
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RecSrno is not a parameter for procedure SP_FDTEMPDATA.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  @RecSrno is not a parameter for procedure SP_FDTEMPDATA.-----------------
+-----------Exception Details on  22/06/2019 12:00:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 12:00:46 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDARenewNCBS2New.aspx?FrmTDARenewNCBS2New.aspx%3fencrypt=&RS=3&IPostType=NOR&MS=N&TPAMT=1000&FD=9295&PRD=312&FDP=312&CT=9295&DAMT=0&ACCT=1&OPRTYPE=1&INTPAY=0&IR=3012&REFID=95&ADFEE=0&ADSBGL=0&COMMCHG=0&COMMSBGL=0&GLC=5
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RecSrno is not a parameter for procedure SP_FDTEMPDATA.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 12:10:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 12:10:40 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx?encrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  A field or property with the name 'IntrOnSchedule' was not found on the selected data source.-----------------
+-----------Exception Details on  22/06/2019 12:12:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 12:12:47 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.aspx?frmTDAClearCBS2.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'IntrOnSchedule' was not found on the selected data source.
+
+ Error Page Url: TryGetSimplePropertyValue
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Thread was being aborted.-----------------
+-----------Exception Details on  22/06/2019 12:32:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 12:32:18 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmTDACBS2.aspx?FrmTDACBS2.aspx?encrypt=&op=AD&FL=N&P=00&A=00
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: AbortInternal
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 1:19:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:19:30 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 1:20:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:20:58 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 1:20:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:20:58 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function DepositeClousureState has too many arguments specified.-----------------
+-----------Exception Details on  22/06/2019 1:27:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:27:15 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function DepositeClousureState has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 1:27:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:27:50 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 1:27:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:27:51 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 1:31:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:31:28 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 1:31:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:31:28 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function DepositeClousureState has too many arguments specified.-----------------
+-----------Exception Details on  22/06/2019 1:31:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:31:48 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function DepositeClousureState has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'ddlIntrestPay' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  22/06/2019 1:31:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:31:48 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlIntrestPay' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedIndex
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 1:31:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:31:48 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 1:31:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:31:48 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 1:33:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:33:32 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 1:33:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:33:32 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function DepositeClousureState has too many arguments specified.-----------------
+-----------Exception Details on  22/06/2019 1:34:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:34:30 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function DepositeClousureState has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'ddlIntrestPay' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  22/06/2019 1:34:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:34:30 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlIntrestPay' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedIndex
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 1:34:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:34:31 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 1:34:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:34:31 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 1:36:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:36:30 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 1:36:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:36:30 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function DepositeClousureState has too many arguments specified.-----------------
+-----------Exception Details on  22/06/2019 1:41:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:41:14 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function DepositeClousureState has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  'ddlIntrestPay' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value-----------------
+-----------Exception Details on  22/06/2019 1:41:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:41:14 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlIntrestPay' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: set_SelectedIndex
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 1:41:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:41:14 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 1:41:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:41:14 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 1:41:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:41:46 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: LogDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 1:41:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:41:46 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 1:41:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:41:46 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: PageLoad
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 1:41:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:41:58 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+ 
+ -----------------
+-----------Exception Details on  22/06/2019 1:42:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:42:14 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+ 
+ 
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+ 
+ -----------------
+-----------Exception Details on  22/06/2019 1:42:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:42:30 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClear.aspx?frmTDAClear.aspx%3fencrypt=&SUBGLCODE=&ACCNO=
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+ 
+ 
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 1:42:38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:42:38 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 1:42:38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:42:38 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function DepositeClousureState has too many arguments specified.-----------------
+-----------Exception Details on  22/06/2019 1:42:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:42:53 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function DepositeClousureState has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 1:42:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:42:54 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 1:42:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 1:42:54 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 2:45:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 2:45:07 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 5:44:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:44:45 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/FrmBlank.aspx
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: BindGrid
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 5:44:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:44:55 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 5:44:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:44:55 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function DepositeClousureState has too many arguments specified.-----------------
+-----------Exception Details on  22/06/2019 5:45:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:45:08 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function DepositeClousureState has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 5:45:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:45:10 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 5:45:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:45:10 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 5:46:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:46:09 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 5:46:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:46:09 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function DepositeClousureState has too many arguments specified.-----------------
+-----------Exception Details on  22/06/2019 5:46:25 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:46:25 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function DepositeClousureState has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 5:46:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:46:26 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 5:46:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:46:26 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 5:46:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:46:39 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 5:46:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:46:39 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function DepositeClousureState has too many arguments specified.-----------------
+-----------Exception Details on  22/06/2019 5:48:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:48:15 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function DepositeClousureState has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 5:48:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:48:16 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.-----------------
+-----------Exception Details on  22/06/2019 5:48:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:48:16 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function RptTDSDetails has too many arguments specified.
+Invalid object name 'TDS_PROJECTION'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 5:58:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:58:08 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 5:58:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:58:08 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function DepositeClousureState has too many arguments specified.-----------------
+-----------Exception Details on  22/06/2019 5:58:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:58:22 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function DepositeClousureState has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  @RecSrno is not a parameter for procedure Isp_AVS0013.-----------------
+-----------Exception Details on  22/06/2019 5:58:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:58:22 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RecSrno is not a parameter for procedure Isp_AVS0013.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 5:58:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:58:22 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: CalculateINT
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  22/06/2019 5:58:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:58:22 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  22/06/2019 5:58:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:58:22 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function DepositeClousureState has too many arguments specified.-----------------
+-----------Exception Details on  22/06/2019 5:59:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:59:49 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function DepositeClousureState has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  @RecSrno is not a parameter for procedure Isp_AVS0013.-----------------
+-----------Exception Details on  22/06/2019 5:59:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:59:49 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RecSrno is not a parameter for procedure Isp_AVS0013.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 5:59:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:59:49 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: CalculateINT
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  22/06/2019 5:59:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:59:49 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  22/06/2019 5:59:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:59:51 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Could not find stored procedure 'ISP_AVS0192'.-----------------
+-----------Exception Details on  22/06/2019 5:59:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:59:55 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'ISP_AVS0192'.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 5:59:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 5:59:55 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: Page_Load
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Procedure or function DepositeClousureState has too many arguments specified.-----------------
+-----------Exception Details on  22/06/2019 6:00:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 6:00:07 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function DepositeClousureState has too many arguments specified.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  @RecSrno is not a parameter for procedure Isp_AVS0013.-----------------
+-----------Exception Details on  22/06/2019 6:00:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 6:00:07 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RecSrno is not a parameter for procedure Isp_AVS0013.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Object reference not set to an instance of an object.-----------------
+-----------Exception Details on  22/06/2019 6:00:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 6:00:07 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: CalculateINT
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  22/06/2019 6:00:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 6:00:07 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  Error converting data type varchar to float.-----------------
+-----------Exception Details on  22/06/2019 6:00:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 22/06/2019 6:00:08 PM
+
+Error Line No : http://localhost:13230/CBSCORENEW/frmTDAClearCBS2.ASPX
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Error converting data type varchar to float.
+
+ Error Page Url: OnError
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
